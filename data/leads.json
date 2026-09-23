@@ -1,0 +1,70 @@
+[
+  {
+    "id": "trattoria-ca-vecchia-carre",
+    "name": "Trattoria Ca' Vecchia",
+    "sector": "Ristorazione (trattoria)",
+    "comune": "Carrè (VI)",
+    "channel": "Facebook",
+    "contactLabel": "Pagina Facebook",
+    "contactValue": "https://www.facebook.com/pages/Trattoria-Ca-Vecchia/1044657649039276",
+    "demoUrl": "https://claude.ai/artifact/4iM9eTbMMBs55LhQyHYHz2",
+    "messageA": "Ciao! Sono Federico, creo siti per ristoranti. A Carre si parla dei vostri bigoli all'anatra e dei piatti raccontati a voce, senza menu - un tocco genuino che però su Google resta invisibile. Ho già pronta un'anteprima del vostro sito: ti va una chiamata di 10-15 minuti per vederla? Se non ti interessa fammelo sapere, non ti scrivo più.",
+    "messageB": "Ciao! Sono Federico, creo siti per ristoranti. So che d'estate la terrazza della Ca' Vecchia si riempie per le serate con musica, con vista sulla bassa vicentina - una bella carta che però online non si vede. Ho già pronta un'anteprima del sito: ti va una chiamata di 10-15 minuti per vederla? Se non ti interessa fammelo sapere, non ti scrivo più.",
+    "sources": [
+      "https://www.tripadvisor.com/Restaurant_Review-g1972583-d3205823-Reviews-Trattoria_Ca_Vecchia-Carre_Province_of_Vicenza_Veneto.html",
+      "https://www.sluurpy.it/carre/ristorante/77242/trattoria-ca-vecchia",
+      "https://restaurantguru.com/Trattoria-Ca-Vecchia-Italy",
+      "https://m.yelp.com/biz/trattoria-ca-vecchia-carr%C3%A9",
+      "https://gastroranking.it/r/trattoria-ca-vecchia_216080/",
+      "https://www.facebook.com/pages/Trattoria-Ca-Vecchia/1044657649039276"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "Il messaggio va inviato manualmente tramite Messenger/messaggi della pagina Facebook, perché non esiste un'email verificata su fonte affidabile e non è disponibile un metodo automatizzato per inviare DM Facebook da questo contesto.",
+    "createdAt": "2026-09-23T15:49:16Z",
+    "updatedAt": "2026-09-23T15:49:16Z"
+  },
+  {
+    "id": "le-figaro-parrucchieri-zane",
+    "name": "Le Figaro Parrucchieri di Balasso Antonio",
+    "sector": "Parrucchiere (salone uomo/donna)",
+    "comune": "Zanè (VI)",
+    "channel": "telefono-whatsapp",
+    "contactLabel": "Cellulare (WhatsApp)",
+    "contactValue": "328 8893030",
+    "demoUrl": "https://claude.ai/artifact/FcRrofBVNMQanNVghJZ4cw",
+    "messageA": "Ciao Antonio, Le Figaro è a Zanè dal 1992 e tu sei stato anche formatore per aziende cosmetiche, ma online non si vede. Ho già pronta un'anteprima di un sito per farti trovare su Google da chi cerca un parrucchiere. Ti va una chiamata di 10-15 minuti per vederla? Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageB": "Ciao Antonio, ho visto che Le Figaro cura anche acconciature per spose e cerimonie, oltre al lavoro di ogni giorno a Zanè. Ho già pronta un'anteprima di un sito pensato per far arrivare queste clienti anche da Google. Ti va una chiamata di 10-15 minuti per vederla insieme? Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "sources": [
+      "https://www.facebook.com/lefigaro.antoniobalasso/?locale=it_IT",
+      "https://www.treatwell.it/salone/le-figaro-parrucchieri/",
+      "https://lefigaroparrucchieri.business.site/",
+      "https://www.misterimprese.it/veneto/vicenza/zane-/parrucchieri-per-uomo/767609.html",
+      "https://www.reteimprese.it/parrucchieri/zan%C3%A8/azienda/3082462"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "Nessun tool di invio WhatsApp è collegato a questa sessione: il messaggio va inviato manualmente dal telefono del freelance al numero indicato (canale di riserva: DM alla pagina Facebook, anch'esso manuale).",
+    "createdAt": "2026-09-23T15:49:16Z",
+    "updatedAt": "2026-09-23T15:49:16Z"
+  },
+  {
+    "id": "termoidraulica-guglielmi-marano-vicentino",
+    "name": "Termoidraulica Guglielmi",
+    "sector": "Termoidraulica",
+    "comune": "Marano Vicentino (VI)",
+    "channel": "telefono (chiamata diretta)",
+    "contactLabel": "Telefono fisso",
+    "contactValue": "0445 622370",
+    "demoUrl": "https://claude.ai/artifact/Q9JYuBbmSMu6D8ucgHLwXe",
+    "messageA": "Salve, faccio siti web per attività locali. Ho visto che la Termoidraulica Guglielmi a Marano Vicentino la manda avanti lei da solo: oggi chi cerca un idraulico qui vicino guarda prima su Google, senza sito rischia di non trovarvi. Ho già pronta un'anteprima del sito da mostrarle, bastano 10-15 minuti quando vuole. Se non interessa me lo dica, non la disturbo più.",
+    "messageB": "Salve, mi occupo di siti web per attività di Marano Vicentino. Ho visto che la Termoidraulica Guglielmi non ha ancora un sito né una pagina social: chi ha un problema idraulico oggi cerca prima online, rischiando di finire dal concorrente. Ho già pronta un'anteprima del sito, mi piacerebbe mostrargliela: bastano 10-15 minuti, come preferisce. Se non interessa me lo dica, non la disturbo più.",
+    "sources": [
+      "https://www.paginemail.it/termoidraulica-guglielmi.html",
+      "https://www.paginebianche.it/veneto/marano-vicentino/termoidraulica.html",
+      "https://www.empresite.it/TERMOIDRAULICA-GUGLIELMI-DI-GUGLIELMI-MASSIMILIANO.html"
+    ],
+    "confidence": "medio",
+    "manualChannelNote": "Va contattato esclusivamente per telefono (chiamata diretta) al numero fisso 0445 622370, non automatizzabile; nessuna email o social trovati. Numero con confidenza media (fonte aggregata non verificata con certezza): verificare l'identità a voce prima di procedere con il discorso commerciale.",
+    "createdAt": "2026-09-23T15:49:16Z",
+    "updatedAt": "2026-09-23T15:49:16Z"
+  }
+]
