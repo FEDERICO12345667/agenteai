@@ -8,8 +8,8 @@
     "contactLabel": "Telefono",
     "contactValue": "0445 641287",
     "demoUrl": "https://claude.ai/artifact/UgcXDS9BidergRkUmJa9Y1",
-    "messageA": "Buongiorno, sono Federico, realizzo siti web per attività della zona. Ho visto che Comparin Sergio Impianti Elettrici lavora da anni a Santorso con aziende ed enti, ma online trovo solo le schede sulle directory e nessun sito vostro. Ho già pronta un'anteprima di un sito su misura: le va di vederla insieme, 10-15 minuti, di persona o in videochiamata? Se non interessa me lo dica pure, non la disturbo più.",
-    "messageB": "Buongiorno, sono Federico, mi occupo di siti web per attività artigiane e tecniche. Chi cerca un elettricista in zona oggi guarda prima su Google, e voi lavorate anche con enti pubblici e aziende: un sito serio darebbe più credibilità di una semplice scheda su PagineGialle. Ho già pronta un'anteprima da mostrarle, bastano 10-15 minuti quando preferisce. Se non interessa me lo dica, non la richiamo più.",
+    "messageA": "Buongiorno, sono Federico, realizzo siti web per attività della zona. Ho visto che Comparin Sergio Impianti Elettrici lavora da anni a Santorso con aziende ed enti, ma online trovo solo le schede sulle directory e nessun sito vostro. Ho già pronta un'anteprima di un sito su misura: le va se passo da voi 10-15 minuti, quando le fa comodo, a mostrargliela sul portatile? Se non interessa me lo dica pure, non la disturbo più.",
+    "messageB": "Buongiorno, sono Federico, mi occupo di siti web per attività artigiane e tecniche. Chi cerca un elettricista in zona oggi guarda prima su Google, e voi lavorate anche con enti pubblici e aziende: un sito serio darebbe più credibilità di una semplice scheda su PagineGialle. Ho già pronta un'anteprima: posso passare da voi 10-15 minuti, nel giorno e all'ora che preferisce, a fargliela vedere di persona? Se non interessa me lo dica, non la disturbo più.",
     "sources": [
       "https://www.paginegialle.it/impianti-elettrici-comparin-sergio-santorso",
       "https://www.paginebianche.it/comparinsergioimpiantielettrici-santorso",
@@ -18,7 +18,7 @@
     ],
     "manualChannelNote": "Solo telefono fisso trovato (0445 641287), nessuna email o social verificati: non supporta WhatsApp/SMS affidabile, serve una chiamata telefonica diretta per il primo contatto.",
     "createdAt": "2026-09-15T18:43:30Z",
-    "updatedAt": "2026-09-24T10:00:00Z"
+    "updatedAt": "2026-09-24T12:00:00Z"
   },
   {
     "id": "officina-meccanica-mendo-mariano-marano-vicentino",
@@ -29,17 +29,17 @@
     "contactLabel": "Telefono",
     "contactValue": "0445 622143",
     "demoUrl": "https://claude.ai/artifact/JP45Wk98UawgGLgCHUX3jp",
-    "messageA": "Buongiorno, sono Federico, realizzo siti per attività artigiane della zona. Ho visto che l'Officina Mendo Mariano, in Via del Progresso a Marano Vicentino, è una realtà familiare ma online non si trova: niente sito, solo le schede sulle directory. Ho già pronta un'anteprima di un sito per voi: le va di vederla insieme, 10-15 minuti, di persona o in videochiamata? Se non interessa me lo dica, non la disturbo più.",
-    "messageB": "Buongiorno, sono Federico, faccio siti web per piccole officine della zona. Chi cerca un meccanico a Marano Vicentino oggi lo cerca su Google, e dell'Officina Mendo Mariano online c'è solo il numero fisso: rischiate di far trovare il concorrente. Ho già pronta un'anteprima di un sito su misura, mi piacerebbe mostrargliela in 10-15 minuti, come preferisce. Se non interessa me lo dica, non la richiamo più.",
+    "messageA": "Buongiorno, sono Federico, realizzo siti per attività artigiane della zona. Ho visto che l'Officina Mendo Mariano, in Via del Progresso a Marano Vicentino, è una realtà familiare ma online non si trova: niente sito, solo le schede sulle directory. Ho già pronta un'anteprima di un sito per voi: le va se passo in officina 10-15 minuti, quando c'è meno lavoro, a mostrargliela sul portatile? Se non interessa me lo dica, non la disturbo più.",
+    "messageB": "Buongiorno, sono Federico, faccio siti web per piccole officine della zona. Chi cerca un meccanico a Marano Vicentino oggi lo cerca su Google, e dell'Officina Mendo Mariano online c'è solo il numero fisso: rischiate di far trovare il concorrente. Ho già pronta un'anteprima di un sito su misura: posso passare da voi 10-15 minuti, nel giorno e all'ora che le fanno comodo, a fargliela vedere di persona? Se non interessa me lo dica, non la disturbo più.",
     "sources": [
       "https://www.paginegialle.it/marano-vicentino-vi/officina/officina-meccanica-mendo-mariano-c.",
       "https://www.paginebianche.it/marano-vicentino/officina-meccanica-mendo-mariano-c.625642",
       "https://yelp.com/biz/officina-meccanica-di-mendo-mariano-marano-vicentino",
       "https://www.cylex-italia.it/marano-vicentino/officina-meccanica-di-mendo-mariano-e-c--s-n-c---9040202.html"
     ],
-    "manualChannelNote": "Solo telefono fisso trovato (0445 622143), nessuna email o social: non supporta WhatsApp/SMS affidabile, serve una chiamata telefonica diretta. Suggerito chiedere email o cellulare durante la chiamata per inviare il link per iscritto.",
+    "manualChannelNote": "Solo telefono fisso trovato (0445 622143), nessuna email o social: non supporta WhatsApp/SMS affidabile, serve una telefonata per il primo contatto. Obiettivo della telefonata: fissare giorno e ora per passare di persona in officina.",
     "createdAt": "2026-09-15T18:43:30Z",
-    "updatedAt": "2026-09-24T10:00:00Z"
+    "updatedAt": "2026-09-24T12:00:00Z"
   },
   {
     "id": "estetica-limbios-piovene-rocchette",
@@ -50,8 +50,8 @@
     "contactLabel": "Facebook",
     "contactValue": "facebook.com/EsteticaLimbios/",
     "demoUrl": "https://claude.ai/artifact/9RZ11GmqD3jU9HzSZeQZHj",
-    "messageA": "Ciao Paola! Sono Federico, creo siti web per attività della zona. Ho visto la pagina di Estetica Limbios: oltre 20 anni di esperienza e tante clienti affezionate, complimenti. Chi cerca \"estetista Piovene Rocchette\" su Google però non vi trova, perché non avete un sito. Ho già pronta un'anteprima del sito: ti va una chiamata di 10-15 minuti per vederla? Se non ti interessa fammelo sapere e non ti scrivo più.",
-    "messageB": "Ciao Paola! Sono Federico, realizzo siti web per attività di Piovene Rocchette e dintorni. Su Facebook e Instagram si vede quanto le clienti di Estetica Limbios vi stimano, ma chi non vi conosce ancora online non trova nulla. Ho già pronta un'anteprima di un sito per voi: ti va una chiamata di 10-15 minuti per vederla insieme? Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageA": "Ciao Paola! Sono Federico, creo siti web per attività della zona. Ho visto la pagina di Estetica Limbios: oltre 20 anni di esperienza e tante clienti affezionate, complimenti. Chi cerca \"estetista Piovene Rocchette\" su Google però non vi trova, perché non avete un sito. Ho già pronta un'anteprima: ti va se passo da te 10-15 minuti, quando hai un momento libero, a fartela vedere sul portatile? Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageB": "Ciao Paola! Sono Federico, realizzo siti web per attività di Piovene Rocchette e dintorni. Su Facebook e Instagram si vede quanto le clienti di Estetica Limbios vi stimano, ma chi non vi conosce ancora online non trova nulla. Ho già pronta un'anteprima di un sito per voi: posso passare da te 10-15 minuti, nel giorno e all'ora che preferisci, a mostrartela di persona? Se non ti interessa fammelo sapere e non ti scrivo più.",
     "sources": [
       "https://www.paginegialle.it/piovene-rocchette-vi/estetiste/estetica-limbios-di-zenari-paola_20743380",
       "https://www.paginebianche.it/esteticalimbiosdizenaripaola-piovenerocchette",
@@ -62,7 +62,7 @@
     ],
     "manualChannelNote": "Invio via Messenger da fare manualmente (nessuna API pubblica senza credenziali) da un account Facebook/Instagram; un messaggio da un account che non segue già la pagina spesso finisce nella cartella \"Richieste di messaggio\" invece che nella inbox principale, quindi va ricontrollato dopo qualche giorno. Email di backup trovata (esteticalimbios@gmail.com) ma non verificata direttamente.",
     "createdAt": "2026-09-15T18:43:30Z",
-    "updatedAt": "2026-09-24T10:00:00Z"
+    "updatedAt": "2026-09-24T12:00:00Z"
   },
   {
     "id": "trattoria-ca-vecchia-carre",
@@ -73,8 +73,8 @@
     "contactLabel": "Pagina Facebook",
     "contactValue": "https://www.facebook.com/pages/Trattoria-Ca-Vecchia/1044657649039276",
     "demoUrl": "https://claude.ai/artifact/4iM9eTbMMBs55LhQyHYHz2",
-    "messageA": "Ciao! Sono Federico, creo siti per ristoranti. A Carre si parla dei vostri bigoli all'anatra e dei piatti raccontati a voce, senza menu - un tocco genuino che però su Google resta invisibile. Ho già pronta un'anteprima del vostro sito: ti va una chiamata di 10-15 minuti per vederla? Se non ti interessa fammelo sapere, non ti scrivo più.",
-    "messageB": "Ciao! Sono Federico, creo siti per ristoranti. So che d'estate la terrazza della Ca' Vecchia si riempie per le serate con musica, con vista sulla bassa vicentina - una bella carta che però online non si vede. Ho già pronta un'anteprima del sito: ti va una chiamata di 10-15 minuti per vederla? Se non ti interessa fammelo sapere, non ti scrivo più.",
+    "messageA": "Ciao! Sono Federico, creo siti per ristoranti. A Carrè si parla dei vostri bigoli all'anatra e dei piatti raccontati a voce, senza menu - un tocco genuino che però su Google resta invisibile. Ho già pronta un'anteprima del vostro sito: posso passare in trattoria 10-15 minuti, in un orario tranquillo, a mostrartela sul portatile? Se non ti interessa fammelo sapere, non ti scrivo più.",
+    "messageB": "Ciao! Sono Federico, creo siti per ristoranti. So che d'estate la terrazza della Ca' Vecchia si riempie per le serate con musica, con vista sulla bassa vicentina - una bella carta che però online non si vede. Ho già pronta un'anteprima del sito: posso passare da voi 10-15 minuti, in un orario tranquillo, a fartela vedere di persona? Se non ti interessa fammelo sapere, non ti scrivo più.",
     "sources": [
       "https://www.tripadvisor.com/Restaurant_Review-g1972583-d3205823-Reviews-Trattoria_Ca_Vecchia-Carre_Province_of_Vicenza_Veneto.html",
       "https://www.sluurpy.it/carre/ristorante/77242/trattoria-ca-vecchia",
@@ -86,7 +86,7 @@
     "confidence": "alto",
     "manualChannelNote": "Il messaggio va inviato manualmente tramite Messenger/messaggi della pagina Facebook, perché non esiste un'email verificata su fonte affidabile e non è disponibile un metodo automatizzato per inviare DM Facebook da questo contesto.",
     "createdAt": "2026-09-23T15:49:16Z",
-    "updatedAt": "2026-09-23T15:49:16Z"
+    "updatedAt": "2026-09-24T12:00:00Z"
   },
   {
     "id": "le-figaro-parrucchieri-zane",
@@ -97,8 +97,8 @@
     "contactLabel": "Cellulare (WhatsApp)",
     "contactValue": "328 8893030",
     "demoUrl": "https://claude.ai/artifact/FcRrofBVNMQanNVghJZ4cw",
-    "messageA": "Ciao Antonio, Le Figaro è a Zanè dal 1992 e tu sei stato anche formatore per aziende cosmetiche, ma online non si vede. Ho già pronta un'anteprima di un sito per farti trovare su Google da chi cerca un parrucchiere. Ti va una chiamata di 10-15 minuti per vederla? Se non ti interessa fammelo sapere e non ti scrivo più.",
-    "messageB": "Ciao Antonio, ho visto che Le Figaro cura anche acconciature per spose e cerimonie, oltre al lavoro di ogni giorno a Zanè. Ho già pronta un'anteprima di un sito pensato per far arrivare queste clienti anche da Google. Ti va una chiamata di 10-15 minuti per vederla insieme? Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageA": "Ciao Antonio, sono Federico. Le Figaro è a Zanè dal 1992 e tu sei stato anche formatore per aziende cosmetiche, ma online non si vede. Ho già pronta un'anteprima di un sito per farti trovare su Google da chi cerca un parrucchiere. Posso passare in salone 10-15 minuti, quando hai un momento più tranquillo, a fartela vedere sul portatile? Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageB": "Ciao Antonio, sono Federico. Ho visto che Le Figaro cura anche acconciature per spose e cerimonie, oltre al lavoro di ogni giorno a Zanè. Ho già pronta un'anteprima di un sito pensato per far arrivare queste clienti anche da Google. Posso passare in salone 10-15 minuti, nel giorno e all'ora che preferisci, a fartela vedere di persona? Se non ti interessa fammelo sapere e non ti scrivo più.",
     "sources": [
       "https://www.facebook.com/lefigaro.antoniobalasso/?locale=it_IT",
       "https://www.treatwell.it/salone/le-figaro-parrucchieri/",
@@ -109,7 +109,7 @@
     "confidence": "alto",
     "manualChannelNote": "Nessun tool di invio WhatsApp è collegato a questa sessione: il messaggio va inviato manualmente dal telefono del freelance al numero indicato (canale di riserva: DM alla pagina Facebook, anch'esso manuale).",
     "createdAt": "2026-09-23T15:49:16Z",
-    "updatedAt": "2026-09-23T15:49:16Z"
+    "updatedAt": "2026-09-24T12:00:00Z"
   },
   {
     "id": "termoidraulica-guglielmi-marano-vicentino",
@@ -120,8 +120,8 @@
     "contactLabel": "Telefono fisso",
     "contactValue": "0445 622370",
     "demoUrl": "https://claude.ai/artifact/Q9JYuBbmSMu6D8ucgHLwXe",
-    "messageA": "Salve, faccio siti web per attività locali. Ho visto che la Termoidraulica Guglielmi a Marano Vicentino la manda avanti lei da solo: oggi chi cerca un idraulico qui vicino guarda prima su Google, senza sito rischia di non trovarvi. Ho già pronta un'anteprima del sito da mostrarle, bastano 10-15 minuti quando vuole. Se non interessa me lo dica, non la disturbo più.",
-    "messageB": "Salve, mi occupo di siti web per attività di Marano Vicentino. Ho visto che la Termoidraulica Guglielmi non ha ancora un sito né una pagina social: chi ha un problema idraulico oggi cerca prima online, rischiando di finire dal concorrente. Ho già pronta un'anteprima del sito, mi piacerebbe mostrargliela: bastano 10-15 minuti, come preferisce. Se non interessa me lo dica, non la disturbo più.",
+    "messageA": "Salve, sono Federico, faccio siti web per attività locali. Ho visto che la Termoidraulica Guglielmi a Marano Vicentino la manda avanti lei da solo: oggi chi cerca un idraulico qui vicino guarda prima su Google, senza sito rischia di non trovarvi. Ho già pronta un'anteprima del sito: posso passare da lei 10-15 minuti, quando le fa comodo, a mostrargliela di persona? Se non interessa me lo dica, non la disturbo più.",
+    "messageB": "Salve, sono Federico, mi occupo di siti web per attività di Marano Vicentino. Ho visto che la Termoidraulica Guglielmi non ha ancora un sito né una pagina social: chi ha un problema idraulico oggi cerca prima online, rischiando di finire dal concorrente. Ho già pronta un'anteprima del sito: posso passare da lei 10-15 minuti, nel giorno e all'ora che preferisce, a fargliela vedere sul portatile? Se non interessa me lo dica, non la disturbo più.",
     "sources": [
       "https://www.paginemail.it/termoidraulica-guglielmi.html",
       "https://www.paginebianche.it/veneto/marano-vicentino/termoidraulica.html",
@@ -130,6 +130,6 @@
     "confidence": "medio",
     "manualChannelNote": "Va contattato esclusivamente per telefono (chiamata diretta) al numero fisso 0445 622370, non automatizzabile; nessuna email o social trovati. Numero con confidenza media (fonte aggregata non verificata con certezza): verificare l'identità a voce prima di procedere con il discorso commerciale.",
     "createdAt": "2026-09-23T15:49:16Z",
-    "updatedAt": "2026-09-23T15:49:16Z"
+    "updatedAt": "2026-09-24T12:00:00Z"
   }
 ]
