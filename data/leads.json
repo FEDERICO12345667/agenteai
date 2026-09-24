@@ -8,8 +8,8 @@
     "contactLabel": "Telefono",
     "contactValue": "0445 641287",
     "demoUrl": "https://claude.ai/artifact/UgcXDS9BidergRkUmJa9Y1",
-    "messageA": "Buongiorno, parlo con Comparin Sergio Impianti Elettrici di Santorso? Mi occupo di siti web. Ho visto che siete in Zona Industriale e lavorate con aziende ed enti da parecchi anni, ma non avete ancora un sito vostro, solo le schede sulle directory. Vi ho preparato gratis una demo già pronta, così chi cerca un elettricista qui vicino vi trova subito online: https://claude.ai/artifact/UgcXDS9BidergRkUmJa9Y1. Vi va di darci un'occhiata? Anche solo un sì o no. Se non interessa, fatemelo sapere e non vi richiamo più.",
-    "messageB": "Buongiorno, parlo con Comparin Sergio Impianti Elettrici? Mi occupo di siti web per attività come la vostra. Vedendo che lavorate anche con enti pubblici e aziende, un sito serio online vi darebbe più credibilità rispetto a una semplice scheda su PagineGialle. Ve ne ho già preparato uno gratis, lo trovate qui: https://claude.ai/artifact/UgcXDS9BidergRkUmJa9Y1. Volete darci un'occhiata? Mi basta un sì o no. Se non interessa, ditemelo pure e non vi ricontatto più.",
+    "messageA": "Buongiorno, sono Federico, realizzo siti web per attività della zona. Ho visto che Comparin Sergio Impianti Elettrici lavora da anni a Santorso con aziende ed enti, ma online trovo solo le schede sulle directory e nessun sito vostro. Ho già pronta un'anteprima di un sito su misura: le va di vederla insieme, 10-15 minuti, di persona o in videochiamata? Se non interessa me lo dica pure, non la disturbo più.",
+    "messageB": "Buongiorno, sono Federico, mi occupo di siti web per attività artigiane e tecniche. Chi cerca un elettricista in zona oggi guarda prima su Google, e voi lavorate anche con enti pubblici e aziende: un sito serio darebbe più credibilità di una semplice scheda su PagineGialle. Ho già pronta un'anteprima da mostrarle, bastano 10-15 minuti quando preferisce. Se non interessa me lo dica, non la richiamo più.",
     "sources": [
       "https://www.paginegialle.it/impianti-elettrici-comparin-sergio-santorso",
       "https://www.paginebianche.it/comparinsergioimpiantielettrici-santorso",
@@ -18,7 +18,7 @@
     ],
     "manualChannelNote": "Solo telefono fisso trovato (0445 641287), nessuna email o social verificati: non supporta WhatsApp/SMS affidabile, serve una chiamata telefonica diretta per il primo contatto.",
     "createdAt": "2026-09-15T18:43:30Z",
-    "updatedAt": "2026-09-15T18:43:30Z"
+    "updatedAt": "2026-09-24T10:00:00Z"
   },
   {
     "id": "officina-meccanica-mendo-mariano-marano-vicentino",
@@ -29,8 +29,8 @@
     "contactLabel": "Telefono",
     "contactValue": "0445 622143",
     "demoUrl": "https://claude.ai/artifact/JP45Wk98UawgGLgCHUX3jp",
-    "messageA": "Buongiorno, sono [Nome], realizzo siti per attività artigiane della zona. Ho visto che l'Officina Mendo Mariano, in Via del Progresso a Marano Vicentino, è una S.n.c. a gestione familiare e non ha ancora un sito. Ve ne ho già preparato uno gratis, di prova: https://claude.ai/artifact/JP45Wk98UawgGLgCHUX3jp — così chi vi cerca online vi trova, non solo su PagineGialle. Vi va di darci un'occhiata? Basta un sì o un no. Se non interessa fatemelo sapere, non vi richiamo più.",
-    "messageB": "Buongiorno, sono [Nome], realizzo siti per piccole officine della zona. So che l'Officina Mendo Mariano è attiva da anni in Via del Progresso a Marano Vicentino, ma online non si trova: niente sito, niente pagina Facebook, solo il numero fisso. Vi ho già preparato una demo gratuita: https://claude.ai/artifact/JP45Wk98UawgGLgCHUX3jp — così chi cerca un meccanico qui vicino trova voi, non il concorrente della porta accanto. Vi interessa darci un'occhiata, sì o no? Se non fa per voi, ditemelo e non vi richiamo più.",
+    "messageA": "Buongiorno, sono Federico, realizzo siti per attività artigiane della zona. Ho visto che l'Officina Mendo Mariano, in Via del Progresso a Marano Vicentino, è una realtà familiare ma online non si trova: niente sito, solo le schede sulle directory. Ho già pronta un'anteprima di un sito per voi: le va di vederla insieme, 10-15 minuti, di persona o in videochiamata? Se non interessa me lo dica, non la disturbo più.",
+    "messageB": "Buongiorno, sono Federico, faccio siti web per piccole officine della zona. Chi cerca un meccanico a Marano Vicentino oggi lo cerca su Google, e dell'Officina Mendo Mariano online c'è solo il numero fisso: rischiate di far trovare il concorrente. Ho già pronta un'anteprima di un sito su misura, mi piacerebbe mostrargliela in 10-15 minuti, come preferisce. Se non interessa me lo dica, non la richiamo più.",
     "sources": [
       "https://www.paginegialle.it/marano-vicentino-vi/officina/officina-meccanica-mendo-mariano-c.",
       "https://www.paginebianche.it/marano-vicentino/officina-meccanica-mendo-mariano-c.625642",
@@ -39,7 +39,7 @@
     ],
     "manualChannelNote": "Solo telefono fisso trovato (0445 622143), nessuna email o social: non supporta WhatsApp/SMS affidabile, serve una chiamata telefonica diretta. Suggerito chiedere email o cellulare durante la chiamata per inviare il link per iscritto.",
     "createdAt": "2026-09-15T18:43:30Z",
-    "updatedAt": "2026-09-15T18:43:30Z"
+    "updatedAt": "2026-09-24T10:00:00Z"
   },
   {
     "id": "estetica-limbios-piovene-rocchette",
@@ -50,8 +50,8 @@
     "contactLabel": "Facebook",
     "contactValue": "facebook.com/EsteticaLimbios/",
     "demoUrl": "https://claude.ai/artifact/9RZ11GmqD3jU9HzSZeQZHj",
-    "messageA": "Ciao Paola! Ho visto la pagina di Estetica Limbios a Piovene Rocchette: 20 anni di esperienza nel benessere, complimenti. Chi cerca \"estetista Piovene Rocchette\" su Google però non vi trova, perché non avete un sito. Ve ne ho preparato uno demo, gratis: https://claude.ai/artifact/9RZ11GmqD3jU9HzSZeQZHj Dammi un si o un no. Se non ti interessa fammelo sapere e non ti scrivo più.",
-    "messageB": "Ciao Paola! Su Facebook e Instagram si vede quanto la clientela di Estetica Limbios vi stimi, dopo oltre 20 anni di attività a Piovene Rocchette. Peccato che chi non vi conosce ancora non trovi nulla online. Vi ho preparato gratis una demo di sito: https://claude.ai/artifact/9RZ11GmqD3jU9HzSZeQZHj Ti piace? Anche solo un si/no mi basta. Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageA": "Ciao Paola! Sono Federico, creo siti web per attività della zona. Ho visto la pagina di Estetica Limbios: oltre 20 anni di esperienza e tante clienti affezionate, complimenti. Chi cerca \"estetista Piovene Rocchette\" su Google però non vi trova, perché non avete un sito. Ho già pronta un'anteprima del sito: ti va una chiamata di 10-15 minuti per vederla? Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageB": "Ciao Paola! Sono Federico, realizzo siti web per attività di Piovene Rocchette e dintorni. Su Facebook e Instagram si vede quanto le clienti di Estetica Limbios vi stimano, ma chi non vi conosce ancora online non trova nulla. Ho già pronta un'anteprima di un sito per voi: ti va una chiamata di 10-15 minuti per vederla insieme? Se non ti interessa fammelo sapere e non ti scrivo più.",
     "sources": [
       "https://www.paginegialle.it/piovene-rocchette-vi/estetiste/estetica-limbios-di-zenari-paola_20743380",
       "https://www.paginebianche.it/esteticalimbiosdizenaripaola-piovenerocchette",
@@ -62,7 +62,7 @@
     ],
     "manualChannelNote": "Invio via Messenger da fare manualmente (nessuna API pubblica senza credenziali) da un account Facebook/Instagram; un messaggio da un account che non segue già la pagina spesso finisce nella cartella \"Richieste di messaggio\" invece che nella inbox principale, quindi va ricontrollato dopo qualche giorno. Email di backup trovata (esteticalimbios@gmail.com) ma non verificata direttamente.",
     "createdAt": "2026-09-15T18:43:30Z",
-    "updatedAt": "2026-09-15T18:43:30Z"
+    "updatedAt": "2026-09-24T10:00:00Z"
   },
   {
     "id": "trattoria-ca-vecchia-carre",
