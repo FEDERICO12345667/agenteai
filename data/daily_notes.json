@@ -16,5 +16,14 @@
       "le-figaro-parrucchieri-zane",
       "termoidraulica-guglielmi-marano-vicentino"
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "summary": "Il lead piu' promettente di oggi e' l'Ambulatorio Veterinario Albertini-Filippi (Malo): reputazione eccellente (quasi 5 stelle su oltre 150 recensioni, clienti fedeli da 15-20 anni) ma zero presenza web, un contrasto che rende il beneficio facilissimo da spiegare a voce. Pattern confermato anche oggi: gli artigiani/professionisti con pochissima presenza online (Pellizzari a Chiuppano, il veterinario di Malo) hanno come unico contatto pubblico un telefono fisso, mentre le attivita' con una minima presenza social o un'email (Thiene Affari) restano comunque scoperte di un sito proprio, affidandosi solo a directory o vetrine di portali terzi che non controllano. Suggerimento pratico: per Thiene Affari, abituata a comunicare per iscritto (annunci, email), l'email di primo contatto ha piu' probabilita' di essere letta con calma rispetto a una telefonata a freddo riservata agli artigiani. Pellizzari Roberto e Thiene Affari hanno confidenza MEDIA: per Pellizzari c'e' il rischio di confusione con altre attivita' omonime nella stessa zona (verificare l'identita' a voce prima di procedere), mentre per Thiene Affari un risultato di ricerca ha riportato un indirizzo e un cellulare discordanti, scartati come inattendibili ma da ricontrollare rapidamente prima del primo contatto. Nessun lead di oggi ha confidenza BASSA.",
+    "leadIds": [
+      "pellizzari-roberto-tappezzeria-chiuppano",
+      "ambulatorio-veterinario-albertini-filippi-malo",
+      "thiene-affari-apolloni-silvia-thiene"
+    ]
   }
 ]

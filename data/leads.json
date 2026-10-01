@@ -131,5 +131,73 @@
     "manualChannelNote": "Va contattato esclusivamente per telefono (chiamata diretta) al numero fisso 0445 622370, non automatizzabile; nessuna email o social trovati. Numero con confidenza media (fonte aggregata non verificata con certezza): verificare l'identità a voce prima di procedere con il discorso commerciale.",
     "createdAt": "2026-09-23T15:49:16Z",
     "updatedAt": "2026-09-24T12:00:00Z"
+  },
+  {
+    "id": "pellizzari-roberto-tappezzeria-chiuppano",
+    "name": "Pellizzari Roberto",
+    "sector": "Tappezzeria artigiana (rifacimento tappezzeria per poltrone, divani, sedili, sedie) con falegnameria collegata",
+    "comune": "Chiuppano (VI)",
+    "channel": "Telefono (chiamata diretta)",
+    "contactLabel": "Telefono fisso",
+    "contactValue": "0445 891123",
+    "demoUrl": "https://claude.ai/artifact/PHpZJbvQuPoembxdwVJE5v",
+    "messageA": "Buongiorno, sono Federico, mi scusi il disturbo. La chiamo perché mi sono imbattuto nella sua attività di tappezzeria qui a Chiuppano, e ho visto che lavora su misura su poltrone, divani e sedie, un bel mestiere che in pochi fanno ancora bene. Mi sono accorto però che online non si trova quasi nulla su di lei, solo qualche elenco generico, mentre chi cerca un tappezziere in zona oggi parte quasi sempre da internet. Io realizzo siti semplici per attività come la sua, proprio per farsi trovare da chi cerca online invece di finire dal primo che ha un sito. Le dico la verità, ho già preparato un'anteprima di come potrebbe essere il suo sito, ed è pronta da vedere. Se le va, passo io in laboratorio quando preferisce, anche dieci minuti, e gliela faccio vedere sul portatile così si fa un'idea concreta. Se non le interessa nessun problema, la saluto e non la disturbo oltre.",
+    "messageB": "Buongiorno, sono Federico, chiamo per la sua tappezzeria qui a Chiuppano. Ho cercato la sua attività online e salta fuori solo su Paginebianche e poche altre directory, senza un sito suo, e immagino che tanti clienti nuovi, prima di chiamare, provino a cercare tappezziere o rifacimento divani dalle sue parti su Google. Il rischio è che trovino prima chi un sito ce l'ha, anche se magari lavora peggio di lei. Io aiuto piccole attività artigiane come la sua a farsi trovare online con un sito semplice, e per la sua ho già fatto una bozza, un'anteprima pronta da guardare. Se vuole gliela mostro di persona, passo in laboratorio il giorno e all'ora che le fa comodo, bastano dieci minuti sul portatile. Se non è una cosa che le interessa, nessun problema, la ringrazio e non la disturbo più.",
+    "sources": [
+      "https://www.coobiz.it/azienda/chiuppano-tappezzeria-nella/co7796069",
+      "https://www.misterimprese.it/veneto/vicenza/chiuppano/salotti/735893.html",
+      "https://www.paginebianche.it/p/chiuppano/pellizzari.html",
+      "https://www.elenchitelefonici.it/elenco-telefonico/risultati-ricerca-cognome-nome/PELLIZZARI/VENETO/VI/CHIUPPANO/1"
+    ],
+    "confidence": "medio",
+    "manualChannelNote": "La chiamata va fatta a voce direttamente da Federico; non essendoci email né pagine social pubbliche per Pellizzari Roberto (tappezzeria, Chiuppano VI), il telefono fisso è l'unico canale disponibile. Attenzione a possibili omonimie con altre attività \"Pellizzari\" della zona (diverse, con sito proprio): verificare l'identità a voce prima di procedere.",
+    "createdAt": "2026-10-01T06:40:00Z",
+    "updatedAt": "2026-10-01T06:40:00Z"
+  },
+  {
+    "id": "ambulatorio-veterinario-albertini-filippi-malo",
+    "name": "Ambulatorio Veterinario Albertini Giovanna Filippi M.Nadia",
+    "sector": "Ambulatorio veterinario per piccoli animali (cani e gatti)",
+    "comune": "Malo (VI)",
+    "channel": "Telefono (chiamata diretta)",
+    "contactLabel": "Telefono fisso",
+    "contactValue": "0445 607836",
+    "demoUrl": "https://claude.ai/artifact/5bX2PPYiaF3MmesPQUEpEr",
+    "messageA": "Buongiorno, sono Federico, chiamo per l'ambulatorio veterinario qui a Malo. Scusi il disturbo, posso rubarle trenta secondi? Mi occupo di siti web per attività locali e mi sono imbattuto nelle vostre recensioni: quasi 5 stelle, con pazienti che seguite da 16-20 anni, davvero una bella soddisfazione. Il punto è che oggi chi cerca un nuovo veterinario a Malo guarda prima su internet, e senza un sito tutta questa reputazione resta invisibile a chi ancora non vi conosce. Ho già preparato un'anteprima di come potrebbe essere il vostro sito, pronta da vedere: le andrebbe se passassi in ambulatorio una decina di minuti, nel giorno e all'ora più comodi per voi, magari in una pausa tra le visite, giusto per farvela vedere sul portatile? Se invece non è un pensiero che vi interessa al momento, nessun problema, la ringrazio comunque per il tempo.",
+    "messageB": "Buongiorno, sono Federico, chiamo per l'ambulatorio veterinario di via Pasubio a Malo. Le spiego subito il motivo: ho visto che non avete un sito internet, ma le recensioni dei vostri clienti sono eccezionali, quasi un 5 pieno, e c'è gente che vi porta i propri animali da quindici, vent'anni. Peccato che chi non vi conosce ancora e cerca online un veterinario a Malo oggi non riesca a trovarvi. Ho già pronta una bozza, un'anteprima concreta di come potrebbe essere il vostro sito, e mi piacerebbe mostrargliela di persona sul portatile, ci vogliono dieci minuti al massimo. Potrei passare in un giorno e un orario comodi per voi, magari tra una visita e l'altra? Se poi non fa al caso vostro mi dice tranquillamente di no, nessun problema.",
+    "sources": [
+      "https://www.paginebianche.it/scheda/malo/ambulatorio-veterinario-albertini-giovanna-filippi.8922544",
+      "https://www.paginegialle.it/malo-vi/veterinaria/ambulatorio-veterinario-albertini-giovanna-filippi_4",
+      "https://aziende.virgilio.it/veterinaria/malo-vi/ambulatorio-veterinario-albertini-giovanna-filippi",
+      "https://vettore-it.com/38788/ambulatorio-veterinario-albertini-giovanna-filippi-m-nadia",
+      "https://www.cylex-italia.it/malo-malo/ambulatorio-veterinario-albertini-giovanna-filippi-m-nadia-7257383.html"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "La chiamata va fatta a voce da Federico, in orario di apertura. Può rispondere indifferentemente una delle due veterinarie titolari o una segretaria/assistente di studio: adattare lo script chiedendo gentilmente di parlare con la titolare se risponde altro personale. Nessuna email o social pubblici trovati.",
+    "createdAt": "2026-10-01T06:40:00Z",
+    "updatedAt": "2026-10-01T06:40:00Z"
+  },
+  {
+    "id": "thiene-affari-apolloni-silvia-thiene",
+    "name": "Thiene Affari di Apolloni Silvia",
+    "sector": "Agenzia immobiliare (compravendite, affitti, valutazioni, consulenza/gestione immobili residenziali e commerciali)",
+    "comune": "Thiene (VI)",
+    "channel": "email",
+    "contactLabel": "Email",
+    "contactValue": "thieneaffari@alice.it",
+    "demoUrl": "https://claude.ai/artifact/7QvwarqzZsfPaJoAGahiCi",
+    "messageA": "Oggetto: Thiene Affari e la ricerca casa online a Thiene\n\nBuongiorno Silvia, sono Federico, mi occupo di siti web per attività locali qui in zona Alto Vicentino e mi sono imbattuto in Thiene Affari: un'agenzia storica, attiva a Thiene da oltre 30 anni, che però online si trova solo tramite PagineGialle, Facebook o la vetrina su Casa.it. Oggi chi cerca casa o un'agenzia a Thiene parte quasi sempre da una ricerca su Google, e lì le agenzie concorrenti con un sito proprio intercettano quelle persone mentre Thiene Affari, nonostante l'esperienza, resta meno visibile. Ho già preparato un'anteprima di come potrebbe essere il vostro sito e mi piacerebbe mostrartela dal vivo, magari passando in agenzia per 10-15 minuti nel giorno e all'ora che preferisci, portando solo il portatile. Se non ti interessa fammelo pure sapere e non ti scrivo più.",
+    "messageB": "Oggetto: Un'anteprima per Thiene Affari (10 minuti, senza impegno)\n\nCiao Silvia, sono Federico e lavoro con piccole attività della zona di Thiene realizzando siti web; guardando in giro ho visto che la pagina Facebook di Thiene Affari ha più di 400 mi piace ma l'agenzia non ha ancora un sito tutto suo, a differenza di alcune colleghe della zona. Avere un sito proprio significa poter raccontare i vostri 30 anni di esperienza e i vostri immobili con parole vostre, invece di dipendere solo da directory o dalla vetrina di un portale che non controllate. Ho già pronta una bozza concreta di come potrebbe apparire e mi farebbe piacere passare in agenzia 10-15 minuti, quando per te è più comodo, per fartela vedere direttamente sul portatile. Se preferisci di no, dimmelo pure e non ti disturbo oltre.",
+    "sources": [
+      "https://www.paginebianche.it/thiene/thiene-affari-apolloni-silvia-agenzia-immobiliare.2676137",
+      "https://www.paginegialle.it/thiene-vi/immobiliare/thiene-affari-apolloni-silvia_2",
+      "https://www.edilnet.it/aziendeedili/thiene-affari-di-apolloni-silvia-381209/",
+      "https://www.casa.it/agenzie/agenzia-immobiliare-thiene-affari-1173000/",
+      "https://www.facebook.com/p/THIENE-AFFARI-Agenzia-Immobiliare-100064119338123/"
+    ],
+    "confidence": "medio",
+    "manualChannelNote": "",
+    "createdAt": "2026-10-01T06:40:00Z",
+    "updatedAt": "2026-10-01T06:40:00Z"
   }
 ]
