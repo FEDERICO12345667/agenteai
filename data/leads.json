@@ -199,5 +199,81 @@
     "manualChannelNote": "",
     "createdAt": "2026-10-01T06:40:00Z",
     "updatedAt": "2026-10-01T06:40:00Z"
+  },
+  {
+    "id": "falegnameria-zanella-schio",
+    "name": "Falegnameria Zanella S.n.c. di Zanella Dario & Franco",
+    "sector": "Falegnameria / artigiano del legno",
+    "comune": "Schio (VI)",
+    "channel": "Telefono (chiamata manuale)",
+    "contactLabel": "Telefono",
+    "contactValue": "0445 575941",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/51K5cx5RNRLxbc27SSVpwn",
+    "messageA": "Buongiorno, sono Federico, chiamo per la Falegnameria Zanella — parlo con Dario o con Franco? Mi scuso per il disturbo, sono breve: mi occupo di creare siti web per piccole attività artigiane qui in zona, e sono capitato sulla vostra falegnameria qui a Schio. Ho visto che siete un'attività familiare, voi due soci, e volevo proporvi una cosa: oggi chi cerca un falegname a Schio o dei mobili su misura, prima guarda su Google — e senza un sito vostro si rischia di restare un po' invisibili rispetto a chi un sito ce l'ha già. Ho già preparato un'anteprima di come potrebbe essere il vostro, pronta da vedere. Mi farebbe piacere passare di persona in laboratorio, dieci-quindici minuti, nel giorno e all'ora che preferite voi, per mostrarvela dal vivo sul portatile, senza nessun impegno. Se non è una cosa che vi interessa, ditemelo pure tranquillamente, non vi disturbo oltre.",
+    "messageB": "Buongiorno, sono Federico. Disturbo la Falegnameria Zanella a Schio, qui in Via Lago Maggiore? Bene, sono velocissimo: faccio siti web per piccoli artigiani della zona, e pensavo proprio a voi perché siete una delle poche falegnamerie familiari qui a Schio che ancora non ha un sito tutto suo — e oggi, chi cerca 'falegname Schio' o 'mobili su misura' lo fa prima su Google: senza sito, si finisce un po' nascosti rispetto a chi invece c'è già online. Ho già pronta un'anteprima di come potrebbe essere il vostro sito. Vi andrebbe se passassi un attimo in laboratorio, dieci minuti, quando fa comodo a voi, giusto per farvela vedere sul portatile? Se non vi interessa ditemelo pure senza problemi, non insisto oltre.",
+    "sources": [
+      "https://www.falegnameria24.it/falegnamerie/scheda_falegnameria/falegnameria-zanella-snc/12712",
+      "https://www.cylex-italia.it/schio/falegnameria-zanella--s-n-c---8228433.html",
+      "https://www.tuugo.it/Companies/falegnameria-zanella-di-zanella-dario-franco/0170002426024",
+      "https://www.webarredamento.com/arredamenti/falegnameria-zanella-snc-di-zanella-dario--franco-schio-via-lago-maggiore-snc",
+      "https://www.misterimprese.it/veneto/vicenza/schio/falegnami.html",
+      "https://www.visura.pro/imprese/3053471984-falegnameria-zanella-snc-di-zanella-dario-e-franco.html"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "Nessuna email o pagina social trovata per questa esatta ragione sociale (attenzione: esiste un'altra impresa omonima 'Zanella' a Schio con indirizzo/telefono diversi, da non confondere). Contatto esclusivamente telefonico; lo script prevede di verificare con chi si parla (Dario o Franco) prima di proseguire.",
+    "createdAt": "2026-10-02T07:15:00Z",
+    "updatedAt": "2026-10-02T07:15:00Z"
+  },
+  {
+    "id": "puli-saba-lavanderia-schio",
+    "name": "Puli - Saba",
+    "sector": "Lavanderia / stireria per privati (lavaggio a secco incluso)",
+    "comune": "Schio (VI)",
+    "channel": "Telefono (chiamata manuale)",
+    "contactLabel": "Telefono",
+    "contactValue": "0445 528552",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/SKLECcSEQn5bbi6Cc5h5KU",
+    "messageA": "Buongiorno, sono Federico, scusi il disturbo. Stavo guardando le attività di Schio e ho visto che Puli - Saba il mercoledì resta aperto no-stop dalle 9 alle 17 — comodo per chi lavora e non riesce a passare all'ora di pranzo. Io mi occupo di creare siti semplici per piccole attività come la vostra, e il punto è questo: oggi chi cerca \"lavanderia Schio\" o \"stireria Schio\" lo fa prima su Google, e senza un sito proprio si rischia di restare meno visibili rispetto a chi un sito ce l'ha, magari con orari meno comodi dei vostri. Ho già pronta un'anteprima di come potrebbe essere il sito per la vostra attività — le andrebbe bene se passassi in negozio un quarto d'ora, magari proprio mercoledì visto l'orario continuato, per mostrargliela sul portatile? Nessun impegno, giusto per farle vedere cosa ho preparato. Quando le farebbe comodo? Va bene, allora ci vediamo così. Se invece non le interessa mi dica pure tranquillamente, non la disturbo oltre.",
+    "messageB": "Buongiorno, sono Federico. Ho visto che Puli - Saba a Schio è una stireria specializzata per i privati, non lavaggio industriale conto terzi — ed è proprio questo tipo di attività di vicinato che spesso fatica a farsi trovare online. Oggi chi cerca una lavanderia o una stireria a Schio guarda prima su Google, e senza un sito si rischia di perdere qualche cliente verso chi un sito ce l'ha, anche con orari meno comodi dei vostri. Ho già preparato un'anteprima di un possibile sito per la vostra attività, pronta da vedere. Le va se passo in negozio per un quarto d'ora, magari mercoledì che siete aperti no-stop, per mostrargliela dal vivo sul computer? Perfetto, allora ci vediamo mercoledì. Se invece preferisce lasciar perdere, mi dica pure liberamente, nessun problema.",
+    "sources": [
+      "https://www.paginegialle.it/schio-vi/lavanderie/puli-saba_T11443308",
+      "https://www.paginebianche.it/veneto/schio/lavanderie.html",
+      "https://www.misterimprese.it/veneto/vicenza/schio/lavanderie-a-secco/753058.html",
+      "https://www.abiecab.it/az-Puli_-_Saba-773079.php",
+      "https://www.elenchitelefonici.it/VI/SCHIO/PULI_SABA/AZIENDE/0445528552.HTML",
+      "https://0445528552.telefono.click/0445528552-puli-saba-stireria-per-privati-vicenza.html"
+    ],
+    "confidence": "medio",
+    "manualChannelNote": "Chiamata diretta al numero fisso durante l'orario di apertura, idealmente di mercoledì (9:00-17:00 no-stop, senza pausa pranzo) per maggiore probabilità di risposta; evitare sabato/domenica (chiuso) e la pausa pranzo 12:00-15:00 negli altri giorni. Nessuna email o social trovati, presenza online complessivamente scarsa (solo directory).",
+    "createdAt": "2026-10-02T07:15:00Z",
+    "updatedAt": "2026-10-02T07:15:00Z"
+  },
+  {
+    "id": "sorio-ferramenta-vicenza",
+    "name": "Sorio Ferramenta e Casalinghi (Sorio Ferramenta di Xausa Ruggero & C. S.a.s.)",
+    "sector": "Ferramenta e casalinghi — bottega storica dal 1920",
+    "comune": "Vicenza (VI)",
+    "channel": "email",
+    "contactLabel": "Email",
+    "contactValue": "sorioferramenta@gmail.com",
+    "pec": "sorioferramentasas@pec.it",
+    "demoUrl": "https://claude.ai/artifact/7gQ3yiJoDGCjhctGCzc1CB",
+    "messageA": "Oggetto: Sorio Ferramenta dal 1920 in Piazza Matteotti: due righe\n\nBuongiorno, sono Federico e realizzo siti web per attività storiche di Vicenza. Ho visto che Sorio Ferramenta ha già un dominio registrato, sorioferramenta.it, ma è fermo \"in costruzione\" da tempo: un peccato, perché una bottega come la vostra, sempre allo stesso angolo di Piazza Matteotti dal 1920 e guidata dalla famiglia Xausa dal 1975, meriterebbe di raccontare online la sua storia e il suo assortimento. Ho già pronta un'anteprima del sito da mostrarle: se le va, passo in negozio 10-15 minuti, nel giorno e all'ora che preferisce, così gliela faccio vedere dal vivo sul portatile. Se non le interessa mi dica pure, così non la disturbo oltre.",
+    "messageB": "Oggetto: Due minuti su sorioferramenta.it\n\nBuongiorno, sono Federico, mi occupo di siti web per negozi storici qui a Vicenza. Mi sono imbattuto in Sorio Ferramenta e ho visto che siete una Bottega Storica riconosciuta, nello stesso angolo di Piazza Matteotti dal 1920: eppure il dominio sorioferramenta.it, che avete già registrato, è rimasto fermo \"in costruzione\", senza una pagina che racconti la vostra storia o il vostro assortimento. Ho già pronta un'anteprima di come potrebbe diventare: se vuole, passo in negozio un quarto d'ora, quando preferisce, e gliela mostro direttamente sul portatile. Mi faccia sapere se non le interessa, così non la contatto più.",
+    "sources": [
+      "https://sorioferramenta.it/",
+      "https://www.facebook.com/sorioferramenta/",
+      "https://www.botteghestorichevicenza.org/copia-di-farmacia-al-redentore",
+      "https://www.lavorincasa.it/sorio-ferramenta-e-casalinghi-azienda/",
+      "https://www.nuovaopinione.it/vicenza/ferramenta/sorio-ferramenta-casalinghi-142371",
+      "https://www.ufficiocamerale.it/4709/sorio-ferramenta-di-xausa-ruggero",
+      "https://www.ilgiornaledivicenza.it/territorio-vicentino/vicenza/sorio-ferramenta-centro-cooperativa-insieme-affitto-salasso-1.12415520"
+    ],
+    "confidence": "medio",
+    "manualChannelNote": "Caso particolare: hanno già un dominio registrato (sorioferramenta.it) ma di fatto 'in costruzione' da tempo (solo dati di contatto base, nessun contenuto). Verificare di persona, prima del contatto, che non sia in sviluppo con un altro fornitore. Trovate due PEC distinte per due soggetti giuridici collegati (ditta individuale e S.a.s.): usata qui quella della S.a.s. (sorioferramentasas@pec.it), da confermare col titolare.",
+    "createdAt": "2026-10-02T07:15:00Z",
+    "updatedAt": "2026-10-02T07:15:00Z"
   }
 ]
