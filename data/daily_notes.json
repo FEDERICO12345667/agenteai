@@ -34,5 +34,13 @@
       "puli-saba-lavanderia-schio",
       "sorio-ferramenta-vicenza"
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "summary": "Il lead più promettente di oggi è Salone Federico / Barberia Pasini (Valdagno): ha un'email pubblica dedicata, recensioni quasi perfette (4,8 su Google, 5,0 su Facebook) e un \"doppio nome\" che racconta da solo il problema di visibilità online, rendendo il pitch molto naturale. Esplorando per la prima volta Valdagno è emerso anche un falso positivo utile da ricordare: il Panificio Il Forno di Soldà Cesare, proposto dallo Scout con buona confidenza, è stato scartato in fase di analisi perché il suo indirizzo e telefono risultano oggi associati a un'altra attività (\"Sapori di Paese\", insediata nell'ex Panificio Soldà) — segnale di cessazione/cambio gestione non visibile dalle sole query di scouting iniziali. Suggerimento pratico: quando un candidato ha presenza online scarsa o concentrata su una sola fonte, vale la pena una query aggiuntiva mirata del tipo \"ex <nome attività>\" o \"<indirizzo> chi c'è ora\" già in fase di analisi, prima di investire tempo nella demo. Nessun lead confermato oggi ha confidence \"basso\": Pasticceria Dall'Alba ha confidence medio-alto (ottima presenza social e recensioni, ma nessuna email pubblica), Salone Federico/Barberia Pasini ha confidence medio solo per la presenza frammentata su più nomi/profili, non per dubbi sulla sua reale operatività.",
+    "leadIds": [
+      "pasticceria-dallalba-valdagno",
+      "salone-federico-pasini-valdagno"
+    ]
   }
 ]

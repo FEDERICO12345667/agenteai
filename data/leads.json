@@ -275,5 +275,53 @@
     "manualChannelNote": "Caso particolare: hanno già un dominio registrato (sorioferramenta.it) ma di fatto 'in costruzione' da tempo (solo dati di contatto base, nessun contenuto). Verificare di persona, prima del contatto, che non sia in sviluppo con un altro fornitore. Trovate due PEC distinte per due soggetti giuridici collegati (ditta individuale e S.a.s.): usata qui quella della S.a.s. (sorioferramentasas@pec.it), da confermare col titolare.",
     "createdAt": "2026-10-02T07:15:00Z",
     "updatedAt": "2026-10-02T07:15:00Z"
+  },
+  {
+    "id": "pasticceria-dallalba-valdagno",
+    "name": "Pasticceria Dall'Alba (Pasticceria Dall'Alba S.r.l.)",
+    "sector": "Pasticceria / gelateria artigianale",
+    "comune": "Valdagno (VI)",
+    "channel": "Facebook (Messenger)",
+    "contactLabel": "Pagina Facebook",
+    "contactValue": "https://www.facebook.com/pasticceriadallalba/",
+    "pec": "pasticceriadallalba@pec.it",
+    "demoUrl": "https://claude.ai/artifact/Tn7poRV4y1V781DSrm3Qo7",
+    "messageA": "Ciao, sono Federico: creo siti web per attività locali di Valdagno. Ho visto la pagina della Pasticceria Dall'Alba e le recensioni sulle vostre millefoglie, proprio ottime. Con un sito vostro i clienti trovano subito orari e specialità, senza passare da Facebook. Ho già pronta un'anteprima: posso passare 10-15 minuti, quando preferite, per mostrartela dal portatile? Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageB": "Ciao, sono Federico, realizzo siti per attività locali a Valdagno. Ho letto che Enrico è il miglior pasticcere della valle, ma online avete solo Facebook: chi vi cerca su Google trova prima un concorrente. Ho già pronta un'anteprima del vostro sito: posso passare 10-15 minuti, quando preferite, per farvela vedere dal portatile? Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "sources": [
+      "https://www.facebook.com/pasticceriadallalba/",
+      "https://www.instagram.com/pasticceriadallalba/",
+      "https://aziende.virgilio.it/bar/valdagno-vi/pasticceria-dall-39-alba",
+      "https://www.paginegialle.it/valdagno-vi/bar/pasticceria-dall-39-alba",
+      "https://www.tripadvisor.com/Restaurant_Review-g1137848-d11510387-Reviews-Pasticceria_Dall_Alba-Valdagno_Province_of_Vicenza_Veneto.html"
+    ],
+    "confidence": "medio-alto",
+    "manualChannelNote": "Invio tramite Messenger/DM Facebook o Instagram, non automatizzabile in questo ambiente: va fatto manualmente da Federico dal proprio account. Backup: DM Instagram (@pasticceriadallalba). Nessuna email pubblica trovata; PEC disponibile solo come contatto di riserva formale.",
+    "createdAt": "2026-10-03T06:26:12Z",
+    "updatedAt": "2026-10-03T06:26:12Z"
+  },
+  {
+    "id": "salone-federico-pasini-valdagno",
+    "name": "Salone Federico di Pasini Federico (noto anche come Barberia Pasini)",
+    "sector": "Parrucchiere uomo-donna / barbiere, specialità modellatura della barba",
+    "comune": "Valdagno (VI), frazione Maglio di Sopra",
+    "channel": "email",
+    "contactLabel": "Email",
+    "contactValue": "barberiapasini@gmail.com",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/BGPKmFXpUZqP4Ywuiv3FH1",
+    "messageA": "Oggetto: Un'idea per Salone Federico (o Barberia Pasini?)\n\nCiao Federico, sono Federico — sì, abbiamo lo stesso nome, mi ha fatto sorridere mentre guardavo il Salone Federico / Barberia Pasini qui a Maglio di Sopra. Con recensioni così (4,8 su Google, 5 su Facebook) e una specialità come la modellatura barba, un sito ben fatto potrebbe trasformare quella reputazione in nuove prenotazioni ogni settimana. Ho già pronta un'anteprima del tuo sito: se ti va, passo in salone 10-15 minuti, nel giorno e orario che preferisci, e te la mostro dal portatile. Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageB": "Oggetto: Chi cerca \"Barberia Pasini\" su Google, ti trova?\n\nCiao Federico, sono Federico e realizzo siti su misura per attività come la tua qui a Valdagno. Il tuo salone — tra i più apprezzati della zona, con recensioni praticamente perfette — si chiama ufficialmente Salone Federico, ma in tanti vi conoscono come Barberia Pasini per la barba: online, però, chi cerca uno dei due nomi rischia di non trovare una pagina unica e chiara con orari e contatti. Ho già pronta un'anteprima di un sito che risolve proprio questo, pensata per farti trovare da chi cerca entrambi i nomi. Se vuoi, passo in salone 10-15 minuti, quando preferisci, e te la faccio vedere dal portatile — se non ti interessa fammelo sapere e non ti scrivo più.",
+    "sources": [
+      "https://www.facebook.com/salonefederico.sf/",
+      "https://www.facebook.com/BarberiaPasiniModellaturaDellaBarba/",
+      "https://www.paginebianche.it/scheda/valdagno/salone-federico-acconciatore-pasini-federico.756623",
+      "https://aziende.virgilio.it/parrucchiere-donna/maglio-di-sopra-vi/salone-federico-acconciatore-pasini-federico",
+      "https://www.coobiz.it/azienda/valdagno-salone-barbiere/co7250103"
+    ],
+    "confidence": "medio",
+    "manualChannelNote": "Invio email manuale (nessun tool di invio email automatizzato in questo ambiente). Canali di riserva in ordine: pagina Facebook 'Barberia Pasini — Modellatura della Barba' (DM), poi telefono fisso 0445 413144. Un cellulare (+39 348 113 7033) è stato trovato su una sola fonte non verificata indipendentemente: non usarlo senza conferma.",
+    "createdAt": "2026-10-03T06:26:12Z",
+    "updatedAt": "2026-10-03T06:26:12Z"
   }
 ]
