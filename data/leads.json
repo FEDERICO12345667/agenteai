@@ -323,5 +323,73 @@
     "manualChannelNote": "Invio email manuale (nessun tool di invio email automatizzato in questo ambiente). Canali di riserva in ordine: pagina Facebook 'Barberia Pasini — Modellatura della Barba' (DM), poi telefono fisso 0445 413144. Un cellulare (+39 348 113 7033) è stato trovato su una sola fonte non verificata indipendentemente: non usarlo senza conferma.",
     "createdAt": "2026-10-03T06:26:12Z",
     "updatedAt": "2026-10-03T06:26:12Z"
+  },
+  {
+    "id": "dalle-carbonare-gianluigi-carre",
+    "name": "Dalle Carbonare Gianluigi",
+    "sector": "Idraulico / impianti idraulici e termoidraulici",
+    "comune": "Carrè (VI)",
+    "channel": "Telefono (chiamata manuale)",
+    "contactLabel": "Telefono fisso",
+    "contactValue": "0445 390335",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/YMWerd1o5zqerCEzhKyy2t",
+    "messageA": "Buongiorno, sono Federico, chiamo da Carrè... veloce veloce. Ho visto che lei è Dalle Carbonare, l'idraulico qui in Via Capovilla — e che lavora da solo, senza un sito o una pagina online. Mi occupo di siti per artigiani della zona, e in realtà ho già preparato una bozza di sito pensata apposta per la sua attività, giusto per farle vedere come potrebbe apparire a chi cerca 'idraulico Carrè' su Google quando ha una perdita o la caldaia rotta — oggi chi non si trova lì, semplicemente non viene chiamato. Se le va, passo io da lei dieci minuti, quando le fa comodo, gliela faccio vedere sul portatile, senza impegno. Che ne dice, c'è un giorno che le va meglio? ... Se invece non le interessa, nessun problema, mi dica pure tranquillamente e non la disturbo oltre.",
+    "messageB": "Buongiorno, mi chiamo Federico. Allora, le rubo giusto un minuto: ho cercato la sua ditta, Dalle Carbonare, qui a Carrè, e ho visto che non ha né un sito né una pagina Facebook — è l'unico tra gli idraulici della zona a non farsi trovare online, diciamo. Il punto è che tanta gente, quando ha un guasto urgente, un tubo che perde o la caldaia che non parte, cerca direttamente su Google 'idraulico Carrè' e chiama il primo che trova — e oggi quel posto non è il suo. Le dico questo perché ho già pronta una bozza di sito fatta apposta per la sua attività, da farle vedere dal vivo sul computer, ci vogliono dieci-quindici minuti al massimo. Passo io, dove lavora o dove preferisce, nel giorno e all'ora che le è più comoda. Le va bene? ... E se proprio non le interessa, lo dica pure senza problemi, chiudiamo qui e non la disturbo più.",
+    "sources": [
+      "https://aziende.virgilio.it/impianti-idraulici/carre-vi/carbonare-gianluigi",
+      "https://www.paginebianche.it/veneto/carre/dalle-carbonare.html",
+      "https://www.paginebianche.it/carre/carbonare-gianluigi.13409017",
+      "https://www.coobiz.it/azienda/carre-installazione-manutenzione/co8194677",
+      "https://registroaziende.it/azienda/dalle-carbonare-gianluigi-carre"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "Nessun canale digitale trovato (niente email, social, PEC); contatto esclusivamente telefonico fisso (0445 390335), lo script è pensato per una breve chiamata il cui unico scopo è fissare l'incontro di persona. Attenzione a possibile omonimia: esiste 'Maister di Ernesta Dalle Carbonare' nello stesso comune (Carrè) ma è un'attività diversa di depurazione/trattamento acque, con P.IVA e indirizzo diversi — verificato e scartato come collegamento. Anche 'Dalle Carbonare F.lli' di Schio è un'azienda diversa, con sito proprio, non collegata.",
+    "createdAt": "2026-10-04T06:24:05Z",
+    "updatedAt": "2026-10-04T06:24:05Z"
+  },
+  {
+    "id": "giulia-and-dogs-chiuppano",
+    "name": "Giulia and Dogs di Segalla Giulia",
+    "sector": "Toelettatura cani e gatti",
+    "comune": "Chiuppano (VI)",
+    "channel": "WhatsApp",
+    "contactLabel": "Cellulare (WhatsApp)",
+    "contactValue": "347 0406530",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/Xg423H32rHEBgnCABcBGrs",
+    "messageA": "Ciao Giulia, sono Federico. Ho visto Giulia and Dogs a Chiuppano: 4,53/5 su 74 recensioni, e tratti anche i gatti, raro in zona. Peccato che su Google non trovi un sito e finisca da un concorrente. Ho già un'anteprima pronta: passo 10-15 minuti quando vuoi e te la mostro sul portatile. Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageB": "Ciao, sono Federico. Ho trovato Giulia and Dogs tra i toelettatori consigliati da GLOBElife per Vicenza, ma senza un sito tutto il merito resta nascosto nelle directory. Chi cerca \"toelettatura Chiuppano\" su Google finisce altrove. Ho già pronta un'anteprima del tuo sito: passo 10-15 minuti quando preferisci e te la mostro sul portatile. Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "sources": [
+      "https://globelife.com/dogstyle/toelettatori-consigliati/dogstyle/toelettatori-consigliati/toelettatore-giulia-and-dogs-di-segalla-giulia/chiuppano/vicenza/veneto/4739/",
+      "https://www.toelettatura.info/segalla-giulia-chiuppano/"
+    ],
+    "confidence": "medio-alto",
+    "manualChannelNote": "Nessun tool di invio WhatsApp collegato a questa sessione: l'invio va fatto manualmente dal telefono di Federico al numero 347 0406530. Nessuna email, pagina social o PEC trovate per questa esatta attività. Verificato che non si tratta delle omonime 'Toelettatura GIULIA' (Instagram) o 'Giulia Fornasier' di altre zone, attività distinte.",
+    "createdAt": "2026-10-04T06:24:05Z",
+    "updatedAt": "2026-10-04T06:24:05Z"
+  },
+  {
+    "id": "pizzeria-il-mezzometro-piovene-rocchette",
+    "name": "Pizzeria Il MezzoMetro",
+    "sector": "Pizzeria (asporto/consegna)",
+    "comune": "Piovene Rocchette (VI)",
+    "channel": "email",
+    "contactLabel": "Email",
+    "contactValue": "mezzometropiovene@gmail.com",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/STajYnKpbkHAW8rajhE78E",
+    "messageA": "Oggetto: Il Mezzometro trovato (quasi) per caso\n\nCiao, sono Federico, realizzo siti per attività locali della zona di Vicenza e mi sono imbattuto nella Pizzeria Il MezzoMetro a Piovene Rocchette: l'idea della pizza al mezzometro è il tipo di dettaglio che la gente si ricorda. Ho notato che chi cerca \"pizzeria Piovene Rocchette\" su Google spesso trova prima un concorrente con un sito proprio: un sito vostro darebbe un punto fisso con orari, menu e contatti sempre raggiungibili, senza dipendere dall'algoritmo di Facebook o Instagram che mostra i post solo a una parte dei follower. Ho già pronta un'anteprima di come potrebbe essere fatto il sito, e mi piacerebbe passare in pizzeria per 10-15 minuti, nel giorno e all'ora che preferite, per mostrarvela direttamente dal portatile. Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageB": "Oggetto: 5 su 5 su Tripadvisor, ma su Google?\n\nCiao, sono Federico, mi occupo di siti web per attività locali vicentine, e guardando le recensioni della Pizzeria Il MezzoMetro a Piovene Rocchette ho visto un 5 su 5 su Tripadvisor e tanti commenti su impasto leggero e consegne puntuali: un bel biglietto da visita. Il problema è che oggi quelle recensioni e i vostri post su Facebook/Instagram li vede soprattutto chi già vi conosce o vi segue, mentre chi cerca \"pizzeria Piovene Rocchette\" su Google per la prima volta spesso trova prima un concorrente con un sito proprio, orari e menu ben in vista. Ho già pronta un'anteprima di un sito per il Mezzometro che risolverebbe proprio questo, e mi piacerebbe passare di persona in pizzeria 10-15 minuti, nel giorno e all'ora che preferite, per mostrarvela dal portatile. Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "sources": [
+      "https://www.facebook.com/p/Pizzeria-Il-MezzoMetro-100063748430378/",
+      "https://www.instagram.com/pizzeriamezzometro/",
+      "https://www.tripadvisor.com/Restaurant_Review-g2268324-d27383959-Reviews-Pizzeria_Il_Mezzometro-Piovene_Rocchette_Province_of_Vicenza_Veneto.html",
+      "https://piatti.menu/restaurants/piovene-rocchette/pizzeria-mezzometro-20"
+    ],
+    "confidence": "medio",
+    "manualChannelNote": "Invio email manuale, nessun tool di invio automatizzato collegato a questa sessione. Ha già buona presenza social attiva (Facebook+Instagram, ~288 follower), quindi confidenza media sulla reale ricettività verso un sito proprio rispetto a chi non ha nulla online. Ragione sociale probabile 'Pizzeria Grisù di Rossi Selina' (stesso indirizzo e telefono riscontrati) non confermata con certezza: non nominata nel messaggio per prudenza.",
+    "createdAt": "2026-10-04T06:24:05Z",
+    "updatedAt": "2026-10-04T06:24:05Z"
   }
 ]

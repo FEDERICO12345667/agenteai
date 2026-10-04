@@ -42,5 +42,14 @@
       "pasticceria-dallalba-valdagno",
       "salone-federico-pasini-valdagno"
     ]
+  },
+  {
+    "date": "2026-10-04",
+    "summary": "Il lead più promettente di oggi è Dalle Carbonare Gianluigi (idraulico/termoidraulico, Carrè): assenza totale di presenza online (niente sito, social o email) a fronte di un bisogno molto concreto e ricorrente (perdite, caldaie rotte), che rende il beneficio di un sito facilissimo da spiegare anche in una breve telefonata. Pattern confermato ancora una volta: gli artigiani tecnici isolati (idraulici, tappezzieri, falegnami già visti nei giorni scorsi) restano scoperti su tutti i canali digitali e raggiungibili solo per telefono, mentre le attività a contatto diretto col pubblico (toelettatura, ristorazione) mantengono quasi sempre almeno un profilo social attivo. Novità di oggi: Pizzeria Il MezzoMetro (Piovene Rocchette) è il primo lead della settimana con GIÀ una buona presenza social propria (Facebook e Instagram attivi, recensioni ottime): per questo ha confidence MEDIA, perché il pitch non può più fare leva sulla scoperta online ma su un beneficio diverso (indipendenza dagli algoritmi social, punto di riferimento fisso su Google) — da verificare sul campo se regge altrettanto bene. Suggerimento pratico: per i lead 'già social-attivi' come questo vale la pena preparare in anticipo un secondo argomento di vendita più sofisticato, oltre alla semplice 'assenza online', perché il titolare potrebbe sentirsi già sufficientemente visibile. Nessun lead di oggi ha confidence 'basso' in senso stretto, ma sia Giulia and Dogs (Chiuppano, confidence medio-alto) sia soprattutto Pizzeria Il MezzoMetro (confidence medio) vanno trattati con un minimo di cautela: per quest'ultima resta anche da confermare sul campo, senza darla per certa nel primo contatto, l'ipotesi che la ragione sociale dietro l'insegna sia 'Pizzeria Grisù di Rossi Selina'.",
+    "leadIds": [
+      "dalle-carbonare-gianluigi-carre",
+      "giulia-and-dogs-chiuppano",
+      "pizzeria-il-mezzometro-piovene-rocchette"
+    ]
   }
 ]
