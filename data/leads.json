@@ -391,5 +391,76 @@
     "manualChannelNote": "Invio email manuale, nessun tool di invio automatizzato collegato a questa sessione. Ha già buona presenza social attiva (Facebook+Instagram, ~288 follower), quindi confidenza media sulla reale ricettività verso un sito proprio rispetto a chi non ha nulla online. Ragione sociale probabile 'Pizzeria Grisù di Rossi Selina' (stesso indirizzo e telefono riscontrati) non confermata con certezza: non nominata nel messaggio per prudenza.",
     "createdAt": "2026-10-04T06:24:05Z",
     "updatedAt": "2026-10-04T06:24:05Z"
+  },
+  {
+    "id": "fioreria-carla-costa-carlo-thiene",
+    "name": "Fioreria Carla di Costa Carlo",
+    "sector": "Fioraio / vendita al dettaglio di fiori e piante",
+    "comune": "Thiene (VI)",
+    "channel": "Telefono (chiamata manuale)",
+    "contactLabel": "Telefono",
+    "contactValue": "0445 362872",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/WXt9oXLvawt4PZSB94pFfN",
+    "messageA": "Buongiorno, sono Federico, mi scusi se la disturbo un minuto. La chiamo perché ho visto che la Fioreria Carla a Thiene ha delle recensioni davvero belle — 4,7 su 5 — e che siete aperti anche il mercoledì e la domenica mattina, cosa che non tutti i fioristi fanno. Io mi occupo di realizzare siti internet per negozi come il vostro, e proprio perché mi aveva incuriosito la vostra attività ho già preparato un'anteprima di un sito pensato apposta per voi, con orari, servizi e consegna a domicilio già inseriti. Non deve decidere niente al telefono: le andrebbe bene se passassi di persona in negozio per 10-15 minuti, nel giorno e all'ora che preferisce, così le faccio vedere direttamente sul portatile come viene? Se non le interessa me lo dica pure tranquillamente, non la disturbo più.",
+    "messageB": "Buongiorno, sono Federico, scusi il disturbo, le rubo solo un minuto. Mi occupo di siti internet per piccole attività della zona, e girando ho notato che la Fioreria Carla, qui a Thiene in via Giotto, non ha ancora un sito proprio — pur facendo anche consegna a domicilio e ritiro in negozio, cose che la gente spesso cerca prima su internet. Per curiosità ho già messo insieme un'anteprima di come potrebbe essere il vostro sito, pronta da vedere. Le andrebbe bene se passassi io direttamente da voi, giorno e ora che preferisce, per mostrargliela sul portatile in 10-15 minuti? Niente di impegnativo. Se non le interessa, me lo dica senza problemi, non la richiamo più.",
+    "sources": [
+      "https://www.paginebianche.it/scheda/thiene/fioreria-carla-costa-carlo.259156",
+      "https://www.paginegialle.it/thiene-vi/fiori-e-piante/fioreria-carla-costa-carlo",
+      "https://www.angoliverdi.it/Vivaiefioristi/fioreria-carla-di-costa-carlo-via-giotto-thiene/",
+      "https://www.virgilio.it/italia/thiene/cat/FIORI_E_PIANTE_VENDITA_AL_DETTAGLIO/fioraio.html"
+    ],
+    "confidence": "medio",
+    "manualChannelNote": "Nessuna email, social o PEC trovati (attenzione: un profilo 'Fiorista Carla' su Facebook/Instagram è un'attività omonima diversa con sede a Parma, NON collegata). Unico contatto è il telefono fisso 0445 362872: la chiamata serve solo a fissare l'incontro di persona, verificare chi risponde (titolare o commesso/familiare).",
+    "createdAt": "2026-10-05T06:30:00Z",
+    "updatedAt": "2026-10-05T06:30:00Z"
+  },
+  {
+    "id": "la-rapida-dalla-valle-mario-thiene",
+    "name": "La Rapida di Dalla Valle Mario",
+    "sector": "Calzolaio artigiano — riparazione calzature, pelletteria, borse/zaini/valigie, cinture e portafogli",
+    "comune": "Thiene (VI)",
+    "channel": "Telefono (chiamata manuale)",
+    "contactLabel": "Telefono",
+    "contactValue": "0445 370709",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/7JWupZPWemCQtHWtACk7zf",
+    "messageA": "Buongiorno, parlo con La Rapida di Dalla Valle Mario? ... Sono Federico, mi scuso per il disturbo, sarò velocissimo. Mi sono imbattuto nel vostro negozio di Via 51° Stormo a Thiene e ho visto che siete un punto di riferimento qui da oltre 50 anni per riparazione calzature e pelletteria — una storia così non è da tutti, davvero. Io mi occupo di realizzare siti web, e in questi giorni ne ho preparato già uno in anteprima pensato proprio per un'attività come la vostra, per farvi trovare più facilmente da chi cerca un calzolaio di fiducia qui a Thiene. Visto che non ho trovato un sito vostro online, ho pensato di farvelo vedere direttamente: posso passare in negozio con il portatile, ci vogliono solo 10-15 minuti, quando vi fa più comodo, magari un pomeriggio di questa settimana? Così lo vedete già pronto, senza impegno. Se invece non vi interessa, me lo dica pure tranquillamente, non vi disturbo più.",
+    "messageB": "Buongiorno, sono Federico, scusi il disturbo, due minuti e la lascio andare. La chiamo perché ho scoperto che da La Rapida, qui a Thiene, vi occupate anche di riparazione di scarpette da arrampicata, oltre alle calzature classiche — è una specializzazione che non si trova quasi da nessun altro calzolaio qui in zona, e mi sembrava un bel punto di forza da far conoscere. Io realizzo siti web, e ho già pronta un'anteprima di un sito pensato apposta per valorizzare proprio questo tipo di competenza, in modo che chi cerca un calzolaio specializzato vi trovi online. Visto che online non siete ancora presenti, le andrebbe se passassi in negozio con il computer per farglielo vedere dal vivo? Bastano 10-15 minuti, nel giorno e all'ora che preferisce lei, magari un pomeriggio che siete aperti. Se non le interessa, me lo dica senza problemi, non la richiamo più.",
+    "sources": [
+      "https://www.paginebianche.it/veneto/thiene/calzolai.html",
+      "https://www.coobiz.it/azienda/thiene-calzolaio-riparazione/co5289866",
+      "https://www.localshop24.com/it/thiene-vi-it/attivita/calzolaio-riparazione-scarpe/la-rapida/",
+      "https://registroaziende.it/azienda/la-rapida-di-dalla-valle-mario-thiene",
+      "https://www.misterimprese.it/veneto/vicenza/thiene/calzature-e-scarpe-su-misura-e-calzolai/756740.html"
+    ],
+    "confidence": "medio-alto",
+    "manualChannelNote": "Negozio aperto solo di pomeriggio (lun-mar/gio-ven 14:00-19:00, sab 14:00-18:00, chiuso mer e dom): chiamare in quella fascia. Nessuna email, social o PEC trovati (profili omonimi 'La Rapida' esistenti appartengono ad altre città, non collegati). Obiettivo della chiamata è solo fissare l'incontro di persona.",
+    "createdAt": "2026-10-05T06:30:00Z",
+    "updatedAt": "2026-10-05T06:30:00Z"
+  },
+  {
+    "id": "helios-erboristeria-todesco-santorso",
+    "name": "Helios Erboristeria di Todesco Alessandra",
+    "sector": "Erboristeria / cosmesi naturale, integratori, tisane, consulenza fitoterapica",
+    "comune": "Santorso (VI)",
+    "channel": "email",
+    "contactLabel": "Email",
+    "contactValue": "helioserbe@libero.it",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/L8P39Bx58iEiW8r3dy4hcd",
+    "messageA": "Oggetto: Un'anteprima per Helios Erboristeria (già pronta da vedere)\n\nBuongiorno Dott.ssa Todesco,\nsono Federico, realizzo siti web qui in zona: ho visto la pagina Facebook di Helios Erboristeria a Santorso e mi ha colpito che le vostre consulenze fitoterapiche siano fatte su misura, direttamente con lei. Un sito mostrerebbe questo valore anche a chi oggi vi cerca online prima di venire in negozio, magari per un consiglio su tisane o piante officinali specifiche. Ho già pronta un'anteprima del sito di Helios sul portatile: se le fa piacere, passo in negozio 10-15 minuti, nel giorno e orario che preferisce, per farvela vedere. Se non le interessa, mi faccia sapere e non la contatto più.\n\nUn saluto,\nFederico",
+    "messageB": "Oggetto: Helios Erboristeria: pronta un'anteprima del sito, passo a mostrarvela?\n\nBuongiorno Dott.ssa Todesco,\nsono Federico, mi occupo di siti web per piccole attività della zona. Seguo la pagina di Helios Erboristeria e trovo bello che a Santorso offriate ancora tisane e decotti preparati su misura con un consiglio diretto, una cosa che online raramente si riesce a far percepire. Avere un sito vi farebbe trovare subito da chi vi cerca su Google, con orari e tipo di consulenza chiari prima ancora di venire in negozio. Ho già pronta un'anteprima del sito sul portatile: se vuole, passo 10-15 minuti, nel giorno e ora che preferisce, per mostrargliela dal vivo. Se non le interessa, mi faccia sapere e non la disturbo più.\n\nUn saluto,\nFederico",
+    "sources": [
+      "https://www.facebook.com/helioserboristeria/",
+      "https://www.misterimprese.it/veneto/vicenza/santorso/erboristerie/751662.html",
+      "https://www.coobiz.it/azienda/santorso-commercio-dettaglio/co4129789",
+      "https://www.erboristerie.biz/VI/erboristerie_a_Santorso/erboristeria-helios_6102.html",
+      "https://www.oraridiapertura24.it/filiale/Santorso-Erboristeria%2520Helios%2520Di%2520Dott.Ssa%2520Alessandra%2520Todesco-1588960E.html"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "Email è canale normalmente utilizzabile, nessuna nota particolare. In caso di mancata risposta: cellulare 347 453 9813 come canale di riserva (potenziale WhatsApp, non verificato) o pagina Facebook. Attenzione: 'Erboristeria Sorriso Naturale' (sorrisonaturale.it) è un'attività diversa con sito proprio, non collegata a questo lead.",
+    "createdAt": "2026-10-05T06:30:00Z",
+    "updatedAt": "2026-10-05T06:30:00Z"
   }
 ]

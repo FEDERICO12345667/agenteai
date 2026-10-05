@@ -51,5 +51,14 @@
       "giulia-and-dogs-chiuppano",
       "pizzeria-il-mezzometro-piovene-rocchette"
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "summary": "Il lead più promettente di oggi è Helios Erboristeria (Santorso): ha email diretta, pagina Facebook attiva con centinaia di \"mi piace\" e un beneficio facile da comunicare (la consulenza fitoterapica personalizzata che oggi resta invisibile online), quindi confidence alta e un canale di contatto scritto, più comodo da gestire rispetto a una telefonata a freddo. Pattern confermato ancora oggi: i piccoli artigiani isolati (fioraio, calzolaio) restano raggiungibili solo via telefono fisso, mentre le attività con una minima presenza social riescono quasi sempre a offrire anche un'email o un contatto scritto. Suggerimento pratico: per La Rapida (calzoleria, Thiene), essendo il negozio aperto solo di pomeriggio, conviene chiamare proprio in quella fascia oraria per aumentare la probabilità di parlare col titolare. Nessun lead di oggi ha confidence \"basso\": Fioreria Carla ha confidence medio (presenza online complessivamente scarsa, solo directory, nessun social verificato) e va quindi trattata con un minimo di cautela in più rispetto agli altri due, mentre La Rapida ha confidence medio-alto nonostante il solo contatto telefonico, per la coerenza del dato su molte fonti indipendenti.",
+    "leadIds": [
+      "fioreria-carla-costa-carlo-thiene",
+      "la-rapida-dalla-valle-mario-thiene",
+      "helios-erboristeria-todesco-santorso"
+    ]
   }
 ]
