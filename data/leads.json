@@ -462,5 +462,75 @@
     "manualChannelNote": "Email è canale normalmente utilizzabile, nessuna nota particolare. In caso di mancata risposta: cellulare 347 453 9813 come canale di riserva (potenziale WhatsApp, non verificato) o pagina Facebook. Attenzione: 'Erboristeria Sorriso Naturale' (sorrisonaturale.it) è un'attività diversa con sito proprio, non collegata a questo lead.",
     "createdAt": "2026-10-05T06:30:00Z",
     "updatedAt": "2026-10-05T06:30:00Z"
+  },
+  {
+    "id": "macelleria-gasparella-zane",
+    "name": "Macelleria Gasparella",
+    "sector": "Macelleria / gastronomia (bisteccheria)",
+    "comune": "Zanè (VI)",
+    "channel": "Facebook (messaggio privato alla pagina, invio manuale)",
+    "contactLabel": "Pagina Facebook",
+    "contactValue": "https://www.facebook.com/macelleriagasparella/",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/DzAcmHDaCgCPwrHTBHL4eL",
+    "messageA": "Ciao, sono Federico. La Macelleria Gasparella a Zanè che si tramanda da generazioni mi ha incuriosito: una storia così meriterebbe un sito che la racconti e porti nuovi clienti a conoscervi. Ne ho già pronta un'anteprima. Passo 10-15 minuti quando preferisci per mostrartela dal portatile. Se non ti interessa fammelo sapere, non ti scrivo più.",
+    "messageB": "Ciao, sono Federico. Ho visto il rinnovamento della Macelleria Gasparella a Zanè con l'architetto Bellotto, selezionato per il Maculan Award: un negozio moderno merita un sito che faccia innamorare online chi non vi conosce e lo porti da voi. Ho un'anteprima pronta: passo 10-15 minuti quando preferisci per mostrartela dal portatile. Se non ti interessa fammelo sapere, non ti scrivo più.",
+    "sources": [
+      "https://www.facebook.com/macelleriagasparella/",
+      "https://www.tripadvisor.it/Restaurant_Review-g2016219-d27325173-Reviews-Macelleria_Gasparella-Zane_Province_of_Vicenza_Veneto.html",
+      "https://restaurantguru.it/Macelleria-Gasparella-Zane",
+      "https://www.coobiz.it/azienda/zane-commercio-minuto/co3991566"
+    ],
+    "confidence": "medio-alta",
+    "manualChannelNote": "L'invio del messaggio su Facebook Messenger richiede accesso e azione manuale (login, apertura pagina, invio chat), non automatizzabile. Canale di riserva: telefono 0445 314095. Nota: esiste una recensione negativa recente su Tripadvisor (ott 2025, calo qualità) non menzionata nella demo né nel messaggio: da tenere a mente, non bloccante.",
+    "createdAt": "2026-10-06T06:30:00Z",
+    "updatedAt": "2026-10-06T06:30:00Z"
+  },
+  {
+    "id": "carrozzeria-rondon-zane",
+    "name": "Carrozzeria Rondon",
+    "sector": "Carrozzeria (riparazione e verniciatura auto)",
+    "comune": "Zanè (VI)",
+    "channel": "Facebook (messaggio privato alla pagina, invio manuale)",
+    "contactLabel": "Pagina Facebook",
+    "contactValue": "https://www.facebook.com/people/Carrozzeria-Rondon/100025626655655/",
+    "pec": "carrozzeriarondon@pec.it",
+    "demoUrl": "https://claude.ai/artifact/TExjSg77wYb5amF5pJtUsJ",
+    "messageA": "Buongiorno, sono Federico. Ho visto che per la Carrozzeria Rondon a Zanè esiste già il dominio carrozzeriarondon.it, ma la pagina è rimasta \"in costruzione\" da tempo. Ho preparato già un'anteprima del sito, pronta da vedere. Posso passare in officina 10-15 minuti, quando preferisce, per mostrargliela dal portatile? Se non interessa, fatemelo sapere e non scrivo più.",
+    "messageB": "Buongiorno, sono Federico. La Carrozzeria Rondon lavora a Zanè dal 1991, con soccorso stradale 24 ore e tanta esperienza da raccontare — peccato che online non si trovi quasi nulla. Ho già pronta un'anteprima del sito che fa vedere tutto questo. Posso passare in officina 10-15 minuti, nel giorno che preferisce? Se non interessa, fatemelo sapere e non scrivo più.",
+    "sources": [
+      "https://www.paginebianche.it/veneto/zane/carrozzeria-rondon.html",
+      "https://aziende.virgilio.it/autocarrozzeria/zane-vi/carrozzeria-rondon-rondon-franco-c",
+      "https://www.reteimprese.it/carrozzerie-automobili/zan%C3%A8/azienda/625092",
+      "https://www.autofficina24.com/azienda-carrozzeria-rondon-di-rondon-franco-zane-61960"
+    ],
+    "confidence": "media",
+    "manualChannelNote": "L'email trovata (carrozzeriarondon@gmail.com, aggregatore) non è verificata su canale ufficiale: usabile solo come terzo tentativo. Canale scelto (Facebook) richiede invio manuale via Messenger. Telefono di riserva: 0445 314101. Nota: alcune fonti indicano la forma societaria come S.a.s. invece di S.n.c., discrepanza non risolta con certezza. Esiste già un dominio (carrozzeriarondon.it) registrato ma rimasto \"in costruzione\".",
+    "createdAt": "2026-10-06T06:30:00Z",
+    "updatedAt": "2026-10-06T06:30:00Z"
+  },
+  {
+    "id": "malombra-vicenza",
+    "name": "Malombra",
+    "sector": "Enoteca / wine bar",
+    "comune": "Vicenza (VI)",
+    "channel": "Email",
+    "contactLabel": "Email",
+    "contactValue": "malombra73@gmail.com",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/Xi2pw7aSFf5mny234VHYHS",
+    "messageA": "Oggetto: Malombra e quella carta vini che cambia ogni settimana\n\nCiao, sono Federico, mi occupo di siti web e sono incappato in Malombra proprio nel centro storico di Vicenza, vicino Piazza San Lorenzo: mi ha incuriosito che la vostra carta vini naturali cambi così spesso, una cosa che online oggi non si racconta da nessuna parte, se non passando di persona. Ho già pronta un'anteprima di un sito pensato apposta per voi, giusto per far percepire anche a chi non vi conosce questo lato \"vivo\" del locale prima ancora che decida se fermarsi. Se vi va, passo in enoteca 10-15 minuti, nel giorno e all'ora che preferite (capisco che la sera siete pieni), porto il portatile e ve la mostro, senza impegno.\nSe non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageB": "Oggetto: Chi sceglie Malombra oggi lo scopre solo dalle recensioni di altri\n\nCiao, sono Federico, realizzo siti web e ho notato che Malombra, nel centro storico di Vicenza vicino Piazza San Lorenzo, oggi si trova online solo tramite Facebook, Instagram e le parole di chi ci è già stato su TripAdvisor o Sluurpy: belle recensioni, ma a raccontarvi sono sempre gli altri, non voi. Ho già pronta un'anteprima di un sito che restituisce a Malombra quella voce, pensata per chi sta decidendo se venire e prima vuole due informazioni in più online. Se può interessarvi, passo da voi 10-15 minuti, nel giorno e all'ora che vi va meglio (anche prima dell'apertura serale), porto il portatile e ve la faccio vedere dal vivo.\nSe non ti interessa fammelo sapere e non ti scrivo più.",
+    "sources": [
+      "https://www.facebook.com/p/Malombra-bar-100067629099723/",
+      "https://www.tripadvisor.it/Restaurant_Review-g187872-d27408599-Reviews-Malombra_Bar-Vicenza_Province_of_Vicenza_Veneto.html",
+      "https://www.sluurpy.it/vicenza/ristorante/9130197/malombra-bar",
+      "https://dovemangiare24.it/locale/malombra-vicenza/",
+      "https://www.instagram.com/malombra_vicenza/"
+    ],
+    "confidence": "media",
+    "manualChannelNote": "",
+    "createdAt": "2026-10-06T06:30:00Z",
+    "updatedAt": "2026-10-06T06:30:00Z"
   }
 ]

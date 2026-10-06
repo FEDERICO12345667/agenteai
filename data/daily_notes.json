@@ -60,5 +60,14 @@
       "la-rapida-dalla-valle-mario-thiene",
       "helios-erboristeria-todesco-santorso"
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "summary": "Il lead piu' promettente di oggi e' Malombra (Vicenza): email affidabile e automatizzabile, zero presenza online propria (solo recensioni scritte da terzi) e un posizionamento premium (vini naturali, atmosfera intima) che rende il beneficio facile da comunicare. Pattern notato: diverse attivita' storiche della zona hanno gia' sentito il bisogno di un sito ma non l'hanno mai completato (Carrozzeria Rondon ha un dominio registrato dal 2015 circa rimasto 'in costruzione'), un argomento di apertura molto efficace. Suggerimento pratico: Macelleria Gasparella e Carrozzeria Rondon vanno entrambe contattate via messaggio privato Facebook (invio manuale): conviene raggrupparle in un'unica sessione quando ci si collega ai social. Nessun lead di oggi ha confidence 'basso', ma per Macelleria Gasparella va verificata di persona la recensione negativa recente su Tripadvisor e gli orari discordanti, mentre per Carrozzeria Rondon va chiarita la forma societaria (S.n.c. vs S.a.s.) e l'affidabilita' dell'email trovata su aggregatore prima di usarla.",
+    "leadIds": [
+      "macelleria-gasparella-zane",
+      "carrozzeria-rondon-zane",
+      "malombra-vicenza"
+    ]
   }
 ]
