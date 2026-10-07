@@ -532,5 +532,69 @@
     "manualChannelNote": "",
     "createdAt": "2026-10-06T06:30:00Z",
     "updatedAt": "2026-10-06T06:30:00Z"
+  },
+  {
+    "id": "gelateria-il-piacere-schio",
+    "name": "Gelateria Il Piacere",
+    "sector": "Gelateria artigianale con linea certificata AIC senza glutine",
+    "comune": "Schio (VI)",
+    "channel": "Nessun canale digitale trovato - visita diretta in negozio",
+    "contactLabel": "Nessuno (visita diretta)",
+    "contactValue": "",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/MhsBGRv7uLctECbYeRt2iC",
+    "messageA": "Buongiorno, mi chiamo Federico, mi occupo di siti web per attività locali qui nella zona. Sono passato perché ho visto che avete tantissime recensioni bellissime online, quasi 470 con 4,8 stelle, e la vostra linea certificata AIC senza glutine viene descritta come un vero paradiso per i celiaci — ma non avete un sito vostro dove farvi trovare da chi cerca proprio questo. Avrei già pronta un'anteprima di come potrebbe essere il vostro sito: se avete un attimo gliela mostro subito qui sul portatile, altrimenti ci vediamo con calma un'altra volta per 10-15 minuti. Se non vi interessa nessun problema, le auguro comunque buona giornata e complimenti per il gelato.",
+    "messageB": "Salve, sono Federico, lavoro con piccole attività della zona per creare siti su misura. Mi ha colpito che un'attività gestita così bene, a conduzione familiare, con prodotti di qualità e anche opzioni dairy-free, non abbia ancora un sito tutto suo — chi vi cerca online trova solo le recensioni su altri portali, non voi direttamente. Ho già preparato una bozza di sito pensata proprio per voi: se volete ve la faccio vedere due minuti adesso sul computer, oppure ci organizziamo un altro giorno con calma. Nessuna pressione, se non fa al caso vostro va benissimo lo stesso, buon lavoro.",
+    "sources": [
+      "https://www.sluurpy.it/schio/gelateria",
+      "https://atly.com/best/gluten-free/italy-province-of-vicenza-schio",
+      "https://wanderlog.com/place/details/10159248/il-piacere-del-gelato",
+      "https://restaurantguru.it/desserts-Schio-t12",
+      "https://www.gamberorosso.it/?p=79062"
+    ],
+    "confidence": "medio",
+    "manualChannelNote": "Per questo lead non esiste alcun canale digitale utilizzabile (niente email, social, telefono pubblico o PEC), quindi non è possibile inviare un messaggio di primo contatto a distanza. L'unica opzione concreta è recarsi di persona in negozio, in Via Battaglione Val Leogra 79 a Schio, durante l'orario di apertura (non reperibile online, quindi da verificare sul posto o telefonicamente), presentandosi come Federico e chiedendo di parlare direttamente con il titolare, senza alcun messaggio scritto precedente. Come alternativa più rapida, prima di recarsi fisicamente sul posto si consiglia di provare a chiamare un servizio di elenco telefonico pubblico (es. 892424 Pronto Pagine Gialle, o 892412 Elenco Telefonico) per verificare se esiste un numero associato all'attività e sapere se è ancora attiva e con quali orari, in modo da evitare un viaggio a vuoto. messageA/messageB sono in realtà script a voce da usare solo di persona in negozio, non messaggi a distanza.",
+    "createdAt": "2026-10-07T06:21:00Z",
+    "updatedAt": "2026-10-07T06:21:00Z"
+  },
+  {
+    "id": "ottica-pietrobelli-giorgio-piovene-rocchette",
+    "name": "Pietrobelli Giorgio (Ottica)",
+    "sector": "Ottica — vendita occhiali da vista e da sole, lenti a contatto, esame della vista",
+    "comune": "Piovene Rocchette (VI)",
+    "channel": "Telefono (chiamata di verifica, bassa confidenza sulla fonte)",
+    "contactLabel": "Telefono",
+    "contactValue": "0445 651446",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/AGXQiGV6xVJgAnWm1ofS5v",
+    "messageA": "Pronto, buongiorno, sono Federico, scusi il disturbo. Chiamo per l'Ottica Pietrobelli qui a Piovene Rocchette, volevo solo controllare di aver trovato il numero giusto: è l'ottica di Via Libertà? [attende conferma] Perfetto, grazie, mi scusi ancora un attimo del suo tempo. Mi occupo di realizzare siti semplici per negozi della zona, per farsi trovare più facilmente da chi cerca un ottico qui vicino su internet. Ho già preparato una bozza di anteprima per la sua attività: se le va, passerei in negozio 10-15 minuti, quando le fa più comodo, giorno e orario che preferisce, per mostrargliela dal vivo sul portatile, senza impegno. Se invece non le interessa, mi dica pure tranquillamente e non la disturbo più.",
+    "messageB": "Buongiorno, sono Federico, mi scusi se la disturbo un attimo. Ho questo numero per l'Ottica Pietrobelli di Piovene Rocchette e volevo solo verificare se è ancora il recapito giusto e se siete ancora aperti. [attende conferma] Bene, grazie mille. Le spiego in due parole perché la chiamo: realizzo siti semplici per attività come la sua, l'idea è farvi trovare più facilmente da chi cerca un ottico qui in zona su Google. Ho già fatto una piccola anteprima pensata apposta per il suo negozio: se può interessarle, passerei di persona, un quarto d'ora al massimo, nel giorno e all'ora che preferisce lei, per farle vedere come viene sul portatile. Se non è una cosa che le interessa va benissimo lo stesso, basta che me lo dica e non la disturbo più.",
+    "sources": [
+      "https://www.impresaitalia.info/52482/1/ottica/schio.aspx"
+    ],
+    "confidence": "basso",
+    "manualChannelNote": "L'unico contatto disponibile è un numero fisso riportato da un'unica directory (impresaitalia.info) e ripreso identico da aggregatori derivati — nessuna conferma indipendente tramite Google Maps, recensioni, social o registro imprese. Prima di qualsiasi proposta commerciale, Federico deve telefonare con l'unico scopo di verificare che il numero sia corretto e che l'attività esista/sia ancora operativa a quell'indirizzo. Solo se questa verifica ha esito positivo (risponde qualcuno che conferma di essere l'Ottica Pietrobelli), si procede nella stessa chiamata a proporre una visita di persona in negozio di 10-15 minuti per mostrare l'anteprima del sito sul portatile. Se il numero risulta errato, non più attivo, o nessuno conferma l'attività, il lead va segnato come non verificabile/non contattabile e NON si procede oltre. Orari pubblicati nella demo sono indicativi, non verificati: da confermare al telefono.",
+    "createdAt": "2026-10-07T06:21:00Z",
+    "updatedAt": "2026-10-07T06:21:00Z"
+  },
+  {
+    "id": "ciscato-carlo-tabaccheria-chiuppano",
+    "name": "Ciscato Carlo (Tabaccheria)",
+    "sector": "Tabaccheria / generi di monopolio (giornali, valori bollati, Lotto/Gratta e Vinci, ricariche)",
+    "comune": "Chiuppano (VI)",
+    "channel": "Telefono (chiamata di verifica, bassa confidenza sulla fonte)",
+    "contactLabel": "Telefono",
+    "contactValue": "0445 390377",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/T9i3VBWReUQDsjaEa8qPGj",
+    "messageA": "Buongiorno, sono Federico. Scusi il disturbo, volevo solo verificare una cosa veloce: sto cercando la tabaccheria di Via Roma 24 qui a Chiuppano, lei è il signor Ciscato Carlo, giusto? [attende conferma] Perfetto, chiedevo perché ho visto che c'è anche un'altra tabaccheria in Via Roma 68 e non volevo sbagliare numero. [Solo se conferma positiva] Bene, allora le spiego perché la chiamo: lavoro con piccole attività della zona per aiutarle a farsi trovare anche online, visto che tante persone oggi cercano negozi e orari su internet prima ancora di passarci davanti. Ho già preparato un'anteprima di come potrebbe essere un sito per la sua tabaccheria, giusto per farle vedere l'idea, senza impegno. Se le va, passerei volentieri in negozio una decina di minuti, quando le fa più comodo, per mostrargliela dal portatile. Mi dice lei il giorno e l'ora che preferisce? Se invece non le interessa, mi dica pure tranquillamente e non la disturbo più.",
+    "messageB": "Buongiorno, parlo con la tabaccheria di Via Roma 24? Sono Federico. Prima di tutto scusi, volevo essere sicuro di aver chiamato il numero giusto: lei è il signor Ciscato, vero, e siete al civico 24 e non al 68? [attende conferma] Ok, perfetto. Allora in breve: giro le attività di Chiuppano e dintorni per aiutarle ad avere una piccola presenza online, così anche chi non vi conosce ancora riesce a trovarvi più facilmente. Ho già fatto una bozza di sito pensata apposta per la sua tabaccheria, e mi piacerebbe passare a mostrargliela di persona, dieci minuti al massimo, sul portatile, quando è più comodo per lei - mattina, pomeriggio, il giorno che preferisce lei. Se non è il momento o non le interessa, nessun problema, mi basta che me lo dica.",
+    "sources": [
+      "https://www.impresaitalia.info/ik00819725/ciscato-carlo/chiuppano.aspx"
+    ],
+    "confidence": "basso",
+    "manualChannelNote": "L'unico contatto disponibile è un numero fisso reperito esclusivamente su un aggregatore di dati camerali (impresaitalia.info), senza alcuna conferma indipendente (niente Google Maps, social, recensioni o sito proprio). Esiste inoltre un'altra tabaccheria in Via Roma 68 a Chiuppano con numero diverso (0445 390547): c'è quindi un concreto rischio di aver preso il contatto sbagliato o di confondere le due insegne. La prima (e unica) telefonata NON deve essere una proposta commerciale diretta, ma deve servire anzitutto a verificare a voce che il numero risponda davvero alla tabaccheria di Ciscato Carlo in Via Roma 24 e che l'attività sia ancora operativa. Solo se la verifica ha esito positivo si prosegue proponendo la visita in negozio. Se la verifica fallisce (numero sbagliato, è invece quella di Via Roma 68, o l'attività risulta chiusa), chiudere cortesemente la chiamata senza alcuna proposta commerciale.",
+    "createdAt": "2026-10-07T06:21:00Z",
+    "updatedAt": "2026-10-07T06:21:00Z"
   }
 ]

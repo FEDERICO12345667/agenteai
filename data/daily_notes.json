@@ -69,5 +69,14 @@
       "carrozzeria-rondon-zane",
       "malombra-vicenza"
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "summary": "Il lead più promettente di oggi è la Gelateria Il Piacere (Schio): rating altissimo (4,8/5 su quasi 470 recensioni) e una storia concreta da raccontare (linea certificata AIC senza glutine), ma è anche il caso più estremo visto finora perché non ha ALCUN canale digitale pubblico (niente telefono, email, social o PEC) — per questo l'unico approccio possibile è una visita diretta in negozio, idealmente preceduta da una verifica tramite elenco telefonico pubblico per non fare un viaggio a vuoto. Gli altri due lead di oggi, Ottica Pietrobelli (Piovene Rocchette) e Tabaccheria Ciscato Carlo (Chiuppano), hanno ENTRAMBI confidenza BASSA e vanno verificati manualmente prima di contattare: l'unica fonte trovata per ciascuno è un aggregatore di dati camerali, senza alcuna conferma indipendente (niente Google Maps, recensioni o social); per Ciscato c'è inoltre un concreto rischio di confondersi con un'altra tabaccheria nello stesso comune (Via Roma 68 vs Via Roma 24), quindi lo script prevede una telefonata di sola verifica prima di qualunque proposta. Pattern notato: esplorando oggi settori più \"di nicchia\" (gelateria, ottica, tabaccheria) rispetto a ristorazione/estetica/parrucchieri dei giorni scorsi, la presenza online cala bruscamente, segno che vale la pena continuare a battere questi settori meno \"social-friendly\" per trovare lead autentici. Suggerimento pratico: per i due lead a bassa confidenza usare sempre la telefonata di verifica come primo passo, e per la Gelateria Il Piacere valutare se vale la pena una visita a sorpresa vista l'assenza totale di contatti verificabili in anticipo.",
+    "leadIds": [
+      "gelateria-il-piacere-schio",
+      "ottica-pietrobelli-giorgio-piovene-rocchette",
+      "ciscato-carlo-tabaccheria-chiuppano"
+    ]
   }
 ]
