@@ -1,0 +1,211 @@
+[
+ {
+  "id": "ambulatorio-veterinario-albertini-filippi-malo",
+  "name": "Ambulatorio Veterinario Albertini Giovanna Filippi M.Nadia",
+  "sector": "Ambulatorio veterinario per piccoli animali (cani e gatti)",
+  "comune": "Malo (VI)",
+  "channel": "Telefono (chiamata diretta)",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Attivita chiusa definitivamente secondo Google.",
+  "when": "2026-10-01T16:05:15.949Z"
+ },
+ {
+  "id": "carrozzeria-rondon-zane",
+  "name": "Carrozzeria Rondon",
+  "sector": "Carrozzeria (riparazione e verniciatura auto)",
+  "comune": "Zanè (VI)",
+  "channel": "Facebook (messaggio privato alla pagina, invio manuale)",
+  "confidence": "media",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-07T15:43:58.858Z"
+ },
+ {
+  "id": "ciscato-carlo-tabaccheria-chiuppano",
+  "name": "Ciscato Carlo (Tabaccheria)",
+  "sector": "Tabaccheria / generi di monopolio (giornali, valori bollati, Lotto/Gratta e Vinci, ricariche)",
+  "comune": "Chiuppano (VI)",
+  "channel": "Telefono (chiamata di verifica, bassa confidenza sulla fonte)",
+  "confidence": "basso",
+  "status": "scartato",
+  "reason": "Scartato dall'utente, motivo non indicato.",
+  "when": "2026-10-08T15:06:30.664Z"
+ },
+ {
+  "id": "comparin-sergio-impianti-elettrici-santorso",
+  "name": "Comparin Sergio Impianti Elettrici",
+  "sector": "Elettricista - impianti elettrici civili e industriali",
+  "comune": "Santorso",
+  "channel": "Telefono (chiamata manuale)",
+  "confidence": "",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-01T15:56:19.526Z"
+ },
+ {
+  "id": "dalle-carbonare-gianluigi-carre",
+  "name": "Dalle Carbonare Gianluigi",
+  "sector": "Idraulico / impianti idraulici e termoidraulici",
+  "comune": "Carrè (VI)",
+  "channel": "Telefono (chiamata manuale)",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Scartato dall'utente, motivo non indicato.",
+  "when": "2026-10-08T15:11:51.655Z"
+ },
+ {
+  "id": "estetica-limbios-piovene-rocchette",
+  "name": "Estetica Limbios di Zenari Paola",
+  "sector": "Centro estetico / estetista",
+  "comune": "Piovene Rocchette",
+  "channel": "Facebook Messenger",
+  "confidence": "",
+  "status": "risposto_no",
+  "reason": "",
+  "when": "2026-09-30T16:00:53.015Z"
+ },
+ {
+  "id": "gioielleria-stefani-marano-vicentino",
+  "name": "Gioielleria Stefani (Stefani F.lli Snc di Lorella, Robertino, Gianfranco & C.)",
+  "sector": "Gioielleria / orologeria — rivenditore ufficiale Hamilton e Longines",
+  "comune": "Marano Vicentino (VI)",
+  "channel": "Nessuno disponibile - solo visita di persona",
+  "confidence": "medio",
+  "status": "scartato",
+  "reason": "Segnalato dall'utente: aveva gia un sito. Fonti solo store-locator Hamilton/Longines, confidenza media. Rivenditore di marchi noti.",
+  "when": "2026-10-08T15:03:26.964Z"
+ },
+ {
+  "id": "giulia-and-dogs-chiuppano",
+  "name": "Giulia and Dogs di Segalla Giulia",
+  "sector": "Toelettatura cani e gatti",
+  "comune": "Chiuppano (VI)",
+  "channel": "WhatsApp",
+  "confidence": "medio-alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-07T15:44:53.918Z"
+ },
+ {
+  "id": "giulia-gabrieli-fotografia-valdagno",
+  "name": "Giulia Gabrieli Fotografia & Grafica (Giulia Gabrieli Wedding)",
+  "sector": "Fotografa di matrimoni ed eventi, con attività collaterale di grafica",
+  "comune": "Valdagno (VI)",
+  "channel": "Nessuno diretto disponibile - richiede reperimento manuale",
+  "confidence": "basso",
+  "status": "scartato",
+  "reason": "Segnalato dall'utente: aveva gia un sito (giuliagabrieli.com esiste). Fonti solo Matrimonio.com, confidenza bassa.",
+  "when": "2026-10-08T15:04:28.308Z"
+ },
+ {
+  "id": "le-figaro-parrucchieri-zane",
+  "name": "Le Figaro Parrucchieri di Balasso Antonio",
+  "sector": "Parrucchiere (salone uomo/donna)",
+  "comune": "Zanè (VI)",
+  "channel": "telefono-whatsapp",
+  "confidence": "alto",
+  "status": "risposto_no",
+  "reason": "",
+  "when": "2026-09-30T16:01:04.971Z"
+ },
+ {
+  "id": "macelleria-gasparella-zane",
+  "name": "Macelleria Gasparella",
+  "sector": "Macelleria / gastronomia (bisteccheria)",
+  "comune": "Zanè (VI)",
+  "channel": "Facebook (messaggio privato alla pagina, invio manuale)",
+  "confidence": "medio-alta",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-07T15:51:38.151Z"
+ },
+ {
+  "id": "officina-meccanica-mendo-mariano-marano-vicentino",
+  "name": "Officina Meccanica di Mendo Mariano e C. S.n.c.",
+  "sector": "Officina meccanica / autofficina",
+  "comune": "Marano Vicentino",
+  "channel": "Telefono (chiamata manuale)",
+  "confidence": "",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-01T15:53:32.655Z"
+ },
+ {
+  "id": "ottica-pietrobelli-giorgio-piovene-rocchette",
+  "name": "Pietrobelli Giorgio (Ottica)",
+  "sector": "Ottica — vendita occhiali da vista e da sole, lenti a contatto, esame della vista",
+  "comune": "Piovene Rocchette (VI)",
+  "channel": "Telefono (chiamata di verifica, bassa confidenza sulla fonte)",
+  "confidence": "basso",
+  "status": "scartato",
+  "reason": "Scartato dall'utente, motivo non indicato.",
+  "when": "2026-10-08T15:12:47.606Z"
+ },
+ {
+  "id": "pellizzari-roberto-tappezzeria-chiuppano",
+  "name": "Pellizzari Roberto",
+  "sector": "Tappezzeria artigiana (rifacimento tappezzeria per poltrone, divani, sedili, sedie) con falegnameria collegata",
+  "comune": "Chiuppano (VI)",
+  "channel": "Telefono (chiamata diretta)",
+  "confidence": "medio",
+  "status": "scartato",
+  "reason": "Scartato dall'utente, motivo non indicato.",
+  "when": "2026-10-01T15:34:36.254Z"
+ },
+ {
+  "id": "pizzeria-il-mezzometro-piovene-rocchette",
+  "name": "Pizzeria Il MezzoMetro",
+  "sector": "Pizzeria (asporto/consegna)",
+  "comune": "Piovene Rocchette (VI)",
+  "channel": "email",
+  "confidence": "medio",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-07T15:38:36.596Z"
+ },
+ {
+  "id": "record-bike-malo",
+  "name": "Record Bike S.N.C.",
+  "sector": "Articoli sportivi — negozio di biciclette, rivenditore ufficiale Pinarello",
+  "comune": "Malo (VI)",
+  "channel": "Telefono (chiamata manuale, numero da verificare)",
+  "confidence": "medio-basso",
+  "status": "scartato",
+  "reason": "Ha gia un sito proprio (recordbike.com). Lo Scout non lo aveva trovato: fonte unica = aggregatore PromoQui, confidenza medio-bassa.",
+  "when": "2026-10-08T15:04:19.039Z"
+ },
+ {
+  "id": "termoidraulica-guglielmi-marano-vicentino",
+  "name": "Termoidraulica Guglielmi",
+  "sector": "Termoidraulica",
+  "comune": "Marano Vicentino (VI)",
+  "channel": "telefono (chiamata diretta)",
+  "confidence": "medio",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-01T15:40:10.198Z"
+ },
+ {
+  "id": "thiene-affari-apolloni-silvia-thiene",
+  "name": "Thiene Affari di Apolloni Silvia",
+  "sector": "Agenzia immobiliare (compravendite, affitti, valutazioni, consulenza/gestione immobili residenziali e commerciali)",
+  "comune": "Thiene (VI)",
+  "channel": "email",
+  "confidence": "medio",
+  "status": "risposto_no",
+  "reason": "",
+  "when": "2026-10-07T15:34:49.105Z"
+ },
+ {
+  "id": "trattoria-ca-vecchia-carre",
+  "name": "Trattoria Ca' Vecchia",
+  "sector": "Ristorazione (trattoria)",
+  "comune": "Carrè (VI)",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Scartato dall'utente, motivo non indicato.",
+  "when": "2026-10-01T16:05:07.116Z"
+ }
+]
