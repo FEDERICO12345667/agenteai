@@ -596,5 +596,67 @@
     "manualChannelNote": "L'unico contatto disponibile è un numero fisso reperito esclusivamente su un aggregatore di dati camerali (impresaitalia.info), senza alcuna conferma indipendente (niente Google Maps, social, recensioni o sito proprio). Esiste inoltre un'altra tabaccheria in Via Roma 68 a Chiuppano con numero diverso (0445 390547): c'è quindi un concreto rischio di aver preso il contatto sbagliato o di confondere le due insegne. La prima (e unica) telefonata NON deve essere una proposta commerciale diretta, ma deve servire anzitutto a verificare a voce che il numero risponda davvero alla tabaccheria di Ciscato Carlo in Via Roma 24 e che l'attività sia ancora operativa. Solo se la verifica ha esito positivo si prosegue proponendo la visita in negozio. Se la verifica fallisce (numero sbagliato, è invece quella di Via Roma 68, o l'attività risulta chiusa), chiudere cortesemente la chiamata senza alcuna proposta commerciale.",
     "createdAt": "2026-10-07T06:21:00Z",
     "updatedAt": "2026-10-07T06:21:00Z"
+  },
+  {
+    "id": "gioielleria-stefani-marano-vicentino",
+    "name": "Gioielleria Stefani (Stefani F.lli Snc di Lorella, Robertino, Gianfranco & C.)",
+    "sector": "Gioielleria / orologeria — rivenditore ufficiale Hamilton e Longines",
+    "comune": "Marano Vicentino (VI)",
+    "channel": "Nessuno disponibile - solo visita di persona",
+    "contactLabel": "N/A",
+    "contactValue": "N/A",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/YQgAc5G9u785HYeFdNWphB",
+    "messageA": "Buongiorno, sono Federico. Scusate il disturbo un attimo — ho visto che siete rivenditori ufficiali sia Hamilton che Longines, e per un paese come Marano Vicentino non è cosa da poco, le case orologiere ne scelgono pochissimi per zona. Mi occupo di siti web e ho notato che oggi, se qualcuno vi cerca online, trova solo le pagine di Hamilton e Longines, non una pagina vostra. Avrei già pronta un'anteprima di come potrebbe essere il vostro sito — se vi va, passo un altro momento con il portatile e ve la mostro, dieci minuti, non di più. Se non vi interessa nessun problema, buona giornata.",
+    "messageB": "Ciao, sono Federico, scusate se vi fermo un attimo. Sono passato qui in piazza e ho visto l'insegna — bello avere in paese un rivenditore ufficiale Hamilton e Longines insieme, è un segnale di fiducia non da tutti i negozi. Io lavoro con i siti web, e mi è venuta un'idea guardando che online di voi si trova solo la scheda sui siti dei brand, non qualcosa di vostro dove chi è di zona possa trovarvi direttamente. Ho già buttato giù un'anteprima di come potrebbe venire — se avete un quarto d'ora un altro giorno, passo con il portatile e ve la faccio vedere, senza impegno. Altrimenti nessun problema, buona giornata e scusate il disturbo.",
+    "sources": [
+      "https://www.hamiltonwatch.com/en-us/store-locator/italy/veneto/marano-vicentino/gioelleria-stefani",
+      "https://www.longines.com/it-ch/store/id/stefani-flli-snc-di-lorella-robertino-gianfranco-c-marano-vicentino-143553"
+    ],
+    "confidence": "medio",
+    "manualChannelNote": "Nessun canale di contatto a distanza trovato (niente email, social, telefono, PEC). Unica via: visita diretta in negozio (Piazza Silva 18, Marano Vicentino, orari indicativi mart-sab), idealmente con verifica preliminare di un numero su elenco pubblico (es. Pagine Bianche). Preparati due script orali per la visita di persona (messageA/messageB sopra sono script orali, non testi scritti).",
+    "createdAt": "2026-10-08T06:42:08Z",
+    "updatedAt": "2026-10-08T06:42:08Z"
+  },
+  {
+    "id": "record-bike-malo",
+    "name": "Record Bike S.N.C.",
+    "sector": "Articoli sportivi — negozio di biciclette, rivenditore ufficiale Pinarello",
+    "comune": "Malo (VI)",
+    "channel": "Telefono (chiamata manuale, numero da verificare)",
+    "contactLabel": "Telefono",
+    "contactValue": "0445 607702 (da confermare - ricostruito da aggregatore terzo Promoqui)",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/U5px84FKPpCkRvGKj4Rchc",
+    "messageA": "[FASE 1 - VERIFICA IDENTITA] \"Buongiorno, sono io che chiamo per Record Bike, il negozio di biciclette di Malo — parlo con loro, giusto?\" [Attendere conferma. Se la risposta è negativa o incerta: scusarsi e chiudere la chiamata educatamente, senza proseguire.] [FASE 2 - SOLO SE CONFERMATO] \"Perfetto, mi scusi il disturbo — sono Federico. Vi ho trovati perché siete rivenditori ufficiali Pinarello qui a Malo, e mi ha incuriosito: oggi online non c'è niente che sia vostro, solo una scheda su un elenco di attività. Quindi chi cerca un negozio di bici o un rivenditore Pinarello qui in zona, voi praticamente non lo trova. Ho già preparato un'anteprima di un sito per voi, è pronta sul portatile. Se le fa piacere, passerei in negozio giusto 10-15 minuti per farvela vedere dal vivo, quando vi è comodo.\" [PAUSA] \"Nessun problema se non interessa, la ringrazio lo stesso per il tempo!\"",
+    "messageB": "[FASE 1 - VERIFICA IDENTITA] \"Buongiorno, chiamo per Record Bike di Malo — sono loro?\" [Attendere conferma. Se non confermato: scusarsi e chiudere, senza proseguire.] [FASE 2 - SOLO SE CONFERMATO] \"Bene, grazie, sono Federico, giusto due minuti. Mi sono imbattuto in voi perché siete rivenditori ufficiali Pinarello a Malo, e con tutta la zona di Schio, l'Altopiano di Asiago qui vicino, pensavo che un ciclista che passa di qui e cerca online un negozio Pinarello oggi non vi trova — non avete niente vostro online, solo una scheda su un elenco. Ho già pronta un'anteprima di un sito, l'ho sul portatile. Se può andarle bene, passo in negozio 10-15 minuti per fargliela vedere, quando preferisce.\" [PAUSA] \"Se non è il momento o non interessa, va benissimo così, grazie comunque del tempo!\"",
+    "sources": [
+      "https://www.promoqui.it/malo/negozio/pinarello-record-bike-s-n-c-via-porto-al-proa-15"
+    ],
+    "confidence": "medio-basso",
+    "manualChannelNote": "Il numero 0445 607702 proviene da un aggregatore di terze parti (Promoqui) e non da una fonte ufficiale del negozio (che non ha sito né social propri per un controllo incrociato). Il prefisso provinciale è stato ricostruito e quindi è plausibile ma non certo. La chiamata DEVE aprirsi con una verifica esplicita dell'identità prima di qualsiasi proposta commerciale; se risponde una persona/attività diversa o il numero non è attivo, chiudere ed segnalare il contatto come da aggiornare.",
+    "createdAt": "2026-10-08T06:42:08Z",
+    "updatedAt": "2026-10-08T06:42:08Z"
+  },
+  {
+    "id": "giulia-gabrieli-fotografia-valdagno",
+    "name": "Giulia Gabrieli Fotografia & Grafica (Giulia Gabrieli Wedding)",
+    "sector": "Fotografa di matrimoni ed eventi, con attività collaterale di grafica",
+    "comune": "Valdagno (VI)",
+    "channel": "Nessuno diretto disponibile - richiede reperimento manuale",
+    "contactLabel": "N/A",
+    "contactValue": "N/A",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/MrQ5HWo9cRLEg2oq6r39Yx",
+    "messageA": "Ciao, sono Federico, creo siti web. Ho trovato Giulia Gabrieli Fotografia a Valdagno: mi piace l'approccio dinamico e discreto che racconti per i matrimoni. Oggi chi ti cerca ti trova solo su una piattaforma di terzi, non su un sito tuo. Passerei 10 minuti, quando preferisci, a mostrarti sul portatile un'anteprima pronta. Se non ti interessa fammelo sapere, non ti scrivo più.",
+    "messageB": "Ciao, sono Federico, creo siti web. Ho letto le recensioni di Giulia Gabrieli Fotografia a Valdagno: ti descrivono disponibile e professionale dal primo contatto, bel biglietto da visita. Peccato che online chi ti cerca trovi solo una piattaforma di terzi, non un sito tuo. Passerei 10 minuti, quando preferisci, a mostrarti sul portatile un'anteprima pronta. Se non ti interessa fammelo sapere, non ti scrivo più.",
+    "sources": [
+      "https://www.matrimonio.com/fotografo-matrimonio/giulia-gabrieli-wedding--e225745",
+      "https://www.matrimonio.com/fotografo-matrimonio/vicenza/valdagno"
+    ],
+    "confidence": "basso",
+    "manualChannelNote": "Nessun canale diretto pubblico trovato (niente email, telefono, social propri, PEC). Prima di contattare, Federico deve verificare personalmente se il profilo su matrimonio.com offre un modulo/chat di contatto diretto, oppure valutare una visita all'indirizzo Zona Industriale Piana 16, Valdagno (riportato da una sola fonte non confermata: potrebbe essere uno studio non sempre apribile al pubblico senza appuntamento).",
+    "createdAt": "2026-10-08T06:42:08Z",
+    "updatedAt": "2026-10-08T06:42:08Z"
   }
 ]

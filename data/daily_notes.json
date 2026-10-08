@@ -78,5 +78,14 @@
       "ottica-pietrobelli-giorgio-piovene-rocchette",
       "ciscato-carlo-tabaccheria-chiuppano"
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "summary": "Il lead più promettente di oggi è, sorprendentemente, quello senza alcun contatto diretto: Giulia Gabrieli Fotografia (Valdagno), perché i segnali di fondo sono solidi (recensioni a 5 stelle, profilo aggiornato a giugno 2026, prezzi chiari) e il problema è puramente di canale, non di sostanza — basta scoprire se la piattaforma matrimonio.com permette un messaggio diretto. Pattern notato esplorando per la prima volta Marano Vicentino, Malo e Valdagno con settori di nicchia (gioielleria di marca, negozio bici specializzato, fotografia matrimoni): la presenza online scende quasi a zero su TUTTI i canali, non solo sul sito proprio — due lead su tre (Stefani e Gabrieli) non hanno nemmeno un telefono o social verificabile, e il terzo (Record Bike) ha solo un numero non confermato da un aggregatore. Suggerimento pratico: per Record Bike la prima mossa deve essere la telefonata di sola verifica del numero prima di qualunque proposta, dato che la fonte è un aggregatore terzo senza controllo incrociato; per Gioielleria Stefani vale la pena un passaggio diretto in negozio (è in piazza, centralissima) combinato con un controllo veloce su Pagine Bianche per un eventuale numero fisso non emerso. Gioielleria Stefani (confidence medio) e Record Bike (confidence medio-basso) vanno trattati con cautela sui dati di contatto; Giulia Gabrieli Fotografia ha confidence BASSA sulla presenza online (non sulla sua operatività, che appare solida) e va verificata manualmente — in particolare l'indirizzo non confermato — prima di qualsiasi tentativo di contatto.",
+    "leadIds": [
+      "gioielleria-stefani-marano-vicentino",
+      "record-bike-malo",
+      "giulia-gabrieli-fotografia-valdagno"
+    ]
   }
 ]
