@@ -11,6 +11,8 @@ Il file data/feedback.json contiene i giudizi REALI dell'utente (lead scartati c
 - [01/10, Copywriter] Il canale e l'incontro di persona: mai proporre chiamate/videochiamate, mai link alla demo, firma "Sono Federico", mai segnaposto [Nome]. La PEC si riporta ma non si usa per il messaggio informale.
 - [08/10, Direttore] Dato reale al 08/10 (19 lead valutati dall'utente): 9 scartati, 7 inviati, 3 "risposto no", 0 interessati. Priorita: qualita e correttezza dei lead, non quantita. Pochi lead giusti battono tre sbagliati.
 
+- [08/10, Scout, DECISIONE DELL'UTENTE] Settori target: SOLO attivita dove il cliente sceglie guardando online e un sito vetrina serve molto: parrucchieri/barbieri, centri estetici/nail, pizzerie, ristoranti/trattorie, bar/pasticcerie/gelaterie, botteghe di vicinato (alimentari, panetterie, fiorerie, boutique). NON vanno bene falegnamerie, idraulici, elettricisti, officine, carrozzerie, imprese edili, impianti e in generale ambienti tecnici/B2B, ne studi professionali o agenzie immobiliari: vengono scartati subito.
+
 ## Come usare i motivi di scarto dell'utente
 Se in data/feedback.json compare un nuovo motivo di scarto, trasformalo in una regola qui sopra (una riga, con data e agente a cui si rivolge) e usalo da subito.
 
