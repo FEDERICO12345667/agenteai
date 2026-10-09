@@ -87,5 +87,10 @@
       "record-bike-malo",
       "giulia-gabrieli-fotografia-valdagno"
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "summary": "Oggi lo Scout non ha trovato alcun lead valido: su oltre 10 candidati esaminati con priorità su Carrè, Vicenza città e Santorso (settori privilegiati: centri estetici/nail, panetterie/alimentari, boutique), tutti sono stati scartati, in gran parte per verifica DNS positiva con dominio proprio esistente e specifico (agriturismi e un'osteria a Santorso, una pasticceria e un bar a Vicenza, una trattoria con dominio noto da directory), più un paio per presenza online troppo debole o ambigua per confermare con certezza l'assenza di sito. A Carrè, in particolare, le uniche attività del settore trovate tramite directory (Cylex) riportavano solo indirizzo e telefono senza il nome commerciale, rendendo impossibile qualsiasi verifica: zero lead proposti, meglio di un lead sbagliato. Pattern utile per i prossimi giorni: quando il DNS mostra un dominio con nome molto specifico e coincidente con il nome dell'attività (es. agriturismocabrele.it, pasticceriagambarato.it), è quasi certamente il sito proprio anche senza poterne leggere il contenuto (HTTP bloccato in sandbox) — un'euristica che accelera lo scarto. Suggerimento pratico: per i comuni piccoli come Carrè, dove le directory non riportano il nome commerciale esatto, servirebbe in futuro un accesso diretto a Google Maps (non disponibile in questo sandbox) per identificare le attività con certezza prima di tentare la verifica — vale la pena segnalarlo come limite strutturale, non come giorno \"sbagliato\". Nessun lead con confidenza \"basso\" da segnalare oggi perché nessun lead è stato proposto.",
+    "leadIds": []
   }
 ]
