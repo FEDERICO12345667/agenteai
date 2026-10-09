@@ -658,5 +658,70 @@
     "manualChannelNote": "Nessun canale diretto pubblico trovato (niente email, telefono, social propri, PEC). Prima di contattare, Federico deve verificare personalmente se il profilo su matrimonio.com offre un modulo/chat di contatto diretto, oppure valutare una visita all'indirizzo Zona Industriale Piana 16, Valdagno (riportato da una sola fonte non confermata: potrebbe essere uno studio non sempre apribile al pubblico senza appuntamento).",
     "createdAt": "2026-10-08T06:42:08Z",
     "updatedAt": "2026-10-08T06:42:08Z"
+  },
+  {
+    "id": "fioreria-santa-croce-schio",
+    "name": "Fioreria Santa Croce",
+    "sector": "Fioreria di vicinato con specializzazione in allestimenti floreali per matrimoni",
+    "comune": "Schio (VI)",
+    "channel": "Facebook (Messenger, invio manuale)",
+    "contactLabel": "Pagina Facebook",
+    "contactValue": "https://www.facebook.com/fioreriascroce/",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/MBfqS8jKKaWRWWat5heH1U",
+    "messageA": "Ciao, sono Federico. Ho visto la pagina di Fioreria Santa Croce: 50 anni di storia a Schio e recensioni splendide sui matrimoni, come quella sull'imprevisto gestito con calma il giorno delle nozze. Ho già pronta un'anteprima del vostro sito, da vedere sul portatile in 10-15 minuti, quando preferite. Se non interessa, fammelo sapere e non scrivo più.",
+    "messageB": "Ciao, sono Federico! Ho trovato la pagina di Fioreria Santa Croce: la vostra specializzazione nei matrimoni, coi fiori che durano a lungo dopo il grande giorno, merita di essere raccontata anche online. Ho già un'anteprima pronta, da vedere sul portatile: bastano 10-15 minuti, quando vi è comodo in negozio. Se non interessa, ditemelo e non vi scrivo più.",
+    "sources": [
+      "https://www.facebook.com/fioreriascroce/",
+      "https://www.matrimonio.com/fiori-matrimonio/fioreria-santa-croce--e350518",
+      "https://trova-aperto.it/schio/fioreria-s-croce-34331"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "L'invio va fatto manualmente su Facebook Messenger (nessun tool di invio automatizzato disponibile in questo ambiente). Nessun telefono, email o PEC pubblici trovati. Orari con una lieve discrepanza fra fonti (una riporta pausa pranzo, un'altra no): verificare di persona. Titolare citata nelle recensioni come \"Jenny\"/\"Jennifer\", non confermato con certezza assoluta.",
+    "createdAt": "2026-10-09T06:22:57Z",
+    "updatedAt": "2026-10-09T06:22:57Z"
+  },
+  {
+    "id": "trattoria-pizzeria-gato-nero-chiuppano",
+    "name": "Trattoria Pizzeria Gato Nero",
+    "sector": "Trattoria / Pizzeria, cucina italiana",
+    "comune": "Chiuppano (VI)",
+    "channel": "Facebook (Messenger, invio manuale)",
+    "contactLabel": "Pagina Facebook",
+    "contactValue": "https://www.facebook.com/p/Trattoria-Pizzeria-Gato-Nero-100080379969105/",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/6M3VPoDSPkCkwi5EzZyfav",
+    "messageA": "Ciao! Sono Federico, zona Chiuppano. Ho visto che Gato Nero ha 4,8/5 su 216 recensioni RestaurantGuru: risultato raro da queste parti. Ho già pronta un'anteprima di un sito per farvi trovare da più clienti online. Passo 10-15 minuti quando preferite, ve la mostro dal portatile. Se non ti interessa, fammelo sapere e non scrivo più.",
+    "messageB": "Ciao, sono Federico. Ho trovato la pagina della Trattoria Gato Nero a Chiuppano e mi ha colpito: 4,8/5 su 216 recensioni, ma ancora nessun sito online. Ho già un'anteprima pronta da mostrarvi sul portatile, per farvi trovare meglio. Passo quando vi fa comodo, 10-15 minuti, senza impegno. Se non interessa fammelo sapere e non scrivo più.",
+    "sources": [
+      "https://www.facebook.com/p/Trattoria-Pizzeria-Gato-Nero-100080379969105/",
+      "https://www.cylex-italia.it/chiuppano/trattoria-gato-nero-15713468.html",
+      "https://restaurantguru.it/Chiuppano"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "L'invio va fatto manualmente su Facebook Messenger (nessun tool di invio automatizzato disponibile). Nessun telefono, email o PEC pubblici trovati. Nessun menu/piatto specifico verificato online: non citarne nel primo contatto. Orari da Cylex (pranzo feriale 7:00-14:00, cena sab/dom 18:00-22:30) da confermare di persona.",
+    "createdAt": "2026-10-09T06:22:57Z",
+    "updatedAt": "2026-10-09T06:22:57Z"
+  },
+  {
+    "id": "gelateria-del-favero-piovene-rocchette",
+    "name": "Gelateria Del Favero (di Del Favero Gianpaolo)",
+    "sector": "Gelateria artigianale",
+    "comune": "Piovene Rocchette (VI)",
+    "channel": "Facebook (Messenger, invio manuale)",
+    "contactLabel": "Pagina Facebook",
+    "contactValue": "https://www.facebook.com/gelateriadelfavero1/",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/SUDDPS6cHok3tWBqixbvZo",
+    "messageA": "Ciao, sono Federico! Gelateria Del Favero dal 1945 a Piovene Rocchette: 80 anni della stessa famiglia, non è una cosa da poco oggi. Mi occupo di siti web e ne ho già preparata una bozza su misura per voi, pronta da vedere. Passo 10-15 minuti quando preferite, vi faccio vedere tutto dal portatile. Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "messageB": "Sono Federico, ciao! Una gelateria di famiglia dal 1945 a Piovene Rocchette è una storia rara, e online quasi non si trova. Ho già messo insieme un'anteprima del sito pensata per voi, pronta da mostrarvi. Potrei passare in negozio 10 minuti, nel giorno e ora che preferite, portatile alla mano. Se non ti interessa fammelo sapere e non ti scrivo più.",
+    "sources": [
+      "https://www.facebook.com/gelateriadelfavero1/",
+      "https://oraridiapertura24.it"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "L'invio va fatto manualmente su Facebook Messenger (nessun tool di invio automatizzato disponibile). Nessun telefono, email o PEC pubblici trovati. Orari, gusti specifici e telefono non reperibili online: da raccogliere di persona. Indirizzo Via Libertà 81 (una fonte riportava 77: verificare il civico esatto di persona).",
+    "createdAt": "2026-10-09T06:22:57Z",
+    "updatedAt": "2026-10-09T06:22:57Z"
   }
 ]
