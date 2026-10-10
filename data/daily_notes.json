@@ -96,5 +96,13 @@
       "trattoria-pizzeria-gato-nero-chiuppano",
       "gelateria-del-favero-piovene-rocchette"
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "summary": "Esplorando per la prima volta a fondo Vicenza città e Marano Vicentino su parrucchieri/estetica/botteghe (ampliato alle pizzerie per necessità), lo Scout ha trovato solo 2 lead solidi, entrambi un caso limite finora raro: zero canali di contatto digitali (niente telefono, email, social o PEC) nonostante reputazioni eccellenti e verificabili — Cuore (96° a 50 Top Pizza Italia 2023, 2 spicchi Gambero Rosso) e Fariza Estetica e Pilates (4,9/5 su 164 recensioni verificate Treatwell). Il più promettente è probabilmente Fariza, perché il volume di recensioni verificate su una piattaforma di prenotazione è un segnale di clientela attiva più solido delle sole fonti editoriali di Cuore, e perché un centro estetico cittadino è più facilmente raggiungibile di persona di una pizzeria aperta solo a cena. Pattern notato: nei contesti più urbani/affermati la presenza online può scendere a zero proprio perché passaparola e stampa bastano già a riempire l'attività, un meccanismo diverso dal classico 'piccola attività isolata senza mezzi' visto nei giorni scorsi. Suggerimento pratico: per entrambi i lead di oggi tentare prima un'ultima verifica tramite 192.it/Pagine Bianche per un numero di telefono, così da non rischiare un viaggio a vuoto; se anche questa verifica fallisce, resta solo la visita diretta con gli script a voce preparati dal Copywriter. Nessun lead di oggi ha confidenza sotto \"alto\", ma entrambi vanno trattati con un avviso particolare: essendo privi di qualunque contatto verificabile, il primo tentativo reale è comunque una visita a sorpresa, non un messaggio scritto o una telefonata pre-concordata.",
+    "leadIds": [
+      "cuore-pizzeria-marano-vicentino",
+      "fariza-estetica-pilates-vicenza"
+    ]
   }
 ]

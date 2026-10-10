@@ -723,5 +723,49 @@
     "manualChannelNote": "L'invio va fatto manualmente su Facebook Messenger (nessun tool di invio automatizzato disponibile). Nessun telefono, email o PEC pubblici trovati. Orari, gusti specifici e telefono non reperibili online: da raccogliere di persona. Indirizzo Via Libertà 81 (una fonte riportava 77: verificare il civico esatto di persona).",
     "createdAt": "2026-10-09T06:22:57Z",
     "updatedAt": "2026-10-09T06:22:57Z"
+  },
+  {
+    "id": "cuore-pizzeria-marano-vicentino",
+    "name": "Cuore (ex Cuore Napoletano) di Luca Brancati",
+    "sector": "Pizzeria napoletana contemporanea",
+    "comune": "Marano Vicentino (VI)",
+    "channel": "Nessun canale trovato — visita diretta in negozio",
+    "contactLabel": "Nessuno (visita diretta)",
+    "contactValue": "",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/QZSDir9WCPhmRFzMgQaKV3",
+    "messageA": "Buonasera, sono Federico, piacere. Scusi il disturbo, ho visto che siete entrati nella guida 50 Top Pizza Italia 2023 — mi pare l'unica pizzeria vicentina in classifica — e avete anche i due spicchi del Gambero Rosso: un bel traguardo. Mi sono accorto però che non avete un sito, e oggi chi vi scopre dalla guida o dal passaparola spesso vi cerca online e non vi trova. Avrei già pronta un'anteprima di come potrebbe essere il vostro sito, gliela faccio vedere in dieci minuti sul portatile, qui o quando le fa comodo. Se non le interessa, nessun problema, lo dica pure.",
+    "messageB": "Buonasera, sono Federico. Mi occupo di siti web per attività della zona e conoscevo già il nome Cuore Napoletano, la storia di famiglia dal 1970 è una bella cosa da raccontare, oltre ai riconoscimenti presi negli ultimi anni. Il punto è che tutto questo resta nascosto perché online non si trova nulla, né sito né pagine, e chi cerca prima di venire a cena non ha modo di saperne di più. Ho già preparato una bozza di sito per farvi vedere come potrebbe funzionare, mi bastano dieci minuti sul portatile per mostrargliela quando è comodo. Se non interessa, nessun problema, lo dica pure.",
+    "sources": [
+      "https://gazzettadelgusto.it/dove-mangiare/cuore-di-luca-brancati-la-buona-pizza-a-marano-vicentino/?print=pdf",
+      "https://www.scattidigusto.it/pizzeria-cuore-di-luca-brancati-a-marano-vicentino",
+      "https://foodle.pro/restaurants/c-italy/marano-vicentino",
+      "https://www.gamberorossointernational.com/?p=389206"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "Caso limite: nessun canale digitale trovato (niente telefono, email, social o PEC) nonostante forte notorietà editoriale (96° a 50 Top Pizza Italia 2023, 2 spicchi Gambero Rosso 2022). Prima di presentarsi, tentare di reperire un numero tramite elenco telefonico pubblico (192.it o Pagine Bianche) cercando \"Cuore\"/\"Cuore Napoletano\" a Marano Vicentino o un numero intestato a Luca Brancati. Se non si trova nulla, unica opzione è la visita diretta, idealmente a cena (19:00-21:00 circa) in un giorno infrasettimanale, con margine per il rischio che gli orari non siano aggiornati (unica fonte sugli orari non verificata, non usata nei messaggi). messageA/messageB sono script a voce da usare di persona o al telefono, non messaggi scritti a distanza.",
+    "createdAt": "2026-10-10T06:30:00Z",
+    "updatedAt": "2026-10-10T06:30:00Z"
+  },
+  {
+    "id": "fariza-estetica-pilates-vicenza",
+    "name": "Fariza Estetica e Pilates",
+    "sector": "Centro estetico (trattamenti viso, massaggi/drenaggio linfatico, pedicure, laminazione ciglia/sopracciglia) e pilates",
+    "comune": "Vicenza (VI)",
+    "channel": "Nessun canale trovato — visita diretta in negozio",
+    "contactLabel": "Nessuno (visita diretta)",
+    "contactValue": "",
+    "pec": "",
+    "demoUrl": "https://claude.ai/artifact/Jq1aaViFstAnut4zukUbw7",
+    "messageA": "Buongiorno, sono Federico, mi occupo di siti web per attività locali qui a Vicenza. Le dico perché sono passato: ho visto che siete a 4,9 su 164 recensioni verificate su Treatwell, un punteggio altissimo, ma online non si trova nient'altro su di voi, né un sito né una pagina dove chi vi cerca su Google possa trovarvi. Ho già pronta un'anteprima di come potrebbe essere il vostro sito, con i vostri servizi e le recensioni in evidenza. Le andrebbe di dedicarmi 10-15 minuti, magari in un momento tranquillo della giornata, per farglielo vedere sul portatile? Se non interessa, nessun problema, lo dica pure.",
+    "messageB": "Buongiorno, sono Federico, mi occupo di siti web per attività della zona. Avrei bisogno di due minuti con la titolare: ho notato che il centro ha 4,9 su 164 recensioni vere su Treatwell, ma cercandovi online non esce fuori nulla, niente sito dove i nuovi clienti possano trovarvi prima di prenotare. Ho già preparato un'anteprima di un possibile sito per il centro e vorrei mostrargliela, bastano 10-15 minuti col portatile. Potrei tornare in un momento tranquillo, magari un pomeriggio infrasettimanale, per parlarle direttamente? Se preferisce dirmi lei che non interessa, nessun problema.",
+    "sources": [
+      "https://www.treatwell.it/salone/fariza-estetica-e-pilates/reviews/pagina-9",
+      "https://www.cylex-italia.it/vicenza/fariza-estetica---pilates-14951945.html"
+    ],
+    "confidence": "alto",
+    "manualChannelNote": "Caso limite: nessun canale digitale trovato (niente telefono, email, social o PEC) nonostante reputazione eccellente (4,9/5 su 164 recensioni verificate Treatwell). Prima di presentarsi, tentare di reperire un numero tramite elenco telefonico pubblico (192.it o Pagine Bianche) cercando \"Fariza\"/\"Fariza Estetica e Pilates\" a Vicenza, Viale Mercato Nuovo. Se non si trova nulla, unica opzione è la visita diretta, idealmente un pomeriggio infrasettimanale (orari da Cylex, non recentissimi: lun-ven 09:00-19:30, sab 09:00-14:00, da confermare sul posto). messageA/messageB sono script a voce (uno per il caso si parli con la titolare, uno nel caso risponda un'operatrice — Florentina, Annalisa o Alessia, citate nelle recensioni), non messaggi scritti a distanza.",
+    "createdAt": "2026-10-10T06:30:00Z",
+    "updatedAt": "2026-10-10T06:30:00Z"
   }
 ]
