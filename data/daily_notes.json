@@ -104,5 +104,12 @@
       "cuore-pizzeria-marano-vicentino",
       "fariza-estetica-pilates-vicenza"
     ]
+  },
+  {
+    "date": "2026-10-11",
+    "summary": "Giornata con ricerca difficile: primo giro dello Scout su Thiene/Schio/Valdagno/Santorso/Piovene Rocchette/Zanè/Carrè ha trovato solo un candidato (Caffè Carducci, Thiene) con un'unica fonte aggregatore (Sluurpy) e nessuna pagina Facebook/Instagram propria, bocciato dal Direttore ancora prima dell'Analista per violazione della regola di scarto 2 del metodo (solo aggregatori, nessuna scheda propria). Un secondo giro dello Scout, con criteri più stringenti (richiesta esplicita di una fonte diretta non-aggregatore), ha prodotto l'unico lead valido di oggi: Ma.Giò, panificio artigianale di Zanè, Premio Foglia Gambero Rosso (guida Pane e Panettieri d'Italia 2026, confermato 2027) ma con ASSOLUTAMENTE nessun canale digitale reperibile (zero telefono, email, social, PEC) — il caso più estremo visto finora, superiore anche a Cuore e Fariza di ieri. Il lead è comunque solido perché il riconoscimento editoriale è verificato e indipendente, non un'ipotesi debole, e il gap reputazione/invisibilità online è un hook fortissimo. Pattern confermato: nei comuni più piccoli già battuti a fondo nei giorni scorsi, la ricerca restituisce quasi solo aggregatori generici inaffidabili (Sluurpy, RestaurantGuru) che la regola di scarto 2 filtra correttamente (2 scarti oggi per questo motivo: Caffè Carducci e Gelateria Santa Rosa). Suggerimento pratico: i lead 'a zero contatti' (Gelateria Il Piacere, Cuore, Fariza, e ora Ma.Giò) si stanno accumulando: conviene che l'utente dedichi presto un giro di visite fisiche a sorpresa per questo gruppo, magari in un unico pomeriggio in zone vicine. Nessun lead di oggi ha confidence sotto 'alto', ma la possibile identità del titolare di Ma.Giò (nome trovato su fonte a bassa affidabilità) va verificata di persona prima di nominare chiunque.",
+    "leadIds": [
+      "ma-gio-panificio-zane"
+    ]
   }
 ]
