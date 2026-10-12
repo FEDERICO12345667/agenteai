@@ -789,5 +789,45 @@
   "manualChannelNote": "Caso limite assoluto: nessun canale digitale di alcun tipo trovato (niente telefono, email, social o PEC, ricerca PEC fatta appositamente), nonostante un riconoscimento editoriale nazionale forte e verificato (Premio Foglia Gambero Rosso, guida Pane e Panettieri d'Italia 2026, confermato nell'edizione 2027). Indirizzo: Via Pra' Bordoni 26, Zanè (VI), zona artigianale verso Piovene Rocchette. Orari noti solo parzialmente: chiuso sabato pomeriggio e tutta la domenica, orari feriali e mattino del sabato da verificare sul posto. Una fonte a bassa affidabilità (Restaurant Guru, voto basso) indica un possibile titolare 'De Muri Marco': da NON usare come fatto certo, verificare di persona. Unica opzione di primo contatto è la visita diretta senza preavviso, idealmente a fine mattinata o inizio pomeriggio di un giorno feriale per evitare la fila del mattino. messageA/messageB sono script a voce da dire sulla porta del negozio (uno per il caso si parli col titolare, uno per il caso risponda un dipendente/commesso che farà da tramite), non messaggi scritti a distanza.",
   "createdAt": "2026-10-11T06:24:29.000Z",
   "updatedAt": "2026-10-11T06:24:29.000Z"
+ },
+ {
+  "id": "jacqueline-parrucchieri-vicenza",
+  "name": "Jacqueline Parrucchieri",
+  "sector": "Parrucchiere / acconciatore",
+  "comune": "Vicenza (VI)",
+  "channel": "Visita di persona (nessun contatto a distanza disponibile)",
+  "contactLabel": "Nessuno disponibile",
+  "contactValue": "",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/FfrK11GcToeDtNTQiajefj",
+  "messageA": "Buongiorno, mi scusi un attimo del disturbo. Sono Federico, lavoro qui a Vicenza e mi occupo di siti web per negozi e attività come la sua. Le dico perché sono passato proprio da voi: ho visto che su Treatwell avete quasi 80 recensioni con una media di 4,9 su 5 — un livello altissimo, non comune. Però cercando online non ho trovato un sito o una pagina vostra: chi vuole scoprirvi lo fa solo se inciampa per caso nella scheda delle prenotazioni. Con un sito semplice che racconta chi siete e mostra queste recensioni, chi vi cerca su Google vi trova subito, invece di rischiare di finire da un'altra parte. Le ho già preparato un'anteprima, gratuita e senza impegno. Se ha un attimo ora gliela faccio vedere sul portatile, altrimenti mi fermo volentieri altri dieci minuti in un momento più comodo. [Variante se chiuso/occupata: 'Capisco, non vorrei disturbare. Posso lasciarle solo il mio nome e un modo per essere richiamato, così ci vediamo con calma un altro momento?'] [Variante se risponde una collaboratrice: 'La titolare è in salone in questo momento?... Le lascio il mio nome, Federico, e un numero per essere richiamato, oppure ripasso io un'altra volta.'] Se non le interessa, nessun problema, la ringrazio per il tempo.",
+  "messageB": "Buongiorno, scusi il disturbo, sono Federico. Due minuti, se può. Leggendo le recensioni di Jacqueline mi ha colpito una cosa: non parlano solo del taglio, parlano di come vi mettete nei panni delle clienti, anche con chi non parla bene italiano, anche con le bambine. Sono recensioni che fanno venire voglia di prenotare. Il problema è che restano chiuse dentro Treatwell: chi non passa di lì, non le vede mai. Un sito vostro raccoglierebbe tutto questo in un posto solo, facile da trovare su Google, e lavorerebbe per voi anche quando il salone è chiuso. Ne ho già pronta una versione di prova. Se la titolare è libera anche solo cinque minuti gliela mostro subito sul portatile, altrimenti ripasso quando preferisce, bastano un quarto d'ora. [Variante se chiuso: 'Vedo che siete chiuse in questo momento, ripasserò in un altro orario.'] [Variante se risponde una collaboratrice: 'Potrei lasciare il mio nome, Federico, e un contatto per essere richiamato dalla titolare quando ha un attimo? Oppure torno io con piacere un'altra volta.'] Se non vi interessa, fatemelo sapere tranquillamente, non vi disturbo più.",
+  "sources": [
+   "https://www.treatwell.it/en/place/jacqueline-parrucchieri/reviews/page-2/"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessun canale digitale utilizzabile a distanza (no telefono, no email, no social propri; Treatwell è solo prenotazione, senza messaggistica commerciale). Unica via concreta: visita diretta in salone, con script pronto anche per salone chiuso/occupato e per interlocutore diverso dalla titolare (lasciare nome e un modo per essere richiamati).",
+  "createdAt": "2026-10-12T06:48:00Z",
+  "updatedAt": "2026-10-12T06:48:00Z"
+ },
+ {
+  "id": "hair-studio-maurizio-vicenza",
+  "name": "Hair Studio (titolare: Maurizio — cognome e ragione sociale non reperibili pubblicamente)",
+  "sector": "Parrucchiere uomo/donna (taglio, piega, colore)",
+  "comune": "Vicenza (VI)",
+  "channel": "Visita di persona (nessun contatto a distanza disponibile)",
+  "contactLabel": "Nessuno disponibile",
+  "contactValue": "",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/UWvRr1ijyihZRnjkjdYd2W",
+  "messageA": "Buongiorno, scusi il disturbo — è un attimo libero o è nel mezzo di un servizio? [Se libero] Mi chiamo Federico, sono di qui vicino e mi occupo di siti web per attività come la sua. Le dico subito perché sono passato: ho visto la sua scheda su Treatwell, quasi 350 recensioni e un voto di 4,9 — è una cosa rara, non capita spesso di vedere numeri così. Il problema è che chi la cerca su Google o non la trova, oppure la trova solo lì, su una piattaforma che non è nemmeno sua. Ho già preparato una bozza di sito con il suo nome e quelle recensioni messe in evidenza, giusto per farle vedere come potrebbe apparire. Ha due minuti adesso, magari tra un cliente e l'altro, per darci un'occhiata insieme sul portatile? Se non è il momento buono, nessun problema, le lascio il mio numero e passo, oppure la richiamo quando fa più comodo, magari a fine giornata. [Se occupato con un cliente] Capisco, non vorrei disturbarla mentre lavora. Le lascio un bigliettino con il mio nome e un numero: se le va mi richiama lei con comodo, altrimenti ripasso un altro giorno io. Se non le interessa, dica tranquillamente di no.",
+  "messageB": "Buongiorno! Sono Federico, scusi se la fermo un attimo — lavora sempre da solo qui, vero? Immaginavo, si vede che è sempre pieno di appuntamenti. Allora, io mi occupo di creare siti semplici per negozi e saloni come questo, e pensavo: con tutte le belle recensioni che ha su Treatwell, sarebbe un peccato che chi la cerca online non trovi nulla con il suo nome. Il bello è che poi non deve gestire niente lei, me ne occupo io. Ho già fatto una prova con i suoi dati, dura un minuto farla vedere sul computer: ha un attimo adesso, o preferisce che ripassi più tardi, magari a chiusura? [Se impegnato con un cliente] Ah, è impegnato, nessun problema, non vorrei farle perdere tempo mentre lavora. Le lascio un biglietto con il mio nome e un contatto: mi richiama se le interessa, altrimenti ripasso io un'altra volta. Buona giornata!",
+  "sources": [
+   "https://www.treatwell.it/en/place/hair-studio-14/"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessun canale digitale utilizzabile a distanza (no telefono, no email, no social propri, no PEC; Treatwell è solo prenotazione, senza messaggistica commerciale). Orari non noti pubblicamente. Unica via concreta: visita diretta in salone durante l'orario di apertura, con script pronto per il caso 'occupato con un cliente' (bigliettino con nome e contatto per essere richiamati).",
+  "createdAt": "2026-10-12T06:48:00Z",
+  "updatedAt": "2026-10-12T06:48:00Z"
  }
 ]
