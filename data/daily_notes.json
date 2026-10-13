@@ -119,5 +119,14 @@
    "jacqueline-parrucchieri-vicenza",
    "hair-studio-maurizio-vicenza"
   ]
+ },
+ {
+  "date": "2026-10-13",
+  "summary": "Giornata con un giro di sostituzione: lo Scout ha proposto inizialmente 3 agriturismi/bar di Santorso, ma 2 (Agriturismo Cabrele e Agriturismo \"Da Mea\") sono stati scartati dal Direttore PRIMA ancora dell'Analista, perché la lavagna storica documentava già questi due domini (agriturismocabrele.it, agriturismodamea.it) come siti propri esistenti, verificati il 09/10 — il controllo DNS odierno aveva dato un falso negativo, probabile instabilità DNS nel sandbox. Il terzo candidato (Caffè Diesis, Santorso) è stato confermato e, con i 2 sostituti trovati dallo Scout, si arriva a 3 lead validi oggi: Caffè Diesis, Pizzeria Diana (Carrè) e Osteria Moderna (Santorso). Il più promettente è probabilmente Pizzeria Diana: è l'unico caso di zero contatti digitali totali ma con altissimo volume di recensioni, quindi il gap reputazione/invisibilità è il più netto — richiede però una visita diretta senza preavviso, più impegnativa. Caffè Diesis e Osteria Moderna sono invece raggiungibili con una telefonata (hanno solo il telefono fisso come contatto), più comode da tentare per prime. Pattern notato: il controllo DNS può dare falsi negativi anche su domini già verificati in passato (vedi Agriturismo Cabrele/Da Mea) — la memoria storica della squadra ha priorità sul dato tecnico del giorno in caso di conflitto, lezione da aggiungere alle regole apprese. Nessun lead di oggi ha confidence sotto 'alto', ma tutti e tre vanno trattati con la cautela delle recensioni non del tutto concordanti tra fonti (specialmente Pizzeria Diana, dove Cylex e RestaurantGuru divergono molto sul voto medio): evitare di citare un numero preciso col cliente.",
+  "leadIds": [
+   "caffe-diesis-santorso",
+   "pizzeria-diana-carre",
+   "osteria-moderna-santorso"
+  ]
  }
 ]

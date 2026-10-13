@@ -829,5 +829,66 @@
   "manualChannelNote": "Nessun canale digitale utilizzabile a distanza (no telefono, no email, no social propri, no PEC; Treatwell è solo prenotazione, senza messaggistica commerciale). Orari non noti pubblicamente. Unica via concreta: visita diretta in salone durante l'orario di apertura, con script pronto per il caso 'occupato con un cliente' (bigliettino con nome e contatto per essere richiamati).",
   "createdAt": "2026-10-12T06:48:00Z",
   "updatedAt": "2026-10-12T06:48:00Z"
+ },
+ {
+  "id": "caffe-diesis-santorso",
+  "name": "Caffè Diesis",
+  "sector": "Bar / pasticceria artigianale",
+  "comune": "Santorso (VI)",
+  "channel": "Telefono (chiamata manuale — script per fissare incontro di persona)",
+  "contactLabel": "Telefono",
+  "contactValue": "0445 641242",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/EXbLbhzRK5cMsQpKj8Lk3d",
+  "messageA": "Buongiorno, sono Federico, mi scusi il disturbo. Chiamo perché ho visto che il Caffè Diesis a Santorso ha quasi 1.800 recensioni online: è un numero altissimo per un bar, vuol dire che avete una clientela fortissima e affezionata. Io realizzo siti web per attività come la vostra, e in questi giorni ho già preparato un'anteprima di come potrebbe essere il sito del Diesis — niente di teorico, è già pronta da vedere. Mi piacerebbe passare di persona, dieci minuti, nel giorno e all'ora che preferite, e mostrarvela dal portatile così come è. Le va bene questa settimana o preferisce la prossima? ... Se poi non le interessa me lo dica pure tranquillamente, non la richiamo più.",
+  "messageB": "Buongiorno, sono Federico, scusi se la disturbo un attimo. Mi occupo di siti web per bar e pasticcerie della zona, e mi sono imbattuto nel Caffè Diesis: con le brioche fatte in casa e il dehor avete tantissime recensioni, si vede che la gente torna volentieri. Proprio per questo ho già preparato in anteprima un'idea di sito pensata per voi — è già pronta, non è una bozza al volo. Volevo chiederle se posso passare di persona un quarto d'ora, quando fa più comodo a voi, giorno e orario che preferite, così gliela faccio vedere direttamente sul computer. Che ne dice? ... Ovviamente se non è una cosa che interessa me lo dice senza problemi, non insisto e non la richiamo più.",
+  "sources": [
+   "https://www.sluurpy.it/santorso/ristorante/23615/caffe'-diesis"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessuna email, social o PEC trovati; contatto esclusivamente telefonico fisso. Lo script è pensato per una breve telefonata il cui unico scopo è fissare l'incontro di persona; orari non verificati con certezza — provare a chiamare a metà mattina o metà pomeriggio evitando colazione e pranzo. Dato confermato indipendentemente anche su RestaurantGuru (nome 'Diesis Caffé', 3.4/5 su 987 voti), stesso comune/nome, il che rafforza l'affidabilità dell'assenza di sito/social.",
+  "createdAt": "2026-10-13T06:38:48Z",
+  "updatedAt": "2026-10-13T06:38:48Z"
+ },
+ {
+  "id": "pizzeria-diana-carre",
+  "name": "Pizzeria Diana",
+  "sector": "Pizzeria / ristorante",
+  "comune": "Carrè (VI)",
+  "channel": "Visita diretta di persona (zero contatti digitali — nessun telefono/email/social)",
+  "contactLabel": "Nessun contatto disponibile",
+  "contactValue": "Via Val d'Assa 33, 36010 Carrè (VI) — visita diretta",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/VbsBp6QXsn9HY8nD7MwhUX",
+  "messageA": "Buongiorno / buonasera, scusi il disturbo un attimo. Sono Federico, mi occupo di siti web per attività qui dell'Alto Vicentino. Sono passato apposta da voi perché ho visto che la Pizzeria Diana, qui a Carrè, ha davvero tantissime recensioni online — tanta gente ne parla, e parla bene. Però ho guardato bene e non avete un sito, non siete da nessuna parte online con informazioni vostre. Niente. Cioè: chi scrive su Google 'pizzeria Carrè' fa fatica a trovarvi, nonostante tutta questa gente che vi conosce e vi consiglia. Mi sembrava un peccato. Ho già preparato una bozza di sito per voi, giusto per farvi vedere come potrebbe essere. Se avete 10-15 minuti liberi, magari in un momento un po' più tranquillo — non a pranzo o cena nel pieno del servizio — passo con il portatile e ve la faccio vedere dal vivo. Niente impegno, solo per farvi un'idea. Se non vi interessa ditemelo pure tranquillamente, non vi disturbo oltre. Sono Federico.",
+  "messageB": "Buongiorno, scusate il disturbo un attimo. Sono Federico, mi occupo di siti web per attività qui della zona, Alto Vicentino. Per caso c'è il titolare o la titolare della pizzeria? [Se non c'è] Ah, va bene, nessun problema. Allora le spiego in due parole, magari può riferirlo. Ho visto che la Pizzeria Diana ha tantissime recensioni online, la gente ne parla parecchio — ma non avete un sito né pagine social, quindi chi vi cerca su Google fatica a trovarvi, anche se vi conoscono tutti. Ho già pronta una bozza di sito, gliela vorrei far vedere di persona: bastano 10-15 minuti col portatile, magari in un momento un po' più tranquillo per voi. Le lascio il mio nome e un numero dove mi può richiamare quando vuole: sono Federico. Se può scriverlo da qualche parte o dirlo al titolare quando arriva, gliene sarei grato. Altrimenti nessun problema, passo di nuovo io un altro giorno. Grazie mille e buona giornata.",
+  "sources": [
+   "https://www.cylex-italia.it/carre/pizzeria-diana-9224150.html",
+   "https://www.sluurpy.it/carre/pizzeria"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Caso di zero contatti digitali totali: nessun telefono, email, social o PEC trovati nonostante ricerca insistente. Federico deve presentarsi di persona senza preavviso; messageA per il caso in cui parli col titolare, messageB per il caso in cui risponda un dipendente/cameriere (lasciare nome e numero di telefono a voce per un eventuale richiamo). Divergenza di rating tra fonti (Cylex 4,14/5 vs RestaurantGuru 3,1/5 su volumi diversi): non menzionare un voto specifico col cliente. Orari da verificare di persona (fonte Cylex non del tutto certa).",
+  "createdAt": "2026-10-13T06:38:48Z",
+  "updatedAt": "2026-10-13T06:38:48Z"
+ },
+ {
+  "id": "osteria-moderna-santorso",
+  "name": "Osteria Moderna",
+  "sector": "Osteria / ristorante-pizzeria (con opzioni vegane)",
+  "comune": "Santorso (VI)",
+  "channel": "Telefono (chiamata manuale — script per fissare incontro di persona)",
+  "contactLabel": "Telefono",
+  "contactValue": "+39 0445 500221",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/FLFre4kxLLhdXuWmRVDfKk",
+  "messageA": "Buongiorno, parlo con l'Osteria Moderna? ... Sono Federico, chiamo da Santorso. Scusi il disturbo, due minuti solo. Mi sono imbattuto nella vostra pagina su RestaurantGuru e sono rimasto sorpreso: quasi 1.900 recensioni, un numero altissimo per un locale di Santorso, davvero pochi ce l'hanno qui in zona. Mi occupo di siti web per attività come la vostra, e ho notato una cosa: oggi chi vi trova lo fa solo tramite Sluurpy, RestaurantGuru o HappyCow, ma un sito vostro, diretto, vi farebbe comparire anche quando qualcuno cerca semplicemente 'osteria Santorso' o 'ristorante Santorso' su Google, senza passare per quei siti terzi. Le volevo proporre una cosa semplice: passo io da voi, dieci minuti, quando fa comodo a lei, le faccio vedere un'anteprima che ho già pronta sul portatile, senza impegno. Che giorno andrebbe meglio, magari a inizio settimana o fine settimana? (Se risponde che non interessa:) Va benissimo, capisco. Se non le interessa me lo dica pure, non la richiamo più. Buona giornata e buon lavoro.",
+  "messageB": "Buongiorno, sono Federico, chiamo per l'Osteria Moderna, spero di non disturbare. Le dico subito perché chiamo: ho visto che avete quasi 1.900 recensioni tra i vari siti, un numero che per un comune come Santorso è davvero raro, vuol dire che avete una clientela solida. Mi occupo di siti web e mi sono chiesto: con tutta questa gente che vi conosce, se qualcuno cerca 'osteria' o 'pizzeria' a Santorso su Google, voi dove uscite? Perché al momento si trova solo su Sluurpy o HappyCow, non su un sito vostro. Avrei piacere di passare da voi di persona, anche solo un quarto d'ora, nel giorno e all'ora che preferisce, per farle vedere qualcosa che ho già pronto, così si fa un'idea senza impegno. Quando sarebbe comodo per lei, magari un momento di pausa tra pranzo e cena? (Se risponde che non interessa:) Nessun problema, grazie per il tempo. Se non le interessa me lo dica pure, non la richiamo più. Le auguro una buona giornata.",
+  "sources": [
+   "https://www.sluurpy.it/santorso/ristorante/76196/osteria-moderna"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessuna email, social o PEC trovati; unico contatto è il telefono fisso trovato su HappyCow. Script telefonico il cui unico scopo è fissare l'incontro di persona. Orari non confermati da nessuna fonte, da verificare sul posto. Verificato con attenzione il rischio di omonimia (altre 'Osteria Moderna' esistono a Catania, Viterbo, Osimo, Trondheim, Potenza; 'Hosteria Moderna' di Treviso è un locale diverso; non collegata a 'Osteria Corte Sconta', altro locale di Santorso che ha invece un sito proprio).",
+  "createdAt": "2026-10-13T06:38:48Z",
+  "updatedAt": "2026-10-13T06:38:48Z"
  }
 ]
