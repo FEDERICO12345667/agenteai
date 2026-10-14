@@ -128,5 +128,12 @@
    "pizzeria-diana-carre",
    "osteria-moderna-santorso"
   ]
+ },
+ {
+  "date": "2026-10-14",
+  "summary": "Giornata con un solo lead trovato dopo una ricerca ampia su Marano Vicentino, Chiuppano, Malo e Vicenza città concentrata su botteghe di vicinato e centri estetici/nail (settori poco battuti negli ultimi giorni): La Fabrique, pasticceria artigianale di Marano Vicentino specializzata in torte nuziali su misura (20-100€), con buona reputazione su aggregatore ma zero presenza online propria confermata da controllo DNS e doppia revisione. È il lead più promettente di oggi, e anche l'unico: numerosi altri candidati (centri estetici su Fresha senza recensioni a Malo, una scheda Cylex ferma al 2019 a Vicenza, una pizzeria a Chiuppano con recensioni discordanti/miste, una gastronomia con fonti incoerenti) sono stati scartati per mancanza di prove solide di reputazione o di verificabilità. Caso particolare da segnalare: a differenza della maggior parte dei lead recenti, l'unico contatto disponibile per La Fabrique è un singolo numero di telefono (verosimilmente un cellulare, prefisso 351) trovato su un'unica fonte non confermata indipendentemente — non è confidence \"basso\" (il controllo incrociato dell'Analista non ha trovato nulla di contrario), ma Federico dovrebbe verificare con discrezione di aver chiamato il numero giusto prima di iniziare il discorso commerciale. Pattern confermato ancora oggi: nei comuni piccoli (Chiuppano, Marano Vicentino) la ricerca web fatica a restituire nomi commerciali esatti e recensioni primarie, producendo soprattutto schede di aggregatori generici (Cylex, Fresha, Tuttocittà) che vanno scartate nel dubbio. Il dato storico resta 0 risposte positive su 19 lead valutati finora: suggerisco di continuare a privilegiare la qualità (come oggi, 1 solo lead ma verificato a fondo) piuttosto che forzare il numero a 3.",
+  "leadIds": [
+   "la-fabrique-pasticceria-marano-vicentino"
+  ]
  }
 ]

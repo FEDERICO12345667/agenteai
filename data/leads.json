@@ -890,5 +890,27 @@
   "manualChannelNote": "Nessuna email, social o PEC trovati; unico contatto è il telefono fisso trovato su HappyCow. Script telefonico il cui unico scopo è fissare l'incontro di persona. Orari non confermati da nessuna fonte, da verificare sul posto. Verificato con attenzione il rischio di omonimia (altre 'Osteria Moderna' esistono a Catania, Viterbo, Osimo, Trondheim, Potenza; 'Hosteria Moderna' di Treviso è un locale diverso; non collegata a 'Osteria Corte Sconta', altro locale di Santorso che ha invece un sito proprio).",
   "createdAt": "2026-10-13T06:38:48Z",
   "updatedAt": "2026-10-13T06:38:48Z"
+ },
+ {
+  "id": "la-fabrique-pasticceria-marano-vicentino",
+  "name": "La Fabrique",
+  "sector": "Pasticceria artigianale (dolci quotidiani, torte per cerimonie, torte nuziali su misura)",
+  "comune": "Marano Vicentino (VI)",
+  "channel": "Telefono (chiamata manuale)",
+  "contactLabel": "Telefono",
+  "contactValue": "351 877 8023",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/U84wLnrnWXnDE7xFeU8hvg",
+  "messageA": "Buongiorno, parlo con La Fabrique? ... (pausa, aspetta conferma) Sono Federico, mi occupo di siti web qui nell'Alto Vicentino. La chiamo perché ho visto il vostro laboratorio a Marano Vicentino, e mi ha colpito il lavoro che fate sulle torte nuziali su misura, fatte davvero su richiesta della coppia. Ho già preparato una prima bozza di sito pensata apposta per La Fabrique, proprio per far vedere questo tipo di lavoro artigianale a chi sta cercando una pasticceria per il matrimonio o per un'occasione importante. Mi piacerebbe passare in laboratorio, anche solo per dieci minuti, quando fa più comodo a lei, per farle vedere questa anteprima sul portatile. Le andrebbe bene questa settimana, o preferisce la prossima? ... (lascia rispondere) Se non è una cosa che le interessa, mi dica pure tranquillamente, nessun problema, non la disturbo più.",
+  "messageB": "Buongiorno, sono Federico, chiamo da qui vicino, mi occupo di siti web per attività della zona. Le torte nuziali su misura che fate a La Fabrique, con quella cura nei dettagli e negli ingredienti naturali, mi sono rimaste in mente: è un lavoro che si vede, e secondo me merita di essere mostrato bene anche online. Ho già pronta una prima bozza di sito proprio per voi, da vedere dal vivo, non al telefono. Posso passare in negozio un quarto d'ora, nel giorno che preferisce lei, per farvela vedere sul portatile? ... (lascia rispondere, eventualmente propone giorno/ora) Se non le interessa, mi dica tranquillamente di no, nessun problema, non insisto.",
+  "sources": [
+   "https://www.cylex-italia.it/marano-vicentino/la-fabrique-15640654.html",
+   "https://www.matrimonio.com/torte-nuziali/la-fabrique--e326240",
+   "https://www.cylex-italia.it/marano-vicentino/bosco/pasticceria.html"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Contatto gestito manualmente da Federico via telefonata diretta al 351 877 8023 (numero non confermato da una seconda fonte indipendente): verificare con discrezione all'apertura della chiamata di aver raggiunto La Fabrique prima di presentarsi, e valutare in alternativa un primo messaggio WhatsApp se si preferisce un approccio meno invasivo, dato il prefisso mobile (351).",
+  "createdAt": "2026-10-14T07:45:00Z",
+  "updatedAt": "2026-10-14T07:45:00Z"
  }
 ]
