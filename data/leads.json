@@ -912,5 +912,71 @@
   "manualChannelNote": "Contatto gestito manualmente da Federico via telefonata diretta al 351 877 8023 (numero non confermato da una seconda fonte indipendente): verificare con discrezione all'apertura della chiamata di aver raggiunto La Fabrique prima di presentarsi, e valutare in alternativa un primo messaggio WhatsApp se si preferisce un approccio meno invasivo, dato il prefisso mobile (351).",
   "createdAt": "2026-10-14T07:45:00Z",
   "updatedAt": "2026-10-14T07:45:00Z"
+ },
+ {
+  "id": "trattoria-dal-cogo-thiene",
+  "name": "Trattoria Dal Cogo",
+  "sector": "Trattoria / ristorante tradizionale (cucina veneta)",
+  "comune": "Thiene (VI)",
+  "channel": "Telefono (chiamata manuale)",
+  "contactLabel": "Telefono",
+  "contactValue": "0445 362530",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/3Y1n8PZqJ29QqPkrLLzGHu",
+  "messageA": "Buongiorno, parlo con la Trattoria Dal Cogo?\n(attende conferma)\n\nSono Federico, chiamo da Thiene. Scusi il disturbo, faccio veloce.\n\nMi occupo di siti internet per attività come la vostra, e sapendo che siete una trattoria con una lunga tradizione di famiglia qui a Thiene — con piatti come il risotto o i bigoli fatti in casa — ho pensato che valesse la pena contattarvi.\n\n(pausa)\n\nIl punto è questo: tante persone oggi cercano \"trattoria Thiene\" sul telefono prima di decidere dove andare a mangiare, e senza un sito vi stanno trovando con più fatica di quanto meriterebbe un posto come il vostro.\n\n(pausa)\n\nHo già preparato un'anteprima di come potrebbe essere il vostro sito — è già pronta, ce l'ho sul portatile. Se per lei va bene, passo in trattoria diretta, 10-15 minuti, nel giorno e all'ora che preferisce, e gliela faccio vedere di persona. Nessun impegno, solo per farle vedere cosa si può fare.\n\n(pausa, attende risposta)\n\nSe non le interessa me lo dica pure, non la disturbo oltre.",
+  "messageB": "Buongiorno, sono Federico, chiamo per la Trattoria Dal Cogo.\n(attende conferma / \"sì, dica\")\n\nDue minuti, giusto il tempo di spiegarmi. Lavoro qui ad Alto Vicentino realizzando siti per ristoranti e trattorie, e il vostro nome mi è arrivato per i piatti caserecci di cui si parla bene — risotto, polenta, gnocchi fatti come si deve.\n\n(pausa)\n\nVi ho cercato online e non avete un sito. Oggi è spesso la prima cosa che chi non vi conosce ancora guarda, prima di decidere di venire a provarvi.\n\n(pausa)\n\nHo già messo insieme una bozza, un'anteprima vera e propria di come potrebbe essere il vostro sito — ce l'ho già pronta, sul computer. Mi farebbe piacere passare in trattoria un quarto d'ora, quando fa più comodo a lei, magari in un momento di calma, e gliela mostro senza impegno.\n\n(pausa, attende risposta)\n\nSe non fa per voi, mi dica pure di no tranquillamente, non vi disturbo più.",
+  "sources": [
+   "https://restaurantguru.it/Dal-Cogo-Thiene",
+   "https://mapstr.com/place/sQovZGxL1og",
+   "https://foodle.pro/restaurants/brunalle/trattoria-dal-cogo"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessun tool di chiamata automatizzata disponibile: la telefonata va fatta a voce da Federico al numero fisso 0445 362530 (confermato da due fonti indipendenti non ufficiali, Mapstr e Foodle). Indirizzo: Via Cappuccini, 109, Thiene. Orari discordanti tra fonti, punto in comune: chiuso almeno lunedì (probabilmente anche martedì) — da confermare telefonicamente. ATTENZIONE: NON citare al cliente il possibile legame con lo chef Lorenzo Cogo (ex El Coq, Marano Vicentino): dettaglio narrativo interessante ma confermato solo da una fonte debole (Mapstr, contenuto generato da utenti); da verificare SOLO di persona, mai come affermazione diretta nel primo contatto. Verificato: nessuna chiusura definitiva; esiste un omonimo \"Dal Cogo\" a Spert (BL, Alpago) ma è un'attività diversa, non collegata.",
+  "createdAt": "2026-10-15T06:32:45Z",
+  "updatedAt": "2026-10-15T06:32:45Z"
+ },
+ {
+  "id": "trattoria-feri-valdagno",
+  "name": "Trattoria Feri (anche \"Trattoria Da Feri\")",
+  "sector": "Trattoria tradizionale, cucina di selvaggina e tradizione veneta",
+  "comune": "Valdagno (VI)",
+  "channel": "Telefono (chiamata manuale)",
+  "contactLabel": "Telefono",
+  "contactValue": "0445 431259",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/UsJQuaNYvbVxE9zfLa5jMB",
+  "messageA": "Pronto, buongiorno, parlo con il signor Umberto?\n(pausa, attesa risposta)\n\nSono Federico, scusi il disturbo, sono breve. La chiamo perché mi hanno parlato della Trattoria Feri qui a Valdagno, e mi dicevano che la cucina di selvaggina e i piatti tradizionali che prepara lei sono davvero un punto di riferimento in zona.\n\n(pausa)\n\nIo mi occupo di realizzare siti internet per attività come la sua, e in questi giorni ho preparato già un'anteprima di come potrebbe essere un sito per la Trattoria Feri — giusto per far trovare più facilmente online chi cerca un posto come il suo, magari fuori Valdagno, o la domenica a pranzo.\n\n(pausa)\n\nNon le faccio perdere tempo al telefono: se per lei va bene, passerei un attimo in trattoria, dieci minuti non di più, nel giorno e all'ora che preferisce lei — magari quando è un po' più tranquillo — così le faccio vedere direttamente sul portatile questa anteprima che ho già pronto. Niente impegno, solo per farle vedere con i suoi occhi di cosa parlo.\n\n(pausa, attesa risposta)\n\nQuando le farebbe comodo, un giorno a metà settimana o preferisce il weekend?\n\n(pausa)\n\nVa bene, allora passo [giorno/ora che indica]. Se poi vedendola non le interessa me lo dica pure tranquillamente, non la disturbo oltre. Grazie Umberto, a presto.",
+  "messageB": "Buongiorno, sono Federico, è lei Umberto della Trattoria Feri?\n(pausa, attesa risposta)\n\nPerfetto, mi scusi il disturbo, faccio in fretta. Mi hanno parlato molto bene della sua trattoria, mi dicevano che è lei stesso in cucina a preparare i piatti di selvaggina e le ricette tradizionali — una gestione diretta che si sente, mi hanno detto.\n\n(pausa)\n\nIl motivo della chiamata è questo: io realizzo siti web per attività come la sua, e ho già preparato un'anteprima di un sito pensato apposta per la Trattoria Feri. L'idea è semplice: farsi trovare da chi cerca un ristorante di cucina tradizionale qui intorno a Valdagno, e non perdere quella gente solo perché oggi online non si trova nulla su di voi.\n\n(pausa)\n\nNon voglio spiegarglielo al telefono, perché si capisce molto meglio vedendolo. Le andrebbe se passo in trattoria un quarto d'ora, quando fa più comodo a lei, magari in un momento morto della giornata? Le faccio vedere l'anteprima direttamente sul computer, così si fa un'idea concreta.\n\n(pausa, attesa risposta)\n\nMi dica lei quando preferisce, anche la prossima settimana se le fa comodo.\n\n(pausa)\n\nBenissimo, allora ci vediamo [giorno/ora indicato]. Se dopo aver visto non le interessa, nessun problema, me lo dice e non la disturbo più. Buona giornata, a presto Umberto.",
+  "sources": [
+   "https://www.cylex-italia.it/valdagno/trattoria-feri-13256330.html",
+   "https://restaurantguru.it/Trattoria-Feri-Valdagno",
+   "https://wanderlog.com/place/details/3208628/trattoria-feri"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessun tool di chiamata automatizzata disponibile: la telefonata va fatta a voce da Federico al numero fisso 0445 431259 (confermato da due fonti indipendenti, Trip.com e Tuttocittà). Indirizzo: Via/Contrada Ponte Garzaro 21, Valdagno. Titolare presunto: Umberto, a conduzione diretta (fonte Cylex, non verificato a voce: lo script verifica implicitamente chiedendo di lui). Orari discordanti tra fonti (Cylex vs RestaurantGuru): da confermare telefonicamente, non citati nel messaggio come certi. Nessun segnale di chiusura definitiva (scheda Cylex aggiornata il 21/11/2025).",
+  "createdAt": "2026-10-15T06:32:45Z",
+  "updatedAt": "2026-10-15T06:32:45Z"
+ },
+ {
+  "id": "la-vecchia-edera-thiene",
+  "name": "La Vecchia Edera",
+  "sector": "Trattoria / ristorante (carne alla griglia, pizza, piatti di pesce)",
+  "comune": "Thiene (VI)",
+  "channel": "Telefono (chiamata manuale, numero da verificare)",
+  "contactLabel": "Telefono",
+  "contactValue": "0445 363160",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/UsakeeNCoNBxNT8MvpaEhR",
+  "messageA": "Buongiorno, parlo con il ristorante La Vecchia Edera?\n(pausa, attende risposta)\n\nPerfetto, mi scusi il disturbo. Sono Federico, chiamo da Thiene.\n(pausa)\n\nMi occupo di siti internet per attività come la vostra, e ho visto che La Vecchia Edera ha davvero tantissime recensioni, con la gente che parla spesso della grigliata mista e delle porzioni abbondanti, cucina casalinga.\n(pausa)\n\nMi sono permesso di preparare già una bozza di sito per il vostro ristorante, giusto per farvi vedere come potrebbe apparire online a chi vi cerca su Google.\n(pausa)\n\nIl motivo per cui la chiamo è semplice: con tanti clienti che vi apprezzano ma nessun sito, chi vi cerca su internet oggi probabilmente non vi trova e finisce da un concorrente.\n(pausa)\n\nVolevo chiederle, se le va, di passare io direttamente in trattoria, anche solo per 10-15 minuti, nel giorno e all'ora che preferisce, così le faccio vedere sul portatile l'anteprima che ho già pronta. Niente impegno, solo per farle vedere con i suoi occhi.\n(pausa, attende risposta)\n\nQuando sarebbe comodo per lei, magari in un momento di calma tra pranzo e cena?\n(pausa)\n\nPerfetto, allora ci vediamo [giorno/ora]. Se invece non le interessa, me lo dica pure tranquillamente, non la disturbo oltre.",
+  "messageB": "Buongiorno, sono io che parlo con La Vecchia Edera, il ristorante di Via Caldierino a Thiene?\n(pausa)\n\nBene, mi scusi se la disturbo un attimo. Mi chiamo Federico, sono di qui vicino e realizzo siti internet per ristoranti e trattorie della zona.\n(pausa)\n\nHo letto diverse recensioni sul vostro locale, e si vede che tanti clienti tornano apposta per gli arrosticini e la zuppa di porcini con la crosta di pane: si capisce che chi vi conosce vi apprezza molto.\n(pausa)\n\nIl punto è che in giro non vi trovo da nessuna parte online, né sito né pagina social, e questo vuol dire che chi non vi conosce ancora difficilmente arriva a scoprirvi.\n(pausa)\n\nVisto che mi piaceva l'idea, ho già preparato una bozza di sito per voi, così può vedere con i suoi occhi come potrebbe diventare la vostra vetrina online.\n(pausa)\n\nLe andrebbe se passassi un attimo in trattoria, dieci minuti, quando è più comodo per lei, magari in un momento morto della giornata? Le faccio vedere l'anteprima direttamente sul portatile, senza impegno.\n(pausa, attende risposta)\n\nMi dica lei quando le fa piacere.\n(pausa)\n\nSe invece non fa per voi, mi dica tranquillamente di no, non la richiamo più per questo.",
+  "sources": [
+   "https://www.sluurpy.it/thiene/ristorante/77470/la-vecchia-edera",
+   "https://piatti.menu",
+   "https://restaurantguru.it"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessun tool di chiamata automatizzata disponibile: la telefonata va fatta a voce da Federico al numero fisso 0445 363160, NON verificato da una seconda fonte indipendente — lo script inizia obbligatoriamente con una verifica discreta del numero prima di qualsiasi proposta, per non bruciare l'hook su un numero sbagliato. Indirizzo: Via Caldierino 6, Thiene, confermato da Sluurpy e piatti.menu. Nessun sito/social propri trovati; profilo e indirizzo confermati da tre fonti indipendenti (Sluurpy, piatti.menu, RestaurantGuru) con numeri di recensioni discordanti (non citati come certi).",
+  "createdAt": "2026-10-15T06:32:45Z",
+  "updatedAt": "2026-10-15T06:32:45Z"
  }
 ]

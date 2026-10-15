@@ -135,5 +135,14 @@
   "leadIds": [
    "la-fabrique-pasticceria-marano-vicentino"
   ]
+ },
+ {
+  "date": "2026-10-15",
+  "summary": "Esplorando per la prima volta a fondo Thiene e Valdagno sul settore ristorazione tradizionale (trattorie/osterie), lo Scout ha trovato 3 lead solidi, tutti confermati dall'Analista senza bisogno di sostituzioni: Trattoria Dal Cogo e La Vecchia Edera (Thiene), Trattoria Feri (Valdagno). Il più promettente è probabilmente Trattoria Dal Cogo: indirizzo e telefono confermati da due fonti coerenti, specialità casalinghe (risotto, bigoli, polenta) ben documentate, e un dettaglio narrativo curioso (possibile legame familiare con lo chef Lorenzo Cogo, ex El Coq) che però va trattato con grande cautela e verificato SOLO di persona, non citato nel primo contatto perché confermato da una sola fonte debole. Pattern notato oggi: a differenza di pizzerie/bar più \"social-friendly\" viste nei giorni scorsi, le trattorie tradizionali di cucina casalinga a Thiene e Valdagno restano quasi tutte scoperte su ogni canale digitale (nessuna ha email, social o PEC), confermando che il settore ristorazione più \"di famiglia\" (contrapposto alle pizzerie più giovani) è un filone da continuare a battere. Suggerimento pratico: tutti e 3 i lead di oggi sono raggiungibili SOLO per telefono fisso — conviene raggrupparle in un'unica sessione di chiamate. Attenzione particolare per La Vecchia Edera: il numero (0445 363160) non è confermato da una seconda fonte indipendente, quindi lo script prevede una verifica discreta dell'identità prima di qualsiasi proposta commerciale. Nessun lead di oggi ha confidence sotto 'alto', ma nessuno dei tre ha ricevuto finora un riscontro reale dall'utente essendo appena trovati.",
+  "leadIds": [
+   "trattoria-dal-cogo-thiene",
+   "trattoria-feri-valdagno",
+   "la-vecchia-edera-thiene"
+  ]
  }
 ]
