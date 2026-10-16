@@ -144,5 +144,13 @@
    "trattoria-feri-valdagno",
    "la-vecchia-edera-thiene"
   ]
+ },
+ {
+  "date": "2026-10-16",
+  "summary": "Oggi puntato su parrucchieri/barbieri e botteghe a Schio, Malo, Piovene Rocchette, Vicenza, Zanè (poco battuti nei giorni scorsi, concentrati su ristorazione a Thiene/Valdagno/Carre/Santorso). Trovati 2 lead validi, entrambi \"a contatto difficile\": New Age (parrucchiere, Zane), con pagina Facebook attiva come unico canale, e Art Cut Salon (barberia/parrucchieria, Vicenza), con zero contatti digitali di qualsiasi tipo (solo Treatwell), gestito con due script per visita diretta. Art Cut Salon sembra il piu promettente per volume di recensioni e specialita distintiva (ondulazioni + barberia uomo), ma richiede una visita fisica senza preavviso quindi piu dispendiosa; New Age e piu facilmente contattabile avendo una pagina Facebook reale da messaggiare. Pattern confermato: nel settore parrucchieri/estetica la reputazione forte spesso non si accompagna a presenza digitale (passaparola locale), a differenza della ristorazione dove i siti amatoriali sono piu frequenti. Nessun lead con confidence \"basso\" oggi: entrambi alto, nessuna verifica manuale aggiuntiva necessaria oltre al protocollo standard. Dal feedback storico (19 lead valutati: 9 scartati, 7 inviati, 3 risposto_no, 0 interessati), suggerisco di confrontare nei prossimi feedback se la visita diretta senza preavviso (Art Cut Salon) converte meglio del messaggio scritto su Facebook (New Age). Scartati durante la ricerca di oggi (Scout + controllo incrociato): Salone Antonella, Salone Roberta, Cocis Studio, Salone Mirca (Schio, solo directory senza recensioni/social); SM Parrucchieri, People Parrucchieri, Il Bello delle Donne, Elia e Marina Parrucchieri, Intuizioni (fonte solo Matrimonio.com, sedi ambigue); Piccole Canaglie Toelettatura (Schio, nessuna recensione indipendente); Istituto Velka (Vicenza, solo 2 recensioni); Girondi Expert (Malo, probabile rivenditore di marchio); Da Enzo, Nuova Immagine, Giuli Pet Toelettatura, Estetic Evolution/Nutriestetica Evolution, Irina Patic Beauty Salon (comune/identita non disambiguabile); varie fiorerie/panetterie/gastronomie/boutique a Schio, Malo, Piovene Rocchette, Zane (nessun nome commerciale verificabile con recensioni/social proprie). Nessuna sostituzione necessaria: entrambi i candidati proposti dallo Scout sono stati confermati OK dall'Analista al primo giro.",
+  "leadIds": [
+   "new-age-parrucchieri-zane",
+   "art-cut-salon-vicenza"
+  ]
  }
 ]

@@ -978,5 +978,47 @@
   "manualChannelNote": "Nessun tool di chiamata automatizzata disponibile: la telefonata va fatta a voce da Federico al numero fisso 0445 363160, NON verificato da una seconda fonte indipendente — lo script inizia obbligatoriamente con una verifica discreta del numero prima di qualsiasi proposta, per non bruciare l'hook su un numero sbagliato. Indirizzo: Via Caldierino 6, Thiene, confermato da Sluurpy e piatti.menu. Nessun sito/social propri trovati; profilo e indirizzo confermati da tre fonti indipendenti (Sluurpy, piatti.menu, RestaurantGuru) con numeri di recensioni discordanti (non citati come certi).",
   "createdAt": "2026-10-15T06:32:45Z",
   "updatedAt": "2026-10-15T06:32:45Z"
+ },
+ {
+  "id": "new-age-parrucchieri-zane",
+  "name": "New Age (salone di Emanuela Capo)",
+  "sector": "Parrucchiere / salone di bellezza",
+  "comune": "Zanè (VI)",
+  "channel": "Facebook (messaggio privato alla pagina, invio manuale)",
+  "contactLabel": "Pagina Facebook",
+  "contactValue": "https://www.facebook.com/people/New-Age-Capelli/100063455472893/",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/LxmCbRCecciw68vj5wjv96",
+  "messageA": "Ciao! Sono Federico. Ho visto la pagina di New Age a Zanè e il percorso di Emanuela dal 2007, con quel metodo di taglio costruito sulle geometrie del viso: si sente che dietro c'è esperienza vera, non solo tecnica.\n\nHo già pronta un'anteprima di un sito per il salone, da vedere dal vivo. Passo 10-15 minuti quando preferisci? Se non ti interessa fammelo sapere e non ti scrivo più.",
+  "messageB": "Ciao! Sono Federico. Ho letto che da New Age a Zanè usate tinte con erbe tintorie per un colore più naturale: un dettaglio che in pochi saloni raccontano, e che online farebbe davvero la differenza.\n\nHo già un'anteprima di sito pronta da mostrarti dal vivo, 10-15 minuti quando ti va bene. Se non ti interessa fammelo sapere e non ti scrivo più.",
+  "sources": [
+   "https://www.treatwell.it/en/place/new-age/",
+   "https://www.facebook.com/people/New-Age-Capelli/100063455472893/"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Invio da fare manualmente da Federico via DM sulla pagina Facebook del salone (non automatizzabile, nessuna email/telefono trovati).",
+  "createdAt": "2026-10-16T06:21:24.000Z",
+  "updatedAt": "2026-10-16T06:21:24.000Z"
+ },
+ {
+  "id": "art-cut-salon-vicenza",
+  "name": "Art Cut Salon",
+  "sector": "Barberia / parrucchieria uomo-donna",
+  "comune": "Vicenza (VI)",
+  "channel": "Visita diretta in negozio (nessun canale digitale disponibile)",
+  "contactLabel": "Nessuno",
+  "contactValue": "",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/R3L17SHBZro7Pc73DUvhu2",
+  "messageA": "Buongiorno, scusate il disturbo. Sono Federico, mi occupo di siti web per attività locali qui a Vicenza. Sono passato apposta da Art Cut Salon perché conosco la vostra storia — il trasferimento da Viale Verona qui in Legione Antonini, e il fatto che siate praticamente gli unici in città a unire barberia uomo e ondulazioni insieme, con una clientela che vi segue da anni.\n\nHo guardato in giro e avete tantissime recensioni entusiaste, davvero un ottimo nome — ma online, a chi vi cerca da fuori, risultate quasi invisibili: nessun sito, nessuna pagina propria. È un peccato, perché la reputazione già ce l'avete, manca solo la vetrina giusta.\n\nHo preparato già un'anteprima di come potrebbe essere il vostro sito, è pronta qui sul portatile. Se avete 10-15 minuti, anche non adesso se oggi siete pieni, mi piacerebbe mostrarvela. Se non è il momento giusto va benissimo lo stesso, passo un'altra volta.",
+  "messageB": "Buongiorno, scusate il disturbo. Sono Federico, mi occupo di siti web per attività locali qui a Vicenza. Sono passato per Art Cut Salon perché conosco la vostra storia — il trasferimento da Viale Verona qui in Legione Antonini, e il fatto che siate tra i pochi a Vicenza a unire barberia uomo e ondulazioni, con una clientela fedelissima da tanti anni.\n\nAvete tantissime recensioni ottime, ma online siete praticamente invisibili: nessun sito, nessuna pagina propria. Avrei preparato già un'anteprima di come potrebbe essere il vostro sito, pronta sul portatile — volevo mostrarla a Emilia, ma capisco che magari non è il momento giusto adesso.\n\nPotete gentilmente dirle che sono passato? Mi chiamo Federico — se volete, le lascio il mio nome e un modo per farmi richiamare quando ha un attimo, così magari troviamo 10-15 minuti comodi per lei, anche un'altra volta. Nessuna fretta, grazie mille per la disponibilità.",
+  "sources": [
+   "https://www.treatwell.it/en/place/art-cut-salon-1/",
+   "https://firmania.it/vicenza/art-cut-salon-4137006"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessun contatto digitale trovato (no email, no telefono, no social proprio, solo Treatwell). Federico deve presentarsi di persona in Via Legione Antonini 132/A, Vicenza, preferibilmente martedì/mercoledì mattina presto o giovedì (non troppo tardi) — evitare lunedì e domenica (chiuso).",
+  "createdAt": "2026-10-16T06:21:24.000Z",
+  "updatedAt": "2026-10-16T06:21:24.000Z"
  }
 ]
