@@ -1020,5 +1020,48 @@
   "manualChannelNote": "Nessun contatto digitale trovato (no email, no telefono, no social proprio, solo Treatwell). Federico deve presentarsi di persona in Via Legione Antonini 132/A, Vicenza, preferibilmente martedì/mercoledì mattina presto o giovedì (non troppo tardi) — evitare lunedì e domenica (chiuso).",
   "createdAt": "2026-10-16T06:21:24.000Z",
   "updatedAt": "2026-10-16T06:21:24.000Z"
+ },
+ {
+  "id": "civico-5-bruschetteria-marano-vicentino",
+  "name": "Civico 5 Bar Trattoria Bruschetteria",
+  "sector": "Bar / trattoria / bruschetteria",
+  "comune": "Marano Vicentino (VI)",
+  "channel": "Visita di persona (walk-in)",
+  "contactLabel": "Nessun contatto digitale o telefonico rintracciabile",
+  "contactValue": "",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/WXJnbbbWK4trjbAqSAbUNu",
+  "messageA": "Buongiorno, scusi il disturbo, un minuto solo. Sono Federico, lavoro qui in zona. Stavo guardando le recensioni dei locali della zona e ho visto che le vostre bruschette senza glutine, fatte col forno dedicato separato, sono davvero apprezzate — ci sono recensioni di clienti celiaci molto entusiaste, avete quasi 4.8 su Glutoapp e 4.6 su RestaurantGuru con più di 130 voti. Mi occupo di realizzare siti web per attività come la vostra, e visto che Civico 5 ancora non ne ha uno, ho pensato valesse la pena venire a dirglielo di persona piuttosto che scrivere nel vuoto. In realtà ho già preparato un'anteprima di come potrebbe essere un sito per il vostro locale — l'ho qui pronta sul portatile. Se le va, mi fermo 10-15 minuti quando preferisce, magari a metà mattina o metà pomeriggio quando c'è meno movimento, e gliela faccio vedere. Se preferisce di no, nessun problema, buona giornata.",
+  "messageB": "Buongiorno, scusi il disturbo un attimo. Sono Federico, mi occupo di realizzare siti web per attività della zona. Stavo guardando le recensioni di qui e ho visto che le bruschette senza glutine col forno dedicato sono molto apprezzate dai clienti celiaci — il locale ha quasi 4.8 su Glutoapp. Ho visto che Civico 5 non ha ancora un sito, e ho già preparato un'anteprima di come potrebbe essere, pronta sul portatile. Non so se c'è il titolare o la titolare in questo momento: se può, le lascio il mio nome e un numero per un eventuale richiamo — sono Federico (Federico dirà qui a voce il proprio numero di telefono reale). Mi farebbe piacere passare 10-15 minuti, magari a metà mattina o metà pomeriggio quando c'è meno gente, per mostrargliela. Se poi non interessa nessun problema, basta che glielo dica. Grazie e buona giornata.",
+  "sources": [
+   "https://restaurantguru.it/Marano-Vicentino",
+   "https://www.glutoapp.com/en/place/18651/civico-5-bar-trattoria-bruschetteria"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessun canale digitale o telefonico disponibile: contatto possibile solo con visita di persona (walk-in), non programmabile in anticipo. Finestra a minore affluenza: 10:00-11:30 oppure 15:00-17:00. Evitare 12:00-14:30 e 19:00-21:30.",
+  "createdAt": "2026-10-18T06:20:46Z",
+  "updatedAt": "2026-10-18T06:20:46Z"
+ },
+ {
+  "id": "la-villa-ristorante-piovene-rocchette",
+  "name": "La Villa (Ristorante & Pizzeria)",
+  "sector": "Ristorante / pizzeria di paese (con servizio occasionale di banqueting per cerimonie)",
+  "comune": "Piovene Rocchette (VI)",
+  "channel": "Visita di persona (walk-in)",
+  "contactLabel": "Nessun contatto digitale o telefonico rintracciabile",
+  "contactValue": "",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/VfP6eKirGz7YRqfUeT2kVJ",
+  "messageA": "Buongiorno, scusi il disturbo, due minuti soli. Sono Federico, lavoro qui in zona. Stavo guardando le recensioni dei ristoranti della zona e il vostro locale è uno di quelli con più recensioni che ho visto — 570, con 4.8 su 5, gente che parla delle cozze, della pizza senza glutine, del semifreddo al pistacchio... roba che fa venire fame solo a leggerla. Mi sono chiesto: ma come fa la gente a trovarvi se cerca online? Perché ho guardato e non avete un sito vostro — chi vi cerca su Google o dal telefono probabilmente finisce su altre pagine o elenchi generici, e con una reputazione così quei clienti li state proprio perdendo per strada. Io realizzo siti semplici per attività come la vostra, e ne ho già pronta un'anteprima sul portatile, giusto per farle vedere come potrebbe essere il vostro. Le andrebbe se passo un giorno, quando fa più comodo a lei, per 10-15 minuti, così gliela faccio vedere dal vivo? Nessun impegno. Se poi non le interessa me lo dice tranquillamente e non la disturbo più.",
+  "messageB": "Buongiorno, scusi il disturbo un attimo. Sono Federico, volevo parlare con il titolare o la titolare ma capisco che magari non è il momento adesso con il servizio. Le spiego in breve: ho visto che il ristorante ha recensioni davvero ottime online — 570 recensioni, 4.8 su 5, la gente scrive bene delle cozze, della pizza senza glutine, dei dolci — ma non ha un sito web proprio, quindi chi lo cerca su internet fa fatica a trovarlo. Io costruisco siti per attività come questa e ho già pronta un'anteprima sul portatile da mostrare. Potrebbe per favore lasciare al titolare il mio nome e un numero, così lo richiamo io o passo quando preferisce lui/lei, giusto 10-15 minuti? (Federico dirà qui a voce il proprio numero di telefono reale). Grazie mille, e se poi non interessa nessun problema, basta farmelo sapere.",
+  "sources": [
+   "https://restaurantguru.it/Piovene-Rocchette",
+   "https://wanderlog.com/place/details/2730445/ristorante-pizzeria-la-villa",
+   "https://www.matrimonio.com/ristoranti-ricevimenti/la-villa--e344208"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessun canale digitale o telefonico disponibile: contatto possibile solo con visita di persona (walk-in), non programmabile in anticipo. Finestra a minore affluenza: 10:00-11:30 oppure 15:00-16:30. Evitare 12:00-14:30 e 19:30-22:00.",
+  "createdAt": "2026-10-18T06:20:46Z",
+  "updatedAt": "2026-10-18T06:20:46Z"
  }
 ]
