@@ -165,5 +165,10 @@
    "civico-5-bruschetteria-marano-vicentino",
    "la-villa-ristorante-piovene-rocchette"
   ]
+ },
+ {
+  "date": "2026-10-19",
+  "summary": "Oggi nessun lead valido: lo Scout ha esplorato Chiuppano, Carrè e Santorso per parrucchieri/barbieri/centri estetici senza riuscire a identificare nemmeno un nome di attività specifico (WebSearch in questo ambiente non indicizza questi settori in questi tre piccoli comuni, restituendo solo indirizzi anonimi da Cylex senza ragione sociale), e ha poi esaminato 7 candidati a Thiene nel settore botteghe di vicinato (pasticcerie, gastronomie), scartandoli tutti per fonti insufficienti (solo aggregatori senza pagina social propria o recensioni sostanziali verificabili, o un'email su dominio proprio trattata come indizio di sito già esistente). Nessun candidato è arrivato alla fase di revisione dell'Analista, quindi oggi non ci sono lead con confidence 'basso' da segnalare: la soglia 'alto' richiesta non è mai stata raggiunta, in linea con la priorità di qualità sulla quantità. Pattern notato: a differenza della ristorazione/bar, dove negli ultimi giorni il WebSearch ha funzionato bene anche in questi stessi comuni (Pizzeria Diana a Carrè, Caffè Diesis e Osteria Moderna a Santorso), i settori parrucchieri/estetica/barbieri sembrano sistematicamente meno indicizzati nei comuni più piccoli, mentre a Vicenza città lo stesso settore ha prodotto ottimi risultati nei giorni scorsi (Hair Studio, Jacqueline, Art Cut Salon) grazie a Treatwell. Suggerimento pratico: nei prossimi giri evitare di forzare parrucchieri/estetica nei comuni piccoli già rivelatisi poveri di fonti (Chiuppano, Carrè, Santorso), preferendo lì ristorazione/bar/botteghe già dimostrati più produttivi, e riservare parrucchieri/estetica a Vicenza città o a comuni medi non ancora esauriti (es. Malo, Schio) dove Treatwell può emergere come fonte diretta.",
+  "leadIds": []
  }
 ]
