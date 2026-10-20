@@ -1063,5 +1063,48 @@
   "manualChannelNote": "Nessun canale digitale o telefonico disponibile: contatto possibile solo con visita di persona (walk-in), non programmabile in anticipo. Finestra a minore affluenza: 10:00-11:30 oppure 15:00-16:30. Evitare 12:00-14:30 e 19:30-22:00.",
   "createdAt": "2026-10-18T06:20:46Z",
   "updatedAt": "2026-10-18T06:20:46Z"
+ },
+ {
+  "id": "pizzeria-trinita-schio",
+  "name": "Pizzeria Trinità",
+  "sector": "Pizzeria (asporto e consegna a domicilio)",
+  "comune": "Schio (VI)",
+  "channel": "Telefono fisso (chiamata per fissare l'incontro di persona)",
+  "contactLabel": "Telefono",
+  "contactValue": "0445 510571",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/GwTRHTmMcb4WRu9TkkRdyX",
+  "messageA": "Buonasera, sono Federico, chiamo da Schio. Parlo con la Pizzeria Trinità? [conferma] Perfetto. Le telefono perché ho letto diverse recensioni entusiaste sulla vostra pizza — si vede che avete clienti davvero fedeli. Mi occupo di siti web per attività locali qui in zona, e ho notato che chi cerca online \"pizzeria asporto Schio\" in questo momento non trova un vostro sito, e magari finisce per ordinare altrove senza nemmeno sapervi trovare. Ho già preparato un'anteprima del sito per la Pizzeria Trinità, pronta da vedere. Le andrebbe di farmi passare di persona in pizzeria per una decina di minuti, magari verso le 17, prima di aprire per cena, così gliela mostro sul portatile? Mi dica lei il giorno che preferisce. Se non è il momento giusto nessun problema, mi faccia sapere e non la disturbo più.",
+  "messageB": "Buonasera, sono Federico. Chiamo la Pizzeria Trinità? Perfetto. Vorrei parlare con il titolare, ma capisco che magari non è disponibile ora. Mi occupo di siti web per attività locali qui a Schio: ho letto diverse recensioni molto positive sulla vostra pizza e ho già pronta un'anteprima di sito per la pizzeria, da mostrare di persona in pochi minuti. Potrebbe lasciare al titolare questo messaggio: sono Federico, il mio numero è [INSERIRE QUI IL NUMERO DI TELEFONO DI FEDERICO], può richiamarmi quando ha un attimo, magari in un orario tranquillo nel tardo pomeriggio? Se preferite non essere contattati va benissimo, basta dirmelo e non vi disturbo più.",
+  "sources": [
+   "https://www.sluurpy.it/schio/ristorante/227650/pizzeria-trinit",
+   "https://trova-aperto.it/schio/pizzeria-trinit%c3%a0-2811859"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Telefono spesso occupato nelle ore di punta per gli ordini (segnale di alta richiesta): preferire chiamata in orario di minore affluenza (tardo pomeriggio, ~17:00-17:30, prima dell'apertura serale); evitare il martedì (chiuso).",
+  "createdAt": "2026-10-20T06:26:33.000Z",
+  "updatedAt": "2026-10-20T06:26:33.000Z"
+ },
+ {
+  "id": "pizzeria-addis-abeba-zane",
+  "name": "Pizzeria Addis Abeba (anche citata come \"Trattoria Addis Abeba\")",
+  "sector": "Pizzeria / trattoria",
+  "comune": "Zanè (VI)",
+  "channel": "Visita di persona (nessun contatto remoto disponibile)",
+  "contactLabel": "Nessuno",
+  "contactValue": "",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/Hry8TZjRr3q9EGpXPiXdSp",
+  "messageA": "Buongiorno, sono Federico. Ho letto diverse recensioni molto positive sulla pizzeria, sembra davvero un punto di riferimento qui a Zanè. Le rubo solo 10 minuti: mi occupo di creare siti web per attività come la vostra, e ho già pronta — sul portatile, posso farle vedere subito — un'anteprima del sito pensata apposta per la vostra pizzeria. Il motivo per cui sono passato è semplice: tante persone cercano \"pizzeria Zanè\" o \"trattoria Zanè\" online, e se non trovano un sito vostro spesso finiscono per scegliere un altro locale che invece ce l'ha. Avrebbe 10-15 minuti ora per dargli un'occhiata, oppure preferisce che passi in un momento più tranquillo — magari verso le 10-11 di mattina prima del servizio pranzo, o tra le 15 e le 17? Se non è il momento giusto, me lo dica pure tranquillamente, non insisto.",
+  "messageB": "Buongiorno, sono Federico. Volevo parlare con il titolare della pizzeria: ho letto recensioni molto positive su questo locale, sembra proprio un punto di riferimento qui a Zanè. Mi occupo di creare siti web per attività come questa, e ho già pronta un'anteprima del sito della pizzeria che vorrei mostrargli di persona, sul portatile. Il titolare è in zona in questo momento, oppure non è un buon momento? [se non disponibile] Nessun problema — le lascio il mio nome e un numero: sono Federico, il numero è [Federico dice a voce il proprio numero di telefono reale]. Se può passarglielo per un eventuale richiamo, o per dirgli che passerò di nuovo magari verso le 10-11 di mattina prima di pranzo, o tra le 15 e le 17, quando probabilmente sarà meno impegnato col servizio. Grazie mille, e se non è il momento giusto nessun problema, non insisto.",
+  "sources": [
+   "https://www.cylex-italia.it/zane/pizzeria-addis-abeba-12957001.html",
+   "https://wanderlog.com/place/details/3663672/pizzeria-addis-abeba",
+   "https://www.sluurpy.it/zane/pizzeria"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Zero contatti digitali e telefonici: contatto possibile solo con visita diretta di Federico al locale. Finestre consigliate: 10:00-11:30 (prima del servizio pranzo) o 15:00-17:00 (tra pranzo e cena); chiuso il lunedì.",
+  "createdAt": "2026-10-20T06:26:33.000Z",
+  "updatedAt": "2026-10-20T06:26:33.000Z"
  }
 ]
