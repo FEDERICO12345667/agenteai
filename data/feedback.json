@@ -11,6 +11,39 @@
   "when": "2026-10-01T16:05:15.949Z"
  },
  {
+  "id": "art-cut-salon-vicenza",
+  "name": "Art Cut Salon",
+  "sector": "Barberia / parrucchieria uomo-donna",
+  "comune": "Vicenza (VI)",
+  "channel": "Visita diretta in negozio (nessun canale digitale disponibile)",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "distante",
+  "when": "2026-10-21T16:24:03.810Z"
+ },
+ {
+  "id": "bar-buzzolan-thiene",
+  "name": "Bar Buzzolan",
+  "sector": "Bar/caffetteria storico (aperitivo, colazioni, spritz)",
+  "comune": "Thiene (VI)",
+  "channel": "Visita di persona senza preavviso (nessun contatto digitale/telefonico disponibile)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T16:11:22.978Z"
+ },
+ {
+  "id": "caffe-diesis-santorso",
+  "name": "Caffè Diesis",
+  "sector": "Bar / pasticceria artigianale",
+  "comune": "Santorso (VI)",
+  "channel": "Telefono (chiamata manuale — script per fissare incontro di persona)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T16:03:55.194Z"
+ },
+ {
   "id": "carrozzeria-rondon-zane",
   "name": "Carrozzeria Rondon",
   "sector": "Carrozzeria (riparazione e verniciatura auto)",
@@ -33,6 +66,17 @@
   "when": "2026-10-08T15:06:30.664Z"
  },
  {
+  "id": "civico-5-bruschetteria-marano-vicentino",
+  "name": "Civico 5 Bar Trattoria Bruschetteria",
+  "sector": "Bar / trattoria / bruschetteria",
+  "comune": "Marano Vicentino (VI)",
+  "channel": "Visita di persona (walk-in)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T16:21:51.449Z"
+ },
+ {
   "id": "comparin-sergio-impianti-elettrici-santorso",
   "name": "Comparin Sergio Impianti Elettrici",
   "sector": "Elettricista - impianti elettrici civili e industriali",
@@ -42,6 +86,17 @@
   "status": "inviato",
   "reason": "",
   "when": "2026-10-01T15:56:19.526Z"
+ },
+ {
+  "id": "cuore-pizzeria-marano-vicentino",
+  "name": "Cuore (ex Cuore Napoletano) di Luca Brancati",
+  "sector": "Pizzeria napoletana contemporanea",
+  "comune": "Marano Vicentino (VI)",
+  "channel": "Nessun canale trovato — visita diretta in negozio",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T15:52:37.255Z"
  },
  {
   "id": "dalle-carbonare-gianluigi-carre",
@@ -64,6 +119,28 @@
   "status": "risposto_no",
   "reason": "",
   "when": "2026-09-30T16:00:53.015Z"
+ },
+ {
+  "id": "fariza-estetica-pilates-vicenza",
+  "name": "Fariza Estetica e Pilates",
+  "sector": "Centro estetico (trattamenti viso, massaggi/drenaggio linfatico, pedicure, laminazione ciglia/sopracciglia) e pilates",
+  "comune": "Vicenza (VI)",
+  "channel": "Nessun canale trovato — visita diretta in negozio",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito",
+  "when": "2026-10-21T15:40:54.409Z"
+ },
+ {
+  "id": "fioreria-santa-croce-schio",
+  "name": "Fioreria Santa Croce",
+  "sector": "Fioreria di vicinato con specializzazione in allestimenti floreali per matrimoni",
+  "comune": "Schio (VI)",
+  "channel": "Facebook (Messenger, invio manuale)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T15:52:35.165Z"
  },
  {
   "id": "gioielleria-stefani-marano-vicentino",
@@ -99,6 +176,39 @@
   "when": "2026-10-08T15:04:28.308Z"
  },
  {
+  "id": "la-fabrique-pasticceria-marano-vicentino",
+  "name": "La Fabrique",
+  "sector": "Pasticceria artigianale (dolci quotidiani, torte per cerimonie, torte nuziali su misura)",
+  "comune": "Marano Vicentino (VI)",
+  "channel": "Telefono (chiamata manuale)",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Attività chiusa",
+  "when": "2026-10-21T16:04:33.765Z"
+ },
+ {
+  "id": "la-vecchia-edera-thiene",
+  "name": "La Vecchia Edera",
+  "sector": "Trattoria / ristorante (carne alla griglia, pizza, piatti di pesce)",
+  "comune": "Thiene (VI)",
+  "channel": "Telefono (chiamata manuale, numero da verificare)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T16:07:32.919Z"
+ },
+ {
+  "id": "la-villa-ristorante-piovene-rocchette",
+  "name": "La Villa (Ristorante & Pizzeria)",
+  "sector": "Ristorante / pizzeria di paese (con servizio occasionale di banqueting per cerimonie)",
+  "comune": "Piovene Rocchette (VI)",
+  "channel": "Visita di persona (walk-in)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T16:21:56.907Z"
+ },
+ {
   "id": "le-figaro-parrucchieri-zane",
   "name": "Le Figaro Parrucchieri di Balasso Antonio",
   "sector": "Parrucchiere (salone uomo/donna)",
@@ -108,6 +218,17 @@
   "status": "risposto_no",
   "reason": "",
   "when": "2026-09-30T16:01:04.971Z"
+ },
+ {
+  "id": "ma-gio-panificio-zane",
+  "name": "Ma.Giò (Panificio Ma.Giò)",
+  "sector": "Panetteria / panificio di vicinato — pane e prodotti da forno",
+  "comune": "Zanè (VI)",
+  "channel": "Visita di persona senza preavviso (nessun canale scritto/telefonico disponibile)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T15:57:41.986Z"
  },
  {
   "id": "macelleria-gasparella-zane",
@@ -121,6 +242,17 @@
   "when": "2026-10-07T15:51:38.151Z"
  },
  {
+  "id": "new-age-parrucchieri-zane",
+  "name": "New Age (salone di Emanuela Capo)",
+  "sector": "Parrucchiere / salone di bellezza",
+  "comune": "Zanè (VI)",
+  "channel": "Facebook (messaggio privato alla pagina, invio manuale)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T16:21:40.641Z"
+ },
+ {
   "id": "officina-meccanica-mendo-mariano-marano-vicentino",
   "name": "Officina Meccanica di Mendo Mariano e C. S.n.c.",
   "sector": "Officina meccanica / autofficina",
@@ -130,6 +262,17 @@
   "status": "inviato",
   "reason": "",
   "when": "2026-10-01T15:53:32.655Z"
+ },
+ {
+  "id": "osteria-moderna-santorso",
+  "name": "Osteria Moderna",
+  "sector": "Osteria / ristorante-pizzeria (con opzioni vegane)",
+  "comune": "Santorso (VI)",
+  "channel": "Telefono (chiamata manuale — script per fissare incontro di persona)",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito",
+  "when": "2026-10-21T15:58:52.471Z"
  },
  {
   "id": "ottica-pietrobelli-giorgio-piovene-rocchette",
@@ -154,6 +297,17 @@
   "when": "2026-10-01T15:34:36.254Z"
  },
  {
+  "id": "pizzeria-addis-abeba-zane",
+  "name": "Pizzeria Addis Abeba (anche citata come \"Trattoria Addis Abeba\")",
+  "sector": "Pizzeria / trattoria",
+  "comune": "Zanè (VI)",
+  "channel": "Visita di persona (nessun contatto remoto disponibile)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T16:21:46.522Z"
+ },
+ {
   "id": "pizzeria-il-mezzometro-piovene-rocchette",
   "name": "Pizzeria Il MezzoMetro",
   "sector": "Pizzeria (asporto/consegna)",
@@ -163,6 +317,17 @@
   "status": "inviato",
   "reason": "",
   "when": "2026-10-07T15:38:36.596Z"
+ },
+ {
+  "id": "pizzeria-trinita-schio",
+  "name": "Pizzeria Trinità",
+  "sector": "Pizzeria (asporto e consegna a domicilio)",
+  "comune": "Schio (VI)",
+  "channel": "Telefono fisso (chiamata per fissare l'incontro di persona)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-21T16:13:48.223Z"
  },
  {
   "id": "record-bike-malo",
@@ -207,5 +372,27 @@
   "status": "scartato",
   "reason": "Scartato dall'utente, motivo non indicato.",
   "when": "2026-10-01T16:05:07.116Z"
+ },
+ {
+  "id": "trattoria-dal-cogo-thiene",
+  "name": "Trattoria Dal Cogo",
+  "sector": "Trattoria / ristorante tradizionale (cucina veneta)",
+  "comune": "Thiene (VI)",
+  "channel": "Telefono (chiamata manuale)",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito",
+  "when": "2026-10-21T16:08:44.254Z"
+ },
+ {
+  "id": "trattoria-feri-valdagno",
+  "name": "Trattoria Feri (anche \"Trattoria Da Feri\")",
+  "sector": "Trattoria tradizionale, cucina di selvaggina e tradizione veneta",
+  "comune": "Valdagno (VI)",
+  "channel": "Telefono (chiamata manuale)",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "lontano",
+  "when": "2026-10-21T16:09:00.496Z"
  }
 ]

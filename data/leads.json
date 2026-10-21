@@ -686,43 +686,49 @@
   "name": "Trattoria Pizzeria Gato Nero",
   "sector": "Trattoria / Pizzeria, cucina italiana",
   "comune": "Chiuppano (VI)",
-  "channel": "Facebook (Messenger, invio manuale)",
-  "contactLabel": "Pagina Facebook",
+  "channel": "Facebook (Messenger) o telefono",
+  "contactLabel": "Facebook",
   "contactValue": "https://www.facebook.com/p/Trattoria-Pizzeria-Gato-Nero-100080379969105/",
   "pec": "",
   "demoUrl": "https://claude.ai/artifact/6M3VPoDSPkCkwi5EzZyfav",
-  "messageA": "Ciao! Sono Federico, zona Chiuppano. Ho visto che Gato Nero ha 4,8/5 su 216 recensioni RestaurantGuru: risultato raro da queste parti. Ho già pronta un'anteprima di un sito per farvi trovare da più clienti online. Passo 10-15 minuti quando preferite, ve la mostro dal portatile. Se non ti interessa, fammelo sapere e non scrivo più.",
-  "messageB": "Ciao, sono Federico. Ho trovato la pagina della Trattoria Gato Nero a Chiuppano e mi ha colpito: 4,8/5 su 216 recensioni, ma ancora nessun sito online. Ho già un'anteprima pronta da mostrarvi sul portatile, per farvi trovare meglio. Passo quando vi fa comodo, 10-15 minuti, senza impegno. Se non interessa fammelo sapere e non scrivo più.",
   "sources": [
    "https://www.facebook.com/p/Trattoria-Pizzeria-Gato-Nero-100080379969105/",
    "https://www.cylex-italia.it/chiuppano/trattoria-gato-nero-15713468.html",
    "https://restaurantguru.it/Chiuppano"
   ],
   "confidence": "alto",
-  "manualChannelNote": "L'invio va fatto manualmente su Facebook Messenger (nessun tool di invio automatizzato disponibile). Nessun telefono, email o PEC pubblici trovati. Nessun menu/piatto specifico verificato online: non citarne nel primo contatto. Orari da Cylex (pranzo feriale 7:00-14:00, cena sab/dom 18:00-22:30) da confermare di persona.",
+  "manualChannelNote": "Il telefono (333 624 4271, cellulare) risulta dalla scheda Facebook della trattoria: confermalo a voce. Invio su Messenger da fare a mano. Non citare piatti o menu (non verificati). Orari da confermare di persona.",
   "createdAt": "2026-10-09T06:22:57Z",
-  "updatedAt": "2026-10-09T06:22:57Z"
+  "updatedAt": "2026-10-21T16:00:00Z",
+  "facebookUrl": "https://www.facebook.com/p/Trattoria-Pizzeria-Gato-Nero-100080379969105/",
+  "instagramUrl": "",
+  "phone": "333 624 4271",
+  "messageFacebook": "Buongiorno, sono Federico, realizzo siti web per attività dell'Alto Vicentino. Scusate il disturbo.\n\nHo visto la pagina del Gato Nero a Chiuppano e le recensioni dei clienti: una media di 4,8 su 5 su più di duecento valutazioni è un risultato che pochi locali della zona possono mostrare.\n\nChi vi cerca online, però, trova la pagina Facebook e le schede sparse sui portali, ma non un sito tutto vostro dove vedere in un colpo solo come arrivare, quando siete aperti e come contattarvi.\n\nPer questo ho preparato un'anteprima di un possibile sito per il Gato Nero. Se vi fa piacere, passo io da voi per 10-15 minuti a mostrarvela sul portatile, quando vi è più comodo e anche fuori dall'orario di servizio. Senza impegno.\n\nSe non vi interessa, ditemelo pure e non vi scrivo più. Grazie del tempo!",
+  "messageCall": "Buongiorno, sono Federico, scusi il disturbo. Parlo con il Gato Nero di Chiuppano?\n\n[Se sì] Le rubo solo un minuto. Mi occupo di siti web per le attività dell'Alto Vicentino e ho visto che il vostro locale ha recensioni molto belle: 4,8 su 5 su più di duecento valutazioni. Cercando online, però, non ho trovato un sito vostro, solo la pagina Facebook e le schede dei portali.\n\nHo già preparato un'anteprima di come potrebbe essere il sito del Gato Nero. Non le chiedo niente al telefono: le chiedo solo se posso passare di persona, 10-15 minuti, nel giorno e all'ora che le fanno più comodo (anche fuori dall'orario di servizio), per mostrargliela sul portatile.\n\n[Se è occupato] Capisco, quando posso richiamarla?\n\nSe non le interessa nessun problema: la ringrazio e non la disturbo più."
  },
  {
   "id": "gelateria-del-favero-piovene-rocchette",
   "name": "Gelateria Del Favero (di Del Favero Gianpaolo)",
   "sector": "Gelateria artigianale",
   "comune": "Piovene Rocchette (VI)",
-  "channel": "Facebook (Messenger, invio manuale)",
-  "contactLabel": "Pagina Facebook",
+  "channel": "Facebook (Messenger) o telefono",
+  "contactLabel": "Facebook",
   "contactValue": "https://www.facebook.com/gelateriadelfavero1/",
   "pec": "",
   "demoUrl": "https://claude.ai/artifact/SUDDPS6cHok3tWBqixbvZo",
-  "messageA": "Ciao, sono Federico! Gelateria Del Favero dal 1945 a Piovene Rocchette: 80 anni della stessa famiglia, non è una cosa da poco oggi. Mi occupo di siti web e ne ho già preparata una bozza su misura per voi, pronta da vedere. Passo 10-15 minuti quando preferite, vi faccio vedere tutto dal portatile. Se non ti interessa fammelo sapere e non ti scrivo più.",
-  "messageB": "Sono Federico, ciao! Una gelateria di famiglia dal 1945 a Piovene Rocchette è una storia rara, e online quasi non si trova. Ho già messo insieme un'anteprima del sito pensata per voi, pronta da mostrarvi. Potrei passare in negozio 10 minuti, nel giorno e ora che preferite, portatile alla mano. Se non ti interessa fammelo sapere e non ti scrivo più.",
   "sources": [
    "https://www.facebook.com/gelateriadelfavero1/",
    "https://oraridiapertura24.it"
   ],
   "confidence": "alto",
-  "manualChannelNote": "L'invio va fatto manualmente su Facebook Messenger (nessun tool di invio automatizzato disponibile). Nessun telefono, email o PEC pubblici trovati. Orari, gusti specifici e telefono non reperibili online: da raccogliere di persona. Indirizzo Via Libertà 81 (una fonte riportava 77: verificare il civico esatto di persona).",
+  "manualChannelNote": "Il telefono (334 742 2440) viene da un elenco online, non dalla pagina ufficiale: confermalo a voce. Indirizzo: la pagina Facebook riporta Via Libertà 77 (un'altra fonte 81): non citare il numero civico. Invio su Messenger da fare a mano.",
   "createdAt": "2026-10-09T06:22:57Z",
-  "updatedAt": "2026-10-09T06:22:57Z"
+  "updatedAt": "2026-10-21T16:00:00Z",
+  "facebookUrl": "https://www.facebook.com/gelateriadelfavero1/",
+  "instagramUrl": "",
+  "phone": "334 742 2440",
+  "messageFacebook": "Buongiorno, sono Federico, realizzo siti web per attività dell'Alto Vicentino. Scusate il disturbo.\n\nHo visto la pagina della Gelateria Del Favero a Piovene Rocchette: una gelateria artigianale aperta dal 1945, con una tradizione costruita su passione ed esperienza e recensioni quasi tutte positive. Sono cose che in pochi possono raccontare.\n\nSul web, però, oltre alla pagina Facebook non ho trovato un sito vostro: chi cerca una gelateria in zona rischia di non scoprire una storia così lunga, e di non trovare in un posto solo gusti, orari e indirizzo.\n\nPer questo ho preparato un'anteprima di un possibile sito per la gelateria. Se vi fa piacere, passo io da voi per 10-15 minuti a mostrarvela sul portatile, quando vi è più comodo. Senza impegno.\n\nSe non vi interessa, ditemelo pure e non vi scrivo più. Grazie del tempo!",
+  "messageCall": "Buongiorno, sono Federico, scusi il disturbo. Parlo con la Gelateria Del Favero di Piovene Rocchette?\n\n[Se sì] Le rubo solo un minuto. Mi occupo di siti web per le attività dell'Alto Vicentino e ho visto che la vostra è una gelateria artigianale aperta dal 1945, con recensioni quasi tutte positive: una storia che pochi possono raccontare. Cercando online, però, non ho trovato un sito vostro, solo la pagina Facebook.\n\nHo già preparato un'anteprima di come potrebbe essere il sito della gelateria. Non le chiedo niente al telefono: le chiedo solo se posso passare di persona, 10-15 minuti, nel giorno e all'ora che le fanno più comodo, per mostrargliela sul portatile.\n\n[Se è occupato] Capisco, quando posso richiamarla?\n\nSe non le interessa nessun problema: la ringrazio e non la disturbo più."
  },
  {
   "id": "cuore-pizzeria-marano-vicentino",
@@ -795,40 +801,49 @@
   "name": "Jacqueline Parrucchieri",
   "sector": "Parrucchiere / acconciatore",
   "comune": "Vicenza (VI)",
-  "channel": "Visita di persona (nessun contatto a distanza disponibile)",
-  "contactLabel": "Nessuno disponibile",
-  "contactValue": "",
+  "channel": "Facebook (Messenger) o telefono",
+  "contactLabel": "Facebook",
+  "contactValue": "https://www.facebook.com/parrucchierajacqueline/",
   "pec": "",
   "demoUrl": "https://claude.ai/artifact/FfrK11GcToeDtNTQiajefj",
-  "messageA": "Buongiorno, mi scusi un attimo del disturbo. Sono Federico, lavoro qui a Vicenza e mi occupo di siti web per negozi e attività come la sua. Le dico perché sono passato proprio da voi: ho visto che su Treatwell avete quasi 80 recensioni con una media di 4,9 su 5 — un livello altissimo, non comune. Però cercando online non ho trovato un sito o una pagina vostra: chi vuole scoprirvi lo fa solo se inciampa per caso nella scheda delle prenotazioni. Con un sito semplice che racconta chi siete e mostra queste recensioni, chi vi cerca su Google vi trova subito, invece di rischiare di finire da un'altra parte. Le ho già preparato un'anteprima, gratuita e senza impegno. Se ha un attimo ora gliela faccio vedere sul portatile, altrimenti mi fermo volentieri altri dieci minuti in un momento più comodo. [Variante se chiuso/occupata: 'Capisco, non vorrei disturbare. Posso lasciarle solo il mio nome e un modo per essere richiamato, così ci vediamo con calma un altro momento?'] [Variante se risponde una collaboratrice: 'La titolare è in salone in questo momento?... Le lascio il mio nome, Federico, e un numero per essere richiamato, oppure ripasso io un'altra volta.'] Se non le interessa, nessun problema, la ringrazio per il tempo.",
-  "messageB": "Buongiorno, scusi il disturbo, sono Federico. Due minuti, se può. Leggendo le recensioni di Jacqueline mi ha colpito una cosa: non parlano solo del taglio, parlano di come vi mettete nei panni delle clienti, anche con chi non parla bene italiano, anche con le bambine. Sono recensioni che fanno venire voglia di prenotare. Il problema è che restano chiuse dentro Treatwell: chi non passa di lì, non le vede mai. Un sito vostro raccoglierebbe tutto questo in un posto solo, facile da trovare su Google, e lavorerebbe per voi anche quando il salone è chiuso. Ne ho già pronta una versione di prova. Se la titolare è libera anche solo cinque minuti gliela mostro subito sul portatile, altrimenti ripasso quando preferisce, bastano un quarto d'ora. [Variante se chiuso: 'Vedo che siete chiuse in questo momento, ripasserò in un altro orario.'] [Variante se risponde una collaboratrice: 'Potrei lasciare il mio nome, Federico, e un contatto per essere richiamato dalla titolare quando ha un attimo? Oppure torno io con piacere un'altra volta.'] Se non vi interessa, fatemelo sapere tranquillamente, non vi disturbo più.",
   "sources": [
-   "https://www.treatwell.it/en/place/jacqueline-parrucchieri/reviews/page-2/"
+   "https://www.treatwell.it/en/place/jacqueline-parrucchieri/reviews/page-2/",
+   "https://www.facebook.com/parrucchierajacqueline/"
   ],
   "confidence": "alto",
-  "manualChannelNote": "Nessun canale digitale utilizzabile a distanza (no telefono, no email, no social propri; Treatwell è solo prenotazione, senza messaggistica commerciale). Unica via concreta: visita diretta in salone, con script pronto anche per salone chiuso/occupato e per interlocutore diverso dalla titolare (lasciare nome e un modo per essere richiamati).",
+  "manualChannelNote": "Pagina Facebook e telefono (0444 239012, Via Dalla Chiesa 173) trovati ora: la corrispondenza con la scheda Treatwell e per nome e città, quindi controlla che sia lo stesso salone prima di scrivere. Invio su Messenger da fare a mano.",
   "createdAt": "2026-10-12T06:48:00Z",
-  "updatedAt": "2026-10-12T06:48:00Z"
+  "updatedAt": "2026-10-21T16:00:00Z",
+  "facebookUrl": "https://www.facebook.com/parrucchierajacqueline/",
+  "instagramUrl": "",
+  "phone": "0444 239012",
+  "messageFacebook": "Buongiorno, sono Federico, realizzo siti web per attività di Vicenza e dell'Alto Vicentino. Scusate il disturbo.\n\nHo visto la pagina di Parrucchiera Jacqueline: più di 1.400 persone la seguono e su Treatwell avete una media di 4,9 su 5 su quasi ottanta recensioni. Sono numeri che dicono molto sul lavoro che fate con le vostre clienti.\n\nCercando online, però, non ho trovato un sito vostro: chi vi cerca finisce sulla pagina Facebook o sulla scheda di Treatwell, che è una piattaforma di prenotazione e non uno spazio tutto vostro dove raccontare chi siete e cosa fate.\n\nPer questo ho preparato un'anteprima di un possibile sito per il salone. Se vi fa piacere, passo io da voi per 10-15 minuti a mostrarvela sul portatile, quando vi è più comodo. Senza impegno.\n\nSe non vi interessa, ditemelo pure e non vi scrivo più. Grazie del tempo!",
+  "messageCall": "Buongiorno, sono Federico, scusi il disturbo. Parlo con il salone Jacqueline di Vicenza?\n\n[Se sì] Le rubo solo un minuto. Mi occupo di siti web per le attività di Vicenza e dell'Alto Vicentino e ho visto che il vostro salone ha recensioni eccellenti: 4,9 su 5 su quasi ottanta valutazioni su Treatwell. Cercando online, però, non ho trovato un sito vostro, solo la pagina Facebook e la scheda delle prenotazioni.\n\nHo già preparato un'anteprima di come potrebbe essere il sito del salone. Non le chiedo niente al telefono: le chiedo solo se posso passare di persona, 10-15 minuti, in un momento tranquillo e nel giorno che preferisce, per mostrargliela sul portatile.\n\n[Se è occupata con una cliente] Capisco, quando posso richiamarla?\n\nSe non le interessa nessun problema: la ringrazio e non la disturbo più."
  },
  {
   "id": "hair-studio-maurizio-vicenza",
   "name": "Hair Studio (titolare: Maurizio — cognome e ragione sociale non reperibili pubblicamente)",
   "sector": "Parrucchiere uomo/donna (taglio, piega, colore)",
   "comune": "Vicenza (VI)",
-  "channel": "Visita di persona (nessun contatto a distanza disponibile)",
-  "contactLabel": "Nessuno disponibile",
-  "contactValue": "",
+  "channel": "Facebook / Instagram o telefono",
+  "contactLabel": "Facebook",
+  "contactValue": "https://www.facebook.com/hairstudiovicenza2022/",
   "pec": "",
   "demoUrl": "https://claude.ai/artifact/UWvRr1ijyihZRnjkjdYd2W",
-  "messageA": "Buongiorno, scusi il disturbo — è un attimo libero o è nel mezzo di un servizio? [Se libero] Mi chiamo Federico, sono di qui vicino e mi occupo di siti web per attività come la sua. Le dico subito perché sono passato: ho visto la sua scheda su Treatwell, quasi 350 recensioni e un voto di 4,9 — è una cosa rara, non capita spesso di vedere numeri così. Il problema è che chi la cerca su Google o non la trova, oppure la trova solo lì, su una piattaforma che non è nemmeno sua. Ho già preparato una bozza di sito con il suo nome e quelle recensioni messe in evidenza, giusto per farle vedere come potrebbe apparire. Ha due minuti adesso, magari tra un cliente e l'altro, per darci un'occhiata insieme sul portatile? Se non è il momento buono, nessun problema, le lascio il mio numero e passo, oppure la richiamo quando fa più comodo, magari a fine giornata. [Se occupato con un cliente] Capisco, non vorrei disturbarla mentre lavora. Le lascio un bigliettino con il mio nome e un numero: se le va mi richiama lei con comodo, altrimenti ripasso un altro giorno io. Se non le interessa, dica tranquillamente di no.",
-  "messageB": "Buongiorno! Sono Federico, scusi se la fermo un attimo — lavora sempre da solo qui, vero? Immaginavo, si vede che è sempre pieno di appuntamenti. Allora, io mi occupo di creare siti semplici per negozi e saloni come questo, e pensavo: con tutte le belle recensioni che ha su Treatwell, sarebbe un peccato che chi la cerca online non trovi nulla con il suo nome. Il bello è che poi non deve gestire niente lei, me ne occupo io. Ho già fatto una prova con i suoi dati, dura un minuto farla vedere sul computer: ha un attimo adesso, o preferisce che ripassi più tardi, magari a chiusura? [Se impegnato con un cliente] Ah, è impegnato, nessun problema, non vorrei farle perdere tempo mentre lavora. Le lascio un biglietto con il mio nome e un contatto: mi richiama se le interessa, altrimenti ripasso io un'altra volta. Buona giornata!",
   "sources": [
-   "https://www.treatwell.it/en/place/hair-studio-14/"
+   "https://www.treatwell.it/en/place/hair-studio-14/",
+   "https://www.facebook.com/hairstudiovicenza2022/",
+   "https://www.instagram.com/hairstudiovicenza/"
   ],
   "confidence": "alto",
-  "manualChannelNote": "Nessun canale digitale utilizzabile a distanza (no telefono, no email, no social propri, no PEC; Treatwell è solo prenotazione, senza messaggistica commerciale). Orari non noti pubblicamente. Unica via concreta: visita diretta in salone durante l'orario di apertura, con script pronto per il caso 'occupato con un cliente' (bigliettino con nome e contatto per essere richiamati).",
+  "manualChannelNote": "Pagine social e telefono (351 723 5495, dal profilo Instagram di Maurizio Falzone) trovati ora; l'indirizzo Via Alfieri 55 coincide con la scheda Treatwell. Il dettaglio sulle schiariture sfumate e sui vent'anni di esperienza viene dalla pagina Facebook \"Hair Studio Vicenza\": controlla che sia lo stesso salone. Invio su Messenger o Instagram da fare a mano.",
   "createdAt": "2026-10-12T06:48:00Z",
-  "updatedAt": "2026-10-12T06:48:00Z"
+  "updatedAt": "2026-10-21T16:00:00Z",
+  "facebookUrl": "https://www.facebook.com/hairstudiovicenza2022/",
+  "instagramUrl": "https://www.instagram.com/hairstudiovicenza/",
+  "phone": "351 723 5495",
+  "messageFacebook": "Buongiorno Maurizio, sono Federico, realizzo siti web per attività di Vicenza e dell'Alto Vicentino. Scusi il disturbo.\n\nHo visto la pagina di Hair Studio e le recensioni dei suoi clienti: su Treatwell ha una media di 4,9 su 5 su più di 350 valutazioni, e chi scrive parla di tagli precisi, di un ambiente curato e del caffè che offre ai suoi ospiti. Mi ha colpito anche la sua specialità, le schiariture sfumate dall'effetto naturale, con più di vent'anni di esperienza alle spalle.\n\nCercando online, però, non ho trovato un sito tutto suo: chi la cerca trova Treatwell, che è una piattaforma di prenotazione e non uno spazio dove raccontare il suo stile e il suo lavoro.\n\nPer questo ho preparato un'anteprima di un possibile sito per Hair Studio. Se le fa piacere, passo io da lei per 10-15 minuti a mostrargliela sul portatile, in un momento tranquillo tra un cliente e l'altro. Senza impegno.\n\nSe non le interessa, me lo dica pure e non la disturbo più. Grazie del tempo!",
+  "messageCall": "Buongiorno, sono Federico, scusi il disturbo. Parlo con Maurizio di Hair Studio, a Vicenza?\n\n[Se sì] Le rubo solo un minuto. Mi occupo di siti web per le attività di Vicenza e dell'Alto Vicentino e ho visto che il suo salone ha recensioni eccellenti: 4,9 su 5 su più di 350 valutazioni su Treatwell, e una specialità precisa, le schiariture sfumate dall'effetto naturale. Cercando online, però, non ho trovato un sito suo.\n\nHo già preparato un'anteprima di come potrebbe essere il sito di Hair Studio. Non le chiedo niente al telefono: le chiedo solo se posso passare di persona, 10-15 minuti, in un momento tranquillo tra un cliente e l'altro, per mostrargliela sul portatile.\n\n[Se è occupato con un cliente] Capisco, quando posso richiamarla?\n\nSe non le interessa nessun problema: la ringrazio e non la disturbo più."
  },
  {
   "id": "caffe-diesis-santorso",
@@ -867,7 +882,7 @@
    "https://www.sluurpy.it/carre/pizzeria"
   ],
   "confidence": "alto",
-  "manualChannelNote": "Caso di zero contatti digitali totali: nessun telefono, email, social o PEC trovati nonostante ricerca insistente. Federico deve presentarsi di persona senza preavviso; messageA per il caso in cui parli col titolare, messageB per il caso in cui risponda un dipendente/cameriere (lasciare nome e numero di telefono a voce per un eventuale richiamo). Divergenza di rating tra fonti (Cylex 4,14/5 vs RestaurantGuru 3,1/5 su volumi diversi): non menzionare un voto specifico col cliente. Orari da verificare di persona (fonte Cylex non del tutto certa).",
+  "manualChannelNote": "Caso di zero contatti digitali totali: nessun telefono, email, social o PEC trovati nonostante ricerca insistente. Federico deve presentarsi di persona senza preavviso; messageA per il caso in cui parli col titolare, messageB per il caso in cui risponda un dipendente/cameriere (lasciare nome e numero di telefono a voce per un eventuale richiamo). Divergenza di rating tra fonti (Cylex 4,14/5 vs RestaurantGuru 3,1/5 su volumi diversi): non menzionare un voto specifico col cliente. Orari da verificare di persona (fonte Cylex non del tutto certa). | 21/10: ricerca mirata su Facebook/Instagram rifatta, nessuna pagina riconducibile con certezza alla pizzeria di Carrè: usa il pulsante \"Cerca su Facebook\" in dashboard.",
   "createdAt": "2026-10-13T06:38:48Z",
   "updatedAt": "2026-10-13T06:38:48Z"
  },
