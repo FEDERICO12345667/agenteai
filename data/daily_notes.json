@@ -178,5 +178,12 @@
    "pizzeria-trinita-schio",
    "pizzeria-addis-abeba-zane"
   ]
+ },
+ {
+  "date": "2026-10-21",
+  "summary": "Giornata a rotazione su Thiene/Carre/Chiuppano/Santorso, settori bar/pasticcerie/gelaterie/botteghe/parrucchieri-estetica come priorita. Carre, Chiuppano e Santorso sono rimasti pressoche privi di candidati verificabili (WebSearch non indicizza bene questi comuni piccoli per questi settori). 1 lead valido: Bar Buzzolan (Thiene), bar storico con bancone rinnovato, molto frequentato dai giovani, confermato da TRE aggregatori indipendenti (Sluurpy, piatti.menu, RestaurantGuru) con dettagli qualitativi divergenti tra loro (prova di reale indipendenza, non mirror). Caso 'zero contatti digitali': nessun telefono/email/social/PEC trovato, quindi contatto possibile solo con visita di persona diretta (due script predisposti, titolare e dipendente-tramite). Nota di attenzione: questo stesso locale era stato scartato il 17/10 per fonte singola; oggi la soglia e' stata superata con margine grazie a un terzo aggregatore.",
+  "leadIds": [
+   "bar-buzzolan-thiene"
+  ]
  }
 ]

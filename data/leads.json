@@ -1106,5 +1106,27 @@
   "manualChannelNote": "Zero contatti digitali e telefonici: contatto possibile solo con visita diretta di Federico al locale. Finestre consigliate: 10:00-11:30 (prima del servizio pranzo) o 15:00-17:00 (tra pranzo e cena); chiuso il lunedì.",
   "createdAt": "2026-10-20T06:26:33.000Z",
   "updatedAt": "2026-10-20T06:26:33.000Z"
+ },
+ {
+  "id": "bar-buzzolan-thiene",
+  "name": "Bar Buzzolan",
+  "sector": "Bar/caffetteria storico (aperitivo, colazioni, spritz)",
+  "comune": "Thiene (VI)",
+  "channel": "Visita di persona senza preavviso (nessun contatto digitale/telefonico disponibile)",
+  "contactLabel": "Nessuno disponibile - solo visita diretta",
+  "contactValue": "Indirizzo: Corso Giuseppe Garibaldi, 29 - 36016 Thiene (VI)",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/ENzGxWmUWpR8cBteTAnC9j",
+  "messageA": "Buongiorno, è lei il titolare? Mi chiamo Federico, mi occupo di siti web qui nell'Alto Vicentino. Sono passato perché ho letto diverse recensioni entusiaste sul Buzzolan — si parla tanto del vostro aperitivo e dello spritz, delle brioche fresche della mattina. Ho visto anche il bancone appena rinnovato, è venuto proprio bene.\n\nLe dico perché sono passato: se uno cerca online 'Buzzolan Thiene' o 'aperitivo Thiene', oggi non trova niente — non un sito, non gli orari. Magari qualcuno che non vi conosce bene, o che vuole sapere se siete aperti un certo giorno, non trovando nulla finisce per andare in un altro locale. Io faccio siti semplici apposta per bar come il vostro, giusto per far vedere orari giusti, qualche foto del locale e dell'aperitivo, e farvi trovare da chi cerca online.\n\nHo già pronta un'anteprima di come potrebbe venire il sito del Buzzolan, ce l'ho qui sul portatile. Le andrebbe se passo un quarto d'ora, 10-15 minuti, per farglielo vedere? Magari in un momento tranquillo, tipo metà mattina prima di pranzo, oppure nel primo pomeriggio tra un servizio e l'altro — mi dica lei il giorno e l'ora che preferisce.\n\nSe non le interessa, me lo dica pure tranquillamente, non c'è problema, non la disturbo più.",
+  "messageB": "Buongiorno, scusi il disturbo. Mi chiamo Federico, realizzo siti web per attività della zona. Ero passato per parlare con il titolare del Buzzolan — c'è per caso in questo momento?\n\n(Se risponde di no:)\n\nVa bene, posso lasciarle due parole da riferirgli/le? Ho letto diverse recensioni molto belle sul locale, si parla tanto dell'aperitivo e delle brioche fresche della mattina, e ho visto anche il bancone rinnovato da poco. Il punto è che se uno cerca online 'Buzzolan Thiene' non trova un sito né gli orari, e magari qualcuno finisce per andare altrove non sapendo se siete aperti. Ho già pronta un'anteprima di un sito fatto apposta per il Buzzolan, ce l'ho sul portatile, e mi piacerebbe mostrarglielo dal vivo, bastano 10-15 minuti.\n\nLe lascio il mio nome, Federico, e un recapito a voce, così se è interessato/a mi può richiamare, oppure mi dice lei quando passare — magari in un orario tranquillo, tipo metà mattina o metà pomeriggio tra un servizio e l'altro.\n\nSe poi non interessa, nessun problema, basta che me lo facciate sapere e non vi disturbo più.",
+  "sources": [
+   "https://www.sluurpy.it/ristorante/thiene/23889/bar-buzzolan",
+   "https://piatti.menu/restaurants/thiene-vi/buzzolan-2",
+   "https://restaurantguru.it/pub-and-bar-Thiene-t2"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Zero contatti digitali/telefonici: unica via e' la visita di persona in orario a bassa affluenza (meta' mattina ~10:00 o primo pomeriggio ~15:00-15:30), evitando mercoledi' (chiuso secondo fonti non confermate) e i weekend/sere (pieno di giovani).",
+  "createdAt": "2026-10-21T06:17:34.000Z",
+  "updatedAt": "2026-10-21T06:17:34.000Z"
  }
 ]
