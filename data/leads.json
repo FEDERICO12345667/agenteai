@@ -1310,5 +1310,83 @@
   "manualChannelNote": "Numero di telefono più affidabile: 388 927 4567 (confermato da 3 fonti indipendenti: TripAdvisor, GastroRanking, RestaurantGuru). Circolano anche altri numeri non confermati (0445 320158, 0445 880170, 339 1966465): il copione telefonico apre sempre con una verifica discreta d'identità prima del pitch. Nessuna email pubblica trovata. Canale consigliato: Facebook in prima battuta (unico canale digitale certo), telefono come follow-up.",
   "createdAt": "2026-10-23T06:13:17Z",
   "updatedAt": "2026-10-23T06:13:17Z"
+ },
+ {
+  "id": "pasticceria-cunico-zugliano",
+  "name": "Pasticceria Cunico",
+  "sector": "Pasticceria artigianale (bottega di vicinato)",
+  "comune": "Zugliano (VI)",
+  "channel": "Telefono (chiamata diretta)",
+  "contactLabel": "Telefono",
+  "contactValue": "+39 0445 872017",
+  "facebookUrl": "https://www.facebook.com/PasticceriaCunico/",
+  "instagramUrl": "https://www.instagram.com/pasticceriacunico/",
+  "phone": "+39 0445 872017",
+  "email": "",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/SVoMfLEos1WNzvFfVipr5C",
+  "messageFacebook": "Buongiorno, sono Federico, uno studente della zona e realizzo siti web per le attività dell'Alto Vicentino. Scusate il disturbo.\n\nHo visto la vostra pagina Facebook, con il 94% di raccomandazioni su 20 recensioni e quasi 1.600 \"mi piace\": per una pasticceria di Zugliano è un bel segno. Ho letto anche che la vostra attività porta avanti una passione artigiana dal 1946, e nei post si vedono le brioche sempre disponibili, insieme a pasticcini e torte per cerimonie.\n\nOnline, ho notato che non avete un sito vostro: c'è solo la pagina Facebook, e il link al sito scritto nella bio non si apre più. Chi vi cerca da fuori Zugliano rischia di non trovarvi facilmente.\n\nHo preparato un'anteprima completamente gratuita di un possibile sito per la Pasticceria Cunico. Se volete, passo da voi per 10-15 minuti, nel giorno e all'ora che preferite, per mostrarvela sul portatile. Senza impegno e senza nessun costo: se non vi piace, non cambia nulla.\n\nSe non vi interessa, ditemelo pure e non vi scrivo più. Grazie del tempo!",
+  "messageCall": "Buongiorno, parlo con la Pasticceria Cunico di Zugliano? Sono Federico, uno studente della zona e realizzo siti web per le attività dell'Alto Vicentino. Scusate il disturbo.\n\nVi ho trovati sulla pagina Facebook e ho visto che siete una pasticceria storica dal 1946, con tante recensioni positive e tanti \"mi piace\": si vede che siete conosciuti qui a Zugliano. Ho notato che non avete un sito vostro, solo la pagina Facebook, e il sito scritto nella bio non è più raggiungibile.\n\nAvevo preparato un'anteprima completamente gratuita di un possibile sito per voi: volevo chiedere se posso passare di persona, per 10-15 minuti, quando preferite, per mostrarvela sul portatile. Senza impegno e senza nessun costo: se non vi piace, non cambia nulla.\n\n(Se sono occupati: nessun problema, richiamo in un momento più comodo.)\n\nSe non vi interessa, nessun problema, non vi disturbo più. Grazie mille del tempo, buona giornata!",
+  "messageEmail": "",
+  "sources": [
+   "https://www.facebook.com/PasticceriaCunico/",
+   "https://www.instagram.com/pasticceriacunico/"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Orari e nome del titolare non reperiti online: verificare di persona o alla risposta telefonica. Il link al sito indicato in bio Facebook (pasticceriacunico.com) risulta morto/non più attivo, usato con tatto come gancio nei messaggi. Canale consigliato: telefono come primo tentativo (contatto diretto verificato); Facebook/Instagram DM come alternativa/follow-up.",
+  "createdAt": "2026-10-24T07:00:00Z",
+  "updatedAt": "2026-10-24T07:00:00Z"
+ },
+ {
+  "id": "pasticceria-gelateria-ferrari-villaverla",
+  "name": "Pasticceria Gelateria Ferrari di Pesavento Valeria",
+  "sector": "Bar / Pasticceria / Gelateria (bottega di vicinato in piazza)",
+  "comune": "Villaverla (VI)",
+  "channel": "Facebook (Messenger)",
+  "contactLabel": "Facebook",
+  "contactValue": "https://www.facebook.com/ferraripasticceriagelateria/",
+  "facebookUrl": "https://www.facebook.com/ferraripasticceriagelateria/",
+  "instagramUrl": "",
+  "phone": "+39 0445 856166",
+  "email": "",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/Gf1hRME36Jpo2BZqj5TuAi",
+  "messageFacebook": "Buongiorno, sono Federico, uno studente della zona e realizzo siti web per le attività dell'Alto Vicentino. Scusate il disturbo.\n\nHo visto la vostra pagina Facebook e su RestaurantGuru avete un punteggio di 4,8 su 5 su 83 voti, che è davvero alto. Mi ha colpito anche la vostra posizione, proprio in Piazza Marconi nel cuore di Villaverla, e il fatto che riuniate pasticceria, gelateria e bar sotto lo stesso marchio, restando aperti quasi tutti i giorni della settimana.\n\nGuardando online, non ho trovato un sito vostro: c'è solo la pagina Facebook. Chi cerca la Pasticceria Gelateria Ferrari da fuori Villaverla rischia quindi di non trovarvi facilmente.\n\nPer questo ho preparato un'anteprima di un possibile sito per la vostra attività, completamente gratuita. Se volete, passo io da voi per 10-15 minuti, nel giorno e all'ora che preferite, a mostrarvela sul portatile. Senza impegno e senza nessun costo: se non vi piace, non cambia nulla.\n\nSe non vi interessa, ditemelo pure e non vi scrivo più. Grazie del tempo!",
+  "messageCall": "Buongiorno, parlo con la Pasticceria Gelateria Ferrari di Villaverla? Perfetto. Sono Federico, uno studente della zona e realizzo siti web per le attività dell'Alto Vicentino. Scusate il disturbo. Ho visto che su RestaurantGuru avete un punteggio di 4,8 su 5 su 83 voti, e mi ha colpito anche la vostra posizione in Piazza Marconi, con pasticceria, gelateria e bar insieme sotto lo stesso marchio. Guardando online però non ho trovato un sito vostro, solo la pagina Facebook. Per questo avrei preparato un'anteprima completamente gratuita di un possibile sito, e mi piacerebbe passare di persona 10-15 minuti, nel giorno e all'ora che preferite, per mostrarvela sul portatile. Senza impegno e senza nessun costo: se non vi piace, non cambia nulla. (Se siete occupati, posso richiamare in un altro momento, dite voi quando.) Se non vi interessa, ditemelo pure e non vi scrivo più. Grazie del tempo!",
+  "messageEmail": "",
+  "sources": [
+   "https://www.facebook.com/ferraripasticceriagelateria/",
+   "https://restaurantguru.it/Villaverla"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Nessun sito è mai esistito per questa attività (diverso da altri casi di 'sito morto'). Titolare probabile Valeria Pesavento dal nome commerciale, non confermata come persona che gestisce oggi il locale di persona: usato il 'voi' nei messaggi. Canale consigliato: Facebook/Messenger come primo contatto (orari 6:30-12:30 e 16:00-19:30, martedì-domenica, rendono la chiamata diretta meno comoda); telefono come eventuale secondo tentativo.",
+  "createdAt": "2026-10-24T07:00:00Z",
+  "updatedAt": "2026-10-24T07:00:00Z"
+ },
+ {
+  "id": "ptb-pizzeria-tony-barba-fara-vicentino",
+  "name": "PTB - Pizzeria Tony Barba (Toni Barba)",
+  "sector": "Pizzeria/trattoria",
+  "comune": "Fara Vicentino (VI), frazione San Giorgio di Perlena",
+  "channel": "Facebook/Instagram (DM)",
+  "contactLabel": "Facebook",
+  "contactValue": "https://www.facebook.com/ptb1973/",
+  "facebookUrl": "https://www.facebook.com/ptb1973/",
+  "instagramUrl": "https://www.instagram.com/ptb1973/",
+  "phone": "+39 0445 851186",
+  "email": "",
+  "pec": "",
+  "demoUrl": "https://claude.ai/artifact/Tvtam5XH6NAwxwdCTaqXbt",
+  "messageFacebook": "Buongiorno, sono Federico, uno studente della zona e realizzo siti web per le attività dell'Alto Vicentino. Scusate il disturbo.\n\nHo visto la vostra pagina Facebook, con il 96% di raccomandazioni su 48 recensioni, e su Instagram avete quasi 2.200 follower: un seguito davvero bello per un locale di una frazione piccola come San Giorgio di Perlena.\n\nGuardando online, non ho trovato un sito vostro: ci sono solo la pagina Facebook e il profilo Instagram. Chi cerca la pizzeria da fuori la zona rischia quindi di non trovarvi facilmente.\n\nPer questo ho preparato un'anteprima di un possibile sito per PTB, completamente gratuita. Se volete, passo io da voi per 10-15 minuti, nel giorno e all'ora che preferite, a mostrarvela sul portatile. Senza impegno e senza nessun costo: se non vi piace, non cambia nulla.\n\nSe non vi interessa, ditemelo pure e non vi scrivo più. Grazie del tempo!",
+  "messageCall": "Buongiorno, scusate il disturbo, parlo con la pizzeria PTB di San Giorgio di Perlena?\n\nMi chiamo Federico, sono uno studente della zona e realizzo siti web per le attività dell'Alto Vicentino.\n\nHo visto che sulla vostra pagina Facebook avete il 96% di raccomandazioni su 48 recensioni, e su Instagram quasi 2.200 follower.\n\nGuardando online non ho trovato un sito vostro, solo i profili social, e chi vi cerca da fuori zona potrebbe non trovarvi facilmente.\n\nPer questo avrei già pronta un'anteprima completamente gratuita di un possibile sito: se per voi va bene, passerei di persona per 10-15 minuti, nel giorno e all'ora che preferite, a mostrarvela sul portatile. Senza impegno e senza nessun costo: se non vi piace, non cambia nulla.\n\n(Se risponde che è occupato: capisco perfettamente, grazie lo stesso e buon lavoro.)\n\nGrazie mille del tempo, buona giornata!",
+  "messageEmail": "",
+  "sources": [
+   "https://www.facebook.com/ptb1973/",
+   "https://www.instagram.com/ptb1973/"
+  ],
+  "confidence": "alto",
+  "manualChannelNote": "Titolare non identificato con certezza ('Tony Barba'/'Toni Barba' sembra il nome storico del locale, non confermato come persona reale che gestisce oggi): usato il 'voi' e la sigla PTB nei messaggi. Locale aperto SOLO per cena 18:00-23:00, chiuso lunedì e martedì: la chiamata va fatta mercoledì-domenica in orario diurno (mattina/primo pomeriggio) per non disturbare durante il servizio. Nessun menu reale reperito online: nella demo sono state usate solo categorie tipiche plausibili di pizzeria-trattoria veneta, non dati verificati — da verificare/correggere di persona prima di qualsiasi riferimento a piatti specifici col cliente.",
+  "createdAt": "2026-10-24T07:00:00Z",
+  "updatedAt": "2026-10-24T07:00:00Z"
  }
 ]

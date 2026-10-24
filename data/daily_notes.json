@@ -203,5 +203,14 @@
    "salone-mariangela-sonia-breganze",
    "osteria-barricatella-cogollo-del-cengio"
   ]
+ },
+ {
+  "date": "2026-10-24",
+  "summary": "Dopo un giro di sostituzione (il Direttore ha scartato Panificio Rizzato-Zugliano PRIMA della revisione dell'Analista, perché già segnalato nel registro del 23/10 come avente sito proprio panificiorizzato.it — la memoria storica ha priorità sul controllo DNS del giorno), oggi 3 lead confermati, tutti confidenza alta, su rotazione verso comuni poco esplorati (Zugliano, Villaverla, Fara Vicentino). Il lead più promettente sembra Pasticceria Gelateria Ferrari (Villaverla): nessun sito mai esistito (non solo \"morto\" come negli altri due casi), doppia fonte indipendente concordante (RestaurantGuru 4,8/5 su 83 voti + pagina Facebook attiva) e posizione centralissima in piazza che rende comoda la visita di persona. Pasticceria Cunico (Zugliano, dal 1946) e PTB Pizzeria Tony Barba (Fara Vicentino, frazione San Giorgio di Perlena, forte seguito Instagram ~2.200 follower per una piccola frazione) completano la giornata. Pattern notato: in due casi su tre di oggi (Rizzato poi scartato, e Cunico) il sito citato nella bio Facebook risultava morto/mai attivato, non assente — lo script di controllo DNS automatico NON testa il dominio citato esplicitamente in bio, va sempre controllato anche quello a parte dalle varianti generate. Attenzione per l'utente: per Pasticceria Gelateria Ferrari e PTB il titolare non è identificato con certezza (nomi dedotti dalla ragione sociale/marchio, non da fonte biografica diretta) — usato sempre il \"voi\"; per PTB il locale è aperto SOLO per cena (18-23, chiuso lun/mar) e il menu nella demo è solo plausibile/non verificato, da correggere di persona. Nessun lead di oggi ha confidence sotto \"alto\".",
+  "leadIds": [
+   "pasticceria-cunico-zugliano",
+   "pasticceria-gelateria-ferrari-villaverla",
+   "ptb-pizzeria-tony-barba-fara-vicentino"
+  ]
  }
 ]
