@@ -212,5 +212,14 @@
    "pasticceria-gelateria-ferrari-villaverla",
    "ptb-pizzeria-tony-barba-fara-vicentino"
   ]
+ },
+ {
+  "date": "2026-10-25",
+  "summary": "Rotazione di oggi spostata su parrucchieri/centri estetici a Schio e Malo (settore mai battuto a fondo in questi due comuni con il metodo rigoroso attuale), evitando i comuni e i settori saturati negli ultimi 4 giorni (Sarcedo/Breganze/Villaverla ristorazione+estetica, Calvene/Lugo/Zugliano/Fara/Cogollo bar-pasticcerie-botteghe). Tutti e 3 i candidati dello Scout confermati dall'Analista al primo giro (nessuna bocciatura, nessun giro di sostituzione necessario), tutti con confidenza alta. Lead piu promettente: Estetica Tiare (Malo) per il gancio concreto del sito in bio non funzionante unito a un'ottima reputazione (98%/17) e fascia prezzo premium. Nessun lead con confidence sotto 'alto' oggi.",
+  "leadIds": [
+   "erica-e-sofia-parrucchieri-schio",
+   "salone-betty-malo",
+   "estetica-tiare-live-in-beauty-malo"
+  ]
  }
 ]
