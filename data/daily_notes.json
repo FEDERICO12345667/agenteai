@@ -237,5 +237,14 @@
    "eme-gelateria-sarcedo",
    "trattoria-da-pippo-fara-vicentino"
   ]
+ },
+ {
+  "date": "2026-10-28",
+  "summary": "Rotazione su Calvene/Lugo di Vicenza/Zugliano/Fara Vicentino/Cogollo del Cengio (meno battuti nei giorni scorsi), priorità botteghe di vicinato poi ripiego su ristorazione. 3 lead validi, tutti confidenza alto: MAINO Moda (boutique abbigliamento, Lugo di Vicenza) — primo lead non ristorazione/estetica da giorni, dominio outletmodamaino.it morto; Ristorante Pizzeria Bel Sit (Fara Vicentino) — attivo dal 1973, quasi 800 voti RestaurantGuru, 94% racc. Facebook, pane all'aglio fatto in casa come dettaglio concreto, email su dominio morto; Ristorante La Vecchia Latteria (Zugliano) — gestione familiare Fontana dal 1986, 3,8/5 su 466 voti, sito lavecchialatteria.it morto, verificato con attenzione il rischio 'location per matrimoni con sito separato' (lezione 7) e scartato tale rischio. Pattern del giorno: tutti e 3 i lead avevano un dominio citato in bio social ma morto/non risolvente al DNS — gancio di vendita verificato con cura in ciascun caso, non assunto. Nessuna sostituzione necessaria (3 candidati dello Scout, 3 confermati dall'Analista al primo giro). Botteghe di vicinato restano poco indicizzate nei 5 comuni della rotazione di oggi (Calvene, Lugo di Vicenza, Zugliano, Fara Vicentino, Cogollo del Cengio), tranne MAINO Moda.",
+  "leadIds": [
+   "maino-moda-lugo-di-vicenza",
+   "ristorante-bel-sit-fara-vicentino",
+   "vecchia-latteria-zugliano"
+  ]
  }
 ]
