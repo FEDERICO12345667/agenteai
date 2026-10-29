@@ -39,6 +39,8 @@ Il file data/feedback.json contiene i giudizi REALI dell'utente (lead scartati c
 
 - [29/10, Scout, FEEDBACK UTENTE] Altri 3 lead segnalati come "ha gia' un sito" che il controllo domini NON ha trovato (dominio sconosciuto, probabilmente con un nome diverso da quello dell'attivita'): Lollypop (parrucchiera, Breganze), Panificio Cazzola (Marano Vicentino), Fioreria Santa Croce (Schio). Lezione: quando un'attivita' non ha pagina Facebook/Instagram chiara e nessun dominio con il suo nome, il rischio che abbia un sito con un altro nome resta alto: cercare anche il nome del TITOLARE o la ragione sociale ("<cognome> <attivita'> sito"), le insegne secondarie e i siti di agenzie/fratelli citati nelle risposte; preferire candidati con una pagina social attiva da cui si legge il sito dichiarato.
 
+- [29/10, TUTTI, GOAL DELLA SQUADRA, DECISIONE DELL'UTENTE] Ogni giorno devono esserci 3 lead nuovi e validi (ne' di piu' ne' di meno). Si raggiunge cercando di piu' (3 Scout in parallelo su comuni/settori diversi, fino a 4 giri e ~20 candidati esaminati, revisione dell'Analista PRIMA di costruire demo e messaggi), MAI abbassando i controlli (sito, chiusura, confidenza alta, settore, zona). Se nonostante tutto ne mancano, dirlo onestamente con i motivi e i domini dei siti trovati. Registrare ogni giorno "Lead di oggi: N/3".
+
 ## Come usare i motivi di scarto dell'utente
 Se in data/feedback.json compare un nuovo motivo di scarto, trasformalo in una regola qui sopra (una riga, con data e agente a cui si rivolge) e usalo da subito.
 
