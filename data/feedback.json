@@ -1,5 +1,16 @@
 [
  {
+  "id": "al-barcon-sarcedo",
+  "name": "Al Barcon (Residence/Ristorante-Pizzeria)",
+  "sector": "Ristorante/pizzeria con residence",
+  "comune": "Sarcedo",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "risposto_no",
+  "reason": "Laura Villani ha risposto che hanno già un sito proprio, facilmente trovabile su Google e cercando \"Ristorante Al Barcon\". Declina la proposta, ma non esclude esigenze future.",
+  "when": "2026-10-23T15:05:28.765Z"
+ },
+ {
   "id": "ambulatorio-veterinario-albertini-filippi-malo",
   "name": "Ambulatorio Veterinario Albertini Giovanna Filippi M.Nadia",
   "sector": "Ambulatorio veterinario per piccoli animali (cani e gatti)",
@@ -33,6 +44,17 @@
   "when": "2026-10-21T16:11:22.978Z"
  },
  {
+  "id": "caffe-auditorium-piovene-rocchette",
+  "name": "Caffè Auditorium",
+  "sector": "Bar/caffetteria",
+  "comune": "Piovene Rocchette",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-26T15:45:25.296Z"
+ },
+ {
   "id": "caffe-diesis-santorso",
   "name": "Caffè Diesis",
   "sector": "Bar / pasticceria artigianale",
@@ -53,6 +75,17 @@
   "status": "inviato",
   "reason": "",
   "when": "2026-10-07T15:43:58.858Z"
+ },
+ {
+  "id": "centro-estetico-olimpo-thiene",
+  "name": "Centro Estetico Olimpo",
+  "sector": "Centro estetico",
+  "comune": "Thiene",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito",
+  "when": "2026-10-29T07:16:34.466Z"
  },
  {
   "id": "ciscato-carlo-tabaccheria-chiuppano",
@@ -94,9 +127,9 @@
   "comune": "Marano Vicentino (VI)",
   "channel": "Nessun canale trovato — visita diretta in negozio",
   "confidence": "alto",
-  "status": "inviato",
+  "status": "risposto_no",
   "reason": "",
-  "when": "2026-10-21T15:52:37.255Z"
+  "when": "2026-10-29T14:29:17.408Z"
  },
  {
   "id": "dalle-carbonare-gianluigi-carre",
@@ -110,6 +143,28 @@
   "when": "2026-10-08T15:11:51.655Z"
  },
  {
+  "id": "eme-gelateria-sarcedo",
+  "name": "Emé Gelateria Bar Caffetteria",
+  "sector": "Gelateria / Bar / Caffetteria",
+  "comune": "Sarcedo",
+  "channel": "Facebook Messenger (primo tentativo), poi telefono come secondo tentativo",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-27T15:48:23.294Z"
+ },
+ {
+  "id": "erica-e-sofia-parrucchieri-schio",
+  "name": "Erica e Sofia Parrucchieri (Parrucchiera Valeria di Erica e Sofia Davanzo e C. snc)",
+  "sector": "Parrucchiere unisex",
+  "comune": "Schio (VI)",
+  "channel": "Facebook/Instagram (DM)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-26T15:47:19.146Z"
+ },
+ {
   "id": "estetica-limbios-piovene-rocchette",
   "name": "Estetica Limbios di Zenari Paola",
   "sector": "Centro estetico / estetista",
@@ -119,6 +174,17 @@
   "status": "risposto_no",
   "reason": "",
   "when": "2026-09-30T16:00:53.015Z"
+ },
+ {
+  "id": "estetica-tiare-live-in-beauty-malo",
+  "name": "Estetica Tiare live in beauty di Cazzola Valeria",
+  "sector": "Centro estetico",
+  "comune": "Malo (VI)",
+  "channel": "Instagram (DM), con Facebook come alternativa",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito dominio esteticatiare.com disegnato da domina marketing",
+  "when": "2026-10-26T15:50:11.706Z"
  },
  {
   "id": "fariza-estetica-pilates-vicenza",
@@ -138,9 +204,31 @@
   "comune": "Schio (VI)",
   "channel": "Facebook (Messenger, invio manuale)",
   "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito (segnalato dall'utente il 29/10, controllo domini non lo aveva trovato)",
+  "when": "2026-10-29T17:23:28.000Z"
+ },
+ {
+  "id": "gelateria-del-favero-piovene-rocchette",
+  "name": "Gelateria Del Favero (di Del Favero Gianpaolo)",
+  "sector": "Gelateria artigianale",
+  "comune": "Piovene Rocchette (VI)",
+  "channel": "Facebook (Messenger) o telefono",
+  "confidence": "alto",
   "status": "inviato",
   "reason": "",
-  "when": "2026-10-21T15:52:35.165Z"
+  "when": "2026-10-28T15:33:25.212Z"
+ },
+ {
+  "id": "gelateria-il-piacere-schio",
+  "name": "Gelateria Il Piacere",
+  "sector": "Gelateria artigianale con linea certificata AIC senza glutine",
+  "comune": "Schio (VI)",
+  "channel": "Nessun canale digitale trovato - visita diretta in negozio",
+  "confidence": "medio",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-28T15:58:45.224Z"
  },
  {
   "id": "gioielleria-stefani-marano-vicentino",
@@ -174,6 +262,50 @@
   "status": "scartato",
   "reason": "Segnalato dall'utente: aveva gia un sito (giuliagabrieli.com esiste). Fonti solo Matrimonio.com, confidenza bassa.",
   "when": "2026-10-08T15:04:28.308Z"
+ },
+ {
+  "id": "hair-studio-maurizio-vicenza",
+  "name": "Hair Studio (titolare: Maurizio — cognome e ragione sociale non reperibili pubblicamente)",
+  "sector": "Parrucchiere uomo/donna (taglio, piega, colore)",
+  "comune": "Vicenza (VI)",
+  "channel": "Facebook / Instagram o telefono",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "",
+  "when": "2026-10-28T15:59:24.064Z"
+ },
+ {
+  "id": "helios-erboristeria-todesco-santorso",
+  "name": "Helios Erboristeria di Todesco Alessandra",
+  "sector": "Erboristeria / cosmesi naturale, integratori, tisane, consulenza fitoterapica",
+  "comune": "Santorso (VI)",
+  "channel": "email",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-28T15:53:31.273Z"
+ },
+ {
+  "id": "hosteria-incontro-breganze",
+  "name": "Hosteria Incontro 1961",
+  "sector": "Ristorante/osteria (specialità alla brace)",
+  "comune": "Breganze",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-22T14:44:18.731Z"
+ },
+ {
+  "id": "jacqueline-parrucchieri-vicenza",
+  "name": "Jacqueline Parrucchieri",
+  "sector": "Parrucchiere / acconciatore",
+  "comune": "Vicenza (VI)",
+  "channel": "Facebook (Messenger) o telefono",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "",
+  "when": "2026-10-28T15:59:33.712Z"
  },
  {
   "id": "la-fabrique-pasticceria-marano-vicentino",
@@ -220,6 +352,17 @@
   "when": "2026-09-30T16:01:04.971Z"
  },
  {
+  "id": "lollypop-parrucchiera-breganze",
+  "name": "Lollypop di Stella Stefania",
+  "sector": "Parrucchiera donna",
+  "comune": "Breganze (VI)",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito (segnalato dall'utente il 29/10, controllo domini non lo aveva trovato)",
+  "when": "2026-10-29T17:23:28.000Z"
+ },
+ {
   "id": "ma-gio-panificio-zane",
   "name": "Ma.Giò (Panificio Ma.Giò)",
   "sector": "Panetteria / panificio di vicinato — pane e prodotti da forno",
@@ -240,6 +383,17 @@
   "status": "inviato",
   "reason": "",
   "when": "2026-10-07T15:51:38.151Z"
+ },
+ {
+  "id": "maino-moda-lugo-di-vicenza",
+  "name": "MAINO Moda (Fashion Outlet Maino)",
+  "sector": "Boutique abbigliamento donna/uomo/bambino, cerimonia, intimo, tessili per la casa",
+  "comune": "Lugo di Vicenza (VI)",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito",
+  "when": "2026-10-28T15:31:15.576Z"
  },
  {
   "id": "new-age-parrucchieri-zane",
@@ -264,6 +418,17 @@
   "when": "2026-10-01T15:53:32.655Z"
  },
  {
+  "id": "osteria-barricatella-cogollo-del-cengio",
+  "name": "Barricatella (Osteria/Bar Trattoria Gelateria di Toniolo Alberto)",
+  "sector": "Osteria / trattoria / bar / gelateria",
+  "comune": "Cogollo del Cengio (VI)",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "risposto_no",
+  "reason": "Risposta: la pagina Facebook è della vecchia gestione, ferma da anni e non più consultata. Non interessati. Segnalano che i gestori attuali sono gli stessi del Blu Bar di Piovene Rocchette (Barricatella).",
+  "when": "2026-10-29T06:22:33.647Z"
+ },
+ {
   "id": "osteria-moderna-santorso",
   "name": "Osteria Moderna",
   "sector": "Osteria / ristorante-pizzeria (con opzioni vegane)",
@@ -284,6 +449,39 @@
   "status": "scartato",
   "reason": "Scartato dall'utente, motivo non indicato.",
   "when": "2026-10-08T15:12:47.606Z"
+ },
+ {
+  "id": "panificio-cazzola-franco-marano-vicentino",
+  "name": "Panificio Cazzola Franco s.r.l.",
+  "sector": "Panificio/panetteria di vicinato",
+  "comune": "Marano Vicentino",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito (segnalato dall'utente il 29/10, controllo domini non lo aveva trovato)",
+  "when": "2026-10-29T17:23:28.000Z"
+ },
+ {
+  "id": "pasticceria-cunico-zugliano",
+  "name": "Pasticceria Cunico",
+  "sector": "Pasticceria artigianale (bottega di vicinato)",
+  "comune": "Zugliano (VI)",
+  "channel": "Telefono (chiamata diretta)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-26T15:54:09.703Z"
+ },
+ {
+  "id": "pasticceria-gelateria-ferrari-villaverla",
+  "name": "Pasticceria Gelateria Ferrari di Pesavento Valeria",
+  "sector": "Bar / Pasticceria / Gelateria (bottega di vicinato in piazza)",
+  "comune": "Villaverla (VI)",
+  "channel": "Facebook (Messenger)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-26T15:55:32.553Z"
  },
  {
   "id": "pellizzari-roberto-tappezzeria-chiuppano",
@@ -308,6 +506,17 @@
   "when": "2026-10-21T16:21:46.522Z"
  },
  {
+  "id": "pizzeria-il-locale-villaverla",
+  "name": "Pizzeria Ristorante \"Il Locale\"",
+  "sector": "Pizzeria/ristorante",
+  "comune": "Villaverla",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito",
+  "when": "2026-10-22T14:26:29.297Z"
+ },
+ {
   "id": "pizzeria-il-mezzometro-piovene-rocchette",
   "name": "Pizzeria Il MezzoMetro",
   "sector": "Pizzeria (asporto/consegna)",
@@ -330,6 +539,17 @@
   "when": "2026-10-21T16:13:48.223Z"
  },
  {
+  "id": "ptb-pizzeria-tony-barba-fara-vicentino",
+  "name": "PTB - Pizzeria Tony Barba (Toni Barba)",
+  "sector": "Pizzeria/trattoria",
+  "comune": "Fara Vicentino (VI), frazione San Giorgio di Perlena",
+  "channel": "Facebook/Instagram (DM)",
+  "confidence": "alto",
+  "status": "risposto_no",
+  "reason": "Risposta: \"Al momento non siamo interessati, se dovesse li cerco io.\" Firmato BTP.",
+  "when": "2026-10-27T06:37:53.884Z"
+ },
+ {
   "id": "record-bike-malo",
   "name": "Record Bike S.N.C.",
   "sector": "Articoli sportivi — negozio di biciclette, rivenditore ufficiale Pinarello",
@@ -339,6 +559,39 @@
   "status": "scartato",
   "reason": "Ha gia un sito proprio (recordbike.com). Lo Scout non lo aveva trovato: fonte unica = aggregatore PromoQui, confidenza medio-bassa.",
   "when": "2026-10-08T15:04:19.039Z"
+ },
+ {
+  "id": "ristorante-bel-sit-fara-vicentino",
+  "name": "Ristorante Pizzeria Bel Sit",
+  "sector": "Ristorante / Pizzeria",
+  "comune": "Fara Vicentino (VI)",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito",
+  "when": "2026-10-28T15:30:33.642Z"
+ },
+ {
+  "id": "salone-betty-malo",
+  "name": "Salone Betty",
+  "sector": "Parrucchiera",
+  "comune": "Malo (VI)",
+  "channel": "Facebook/Instagram (DM)",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-26T15:48:11.194Z"
+ },
+ {
+  "id": "salone-mariangela-sonia-breganze",
+  "name": "Salone Mariangela e Sonia S.n.c. di Tracanzan Mariangela & Zanetti Sonia",
+  "sector": "Parrucchieri — Hair Stylist / Colorist / Hair Wellness",
+  "comune": "Breganze (VI)",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-23T15:08:36.834Z"
  },
  {
   "id": "termoidraulica-guglielmi-marano-vicentino",
@@ -374,6 +627,17 @@
   "when": "2026-10-01T16:05:07.116Z"
  },
  {
+  "id": "trattoria-da-pippo-fara-vicentino",
+  "name": "Trattoria Da Pippo (di Sartori Maurizio)",
+  "sector": "Ristorazione (trattoria, carne alla brace/griglia, spiedi di cacciagione su prenotazione)",
+  "comune": "Fara Vicentino",
+  "channel": "Telefono (chiamata), con Facebook come riserva",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-28T15:27:37.286Z"
+ },
+ {
   "id": "trattoria-dal-cogo-thiene",
   "name": "Trattoria Dal Cogo",
   "sector": "Trattoria / ristorante tradizionale (cucina veneta)",
@@ -394,5 +658,27 @@
   "status": "scartato",
   "reason": "lontano",
   "when": "2026-10-21T16:09:00.496Z"
+ },
+ {
+  "id": "trattoria-pizzeria-gato-nero-chiuppano",
+  "name": "Trattoria Pizzeria Gato Nero",
+  "sector": "Trattoria / Pizzeria, cucina italiana",
+  "comune": "Chiuppano (VI)",
+  "channel": "Facebook (Messenger) o telefono",
+  "confidence": "alto",
+  "status": "inviato",
+  "reason": "",
+  "when": "2026-10-28T15:32:24.106Z"
+ },
+ {
+  "id": "vecchia-latteria-zugliano",
+  "name": "Ristorante La Vecchia Latteria (di Fontana)",
+  "sector": "Ristorante tradizione veneta/vicentina",
+  "comune": "Zugliano (VI)",
+  "channel": "Facebook",
+  "confidence": "alto",
+  "status": "scartato",
+  "reason": "Ha già un sito",
+  "when": "2026-10-28T15:29:08.696Z"
  }
 ]
