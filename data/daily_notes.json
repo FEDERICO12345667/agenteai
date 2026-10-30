@@ -253,5 +253,14 @@
     "leadIds": [
       "centro-estetico-olimpo-thiene"
     ]
+  },
+  {
+    "date": "2026-10-30",
+    "summary": "Lead di oggi: 3/3. Il più promettente sembra Jam Session Cafè (Thiene): oltre 2.400 recensioni su Piatti.menu, 1.500+ su Sluurpy e quasi 1.800 like Facebook, uniti a un angolo narrativo raro in zona (pub ufficiale Guinness con jam session musicali dal vivo la domenica) — il profilo con più materiale genuino per aprire una conversazione. Pattern confermato dai dati di feedback.json: 'ha già un sito' resta il motivo di scarto più frequente e nessuna risposta positiva è ancora arrivata su ~20 lead inviati, ma oggi tutti e 3 i candidati hanno superato due controlli di sito indipendenti (Scout + Analista) senza trovare alcun dominio proprio, quindi il rischio di questo tipo di scarto è basso. Suggerimento pratico: per Bar alla Rotonda, senza telefono verificato, è stata preparata una visita di persona senza preavviso invece della telefonata — vale la pena osservare se questo canale diverso produce un esito diverso dai soliti messaggi Facebook, utile per capire quale canale funziona meglio. Nessun lead oggi ha confidence sotto 'alto'; restano comunque due piccole verifiche manuali prima del contatto: il telefono di Jam Session Cafè (trovato solo su un aggregatore di menu) e l'assenza di un telefono verificato per Bar alla Rotonda.",
+    "leadIds": [
+      "jam-session-cafe-thiene",
+      "trattoria-al-bersagliere-piovene-rocchette",
+      "bar-alla-rotonda-santorso"
+    ]
   }
 ]
