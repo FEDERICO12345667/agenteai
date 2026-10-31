@@ -262,5 +262,14 @@
       "trattoria-al-bersagliere-piovene-rocchette",
       "bar-alla-rotonda-santorso"
     ]
+  },
+  {
+    "date": "2026-10-31",
+    "summary": "Lead di oggi: 3/3. Il piu promettente sembra Al Braglio Agri Ristorante (Villaverla): oltre 1.262 voti su RestaurantGuru (4,3/5) uniti a un'ambientazione rara, la Villa Chilesotti palladiana del Seicento, che da un angolo narrativo forte oltre al consueto gancio del dominio mai attivato. Pattern confermato di nuovo dai dati di feedback.json ('ha gia un sito' resta il motivo di scarto piu frequente, 0 risposte positive su ~29 inviati): tutti e 3 i lead di oggi hanno superato una doppia verifica DNS indipendente (Scout+Analista, migliaia di combinazioni ciascuno) senza trovare alcun sito attivo, quindi il rischio di questo scarto specifico resta basso. Suggerimento pratico: la rotazione di oggi (botteghe a Zane/Marano Vicentino, ristorazione a Villaverla/Breganze/Sarcedo, parrucchieri/estetica nei 5 comuni piu periferici) confirma che parrucchieri/estetica nei piccoli comuni periferici (Fara Vicentino, Cogollo del Cengio, Calvene, Lugo di Vicenza, Zugliano) resta poco produttivo per mancanza di seconda fonte indipendente (solo 1 lead valido su 5 comuni), mentre ristorazione/agriturismo in zone meno battute ha reso molto meglio: nei prossimi giri vale la pena privilegiare ristorazione/botteghe su quei comuni periferici invece di insistere su parrucchieri/estetica. Nessun lead di oggi ha confidence sotto 'alto', quindi nessuna verifica manuale extra per questo motivo; resta solo da confermare a voce il telefono di Agriturismo Dai Colombari (fonte secondaria unica, non confermata online in modo indipendente).",
+    "leadIds": [
+      "agriturismo-dai-colombari-sarcedo",
+      "al-braglio-agri-ristorante-villaverla",
+      "ristorante-faresin-breganze"
+    ]
   }
 ]
