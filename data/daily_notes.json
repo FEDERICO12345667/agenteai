@@ -271,5 +271,14 @@
       "al-braglio-agri-ristorante-villaverla",
       "ristorante-faresin-breganze"
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "summary": "Lead di oggi: 3/3. Rotazione spostata sui comuni più vicini (Chiuppano/Carrè/Santorso/Piovene Rocchette, Marano Vicentino/Zanè, Schio/Malo) dopo giorni concentrati sui comuni periferici, con buon esito: 9 candidati raccolti dai 3 Scout, i 3 più promettenti passati in revisione critica, 1 bocciato al primo giro (Audrey Eclectic Shop, Schio: ha un sito proprio, audreystore.it, dichiarato nel campo \"sito web\" della sua pagina Facebook ufficiale) e sostituito con un quarto candidato (La Sorgente Centro Estetico, Zanè), confermato OK. Il lead più promettente sembra Marco Hair Design (Marano Vicentino, primo parrucchiere trovato in questo comune): due canali social indipendenti e coerenti (1.538 follower Facebook, 1.877 Instagram, stesso telefono) uniti a un dettaglio distintivo concreto (affiliazione ufficiale Wella Professionals). SCOPERTA TECNICA IMPORTANTE: il controllo DNS automatico (tools/dnsprobe.py) è risultato oggi INATTENDIBILE in questo ambiente cloud — la risoluzione DNS diretta via socket è bloccata dalla rete del sandbox anche per domini sicuramente esistenti (verificato: persino google.com non risolve), quindi un esito \"NESSUN_DOMINIO_RISOLVE\" non è più da considerare prova che un sito non esista, solo inconclusivo; da oggi l'Analista si affida soprattutto al campo \"sito web\" delle pagine Facebook ufficiali e a WebSearch diretta sul dominio (incluso l'operatore site:), che hanno permesso comunque di bocciare correttamente Audrey Eclectic Shop. Nessun lead di oggi ha confidence sotto \"alto\". Per tutti e 3 i lead restano da chiedere a voce indirizzo esatto, orari e nome del titolare, dati che la sola ricerca web non ha potuto confermare.",
+    "leadIds": [
+      "marco-hair-design-marano-vicentino",
+      "idea-calzature-accessori-piovene-rocchette",
+      "la-sorgente-centro-estetico-zane"
+    ]
   }
 ]
