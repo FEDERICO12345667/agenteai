@@ -318,5 +318,16 @@
       "gelateria-santarosa-zane",
       "berti-1953-thiene"
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "summary": "Lead di oggi: 5/5, raggiunto al primo giro completo di Scout senza bisogno di rinforzi (9 candidati esaminati in tutto, 1 solo scarto per corrispondenza con la memoria storica della lavagna — MiaPizza Chiuppano, già nota come \"ha già un sito\" dal 04/11 — e 1 tenuto in riserva, Estetica Paola e Giorgia Thiene, entrambi confermati OK dalla revisione dell'Analista). Il lead più promettente sembra Pizzeria Pan e Vin (Chiuppano): oltre 4.270 recensioni su Piatti.menu e 2.100 su RestaurantGuru uniti a quasi 4.400 \"mi piace\" Facebook sono numeri molto alti per un locale senza alcuna vetrina propria online. Pattern confermato anche dai dati di data/feedback.json: \"ha già un sito\" resta il motivo di scarto più frequente negli invii reali, quindi il doppio controllo Scout+Analista (eseguito oggi su tutti i 5 candidati) resta la parte più importante del lavoro. Suggerimento pratico: la rotazione di oggi (ristorazione a Chiuppano/Zanè, parrucchieri/estetica a Piovene Rocchette, botteghe/toelettatura a Malo/Villaverla) ha reso bene in abbinamenti comune+settore raramente battuti prima: vale la pena ripetere questa logica di rotazione nei prossimi giorni invece di tornare sempre sugli stessi abbinamenti. Nessun lead con confidence sotto \"alto\" oggi.",
+    "leadIds": [
+      "pizzeria-pan-e-vin-chiuppano",
+      "marco-parrucchieri-piovene-rocchette",
+      "toelettatura-via-col-pelo-malo",
+      "lou-lou-abbigliamento-villaverla",
+      "pizzeria-alle-campagne-zane"
+    ]
   }
 ]
