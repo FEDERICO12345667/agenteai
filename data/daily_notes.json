@@ -329,5 +329,16 @@
       "lou-lou-abbigliamento-villaverla",
       "pizzeria-alle-campagne-zane"
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "summary": "Lead di oggi: 5/5, raggiunto con un giro principale di 3 Scout (6 candidati proposti, 1 scartato subito dal Direttore per sospetta coincidenza col marchio \"MiaPizza\" già noto come \"ha gia un sito\") piu un piccolo giro di rinforzo per un solo sostituto, dopo che un quinto candidato (Pasticceria Dolci Pensieri, Schio) e stato scartato in fase di demo quando la sezione contatti della sua pagina Facebook ufficiale ha rivelato un sito proprio (pasticceriadolcipensieri.it) non emerso nelle revisioni precedenti. Il lead piu promettente sembra Scledum Bar (Schio): 4,8/5 su 382 voti RestaurantGuru e 4,3/5 su circa 340 recensioni Google in pieno centro storico, con una pagina Facebook ufficiale identificata con cura dietro uno slug ambiguo (vecchio nome del locale). Pattern confermato anche oggi, coerente con data/feedback.json dove \"ha gia un sito\" resta il motivo di scarto piu frequente: il campo \"sito web\" nella sezione contatti di una pagina Facebook ufficiale va controllato con grande attenzione in OGNI fase (Scout, Analista/revisione, e anche Analista/Demo), non solo una volta. Suggerimento pratico: la zona di Chiuppano/Carre/Zane resta molto povera per le botteghe di vicinato (0 candidati validi su una decina esaminati), mentre Schio ha reso 3 lead su 3 candidati proposti nel settore bar/pasticcerie: vale la pena ripetere Schio per altri settori nei prossimi giorni e provare botteghe di vicinato in comuni diversi da Chiuppano/Carre/Zane. Nessun lead con confidence sotto \"alto\" oggi.",
+    "leadIds": [
+      "cuore-di-pizza-thiene",
+      "pizzeria-dal-mago-thiene",
+      "scledum-bar-schio",
+      "caffe-garibaldi-schio",
+      "trattoria-al-buso-calvene"
+    ]
   }
 ]
