@@ -340,5 +340,16 @@
       "caffe-garibaldi-schio",
       "trattoria-al-buso-calvene"
     ]
+  },
+  {
+    "date": "2026-11-08",
+    "summary": "Lead di oggi: 5/5. Il più promettente sembra L'Artigiano del Capello (Cogollo del Cengio): 147 check-in Facebook su un comune di circa 3.200 abitanti equivalgono a quasi 1 abitante su 20, un segnale di radicamento locale fortissimo per un salone così piccolo, rafforzato dalla bio autentica (\"Lasciati coccolare da mani esperte e regalati momenti di relax\"). Molto solido anche Bar Chiesa (Carrè): 4,8/5 su 65 voti RestaurantGuru, #3 di 13 bar del comune, con indirizzo e telefono verificati su due fonti indipendenti. Pattern confermato anche oggi, coerente con data/feedback.json dove \"ha già un sito\" resta il motivo di scarto reale più frequente: nessun candidato di oggi è stato bocciato né in revisione 1b né in fase Analista/Demo, segno che il doppio controllo Scout+Analista con query dedicate a piattaforme gratuite e verifica della sezione Contatti Facebook sta funzionando bene. Giornata raggiunta al primo giro completo di 3 Scout (9 candidati esaminati in tutto, 6 confermati \"alto\" in revisione critica indipendente, 1 tenuto in riserva verificata per un giorno futuro: Macelleria Lobba, Thiene — unica fonte social doppia, senza aggregatore di recensioni indipendente). Nessun lead di oggi ha confidence sotto \"alto\": nessuna verifica manuale aggiuntiva è richiesta su questo fronte, ma per 3 lead su 5 (Radossi Parrucchieri, Panificio Dotto, L'Artigiano del Capello) manca un telefono verificato, quindi il primo contatto è consigliato via Facebook o con una visita di persona. Suggerimento pratico: i comuni più periferici (Sarcedo, Cogollo del Cengio) hanno reso bene oggi nel settore parrucchieri/estetica, mentre Zanè resta strutturalmente povero anche per bar/pasticcerie/gelaterie (zero candidati validi, dopo ristorazione e botteghe già deboli nei giorni scorsi): vale la pena provare a Zanè un settore ancora diverso (es. botteghe di abbigliamento/accessori) prima di escluderlo del tutto dalle prossime rotazioni.",
+    "leadIds": [
+      "radossi-parrucchieri-sarcedo",
+      "panificio-dotto-santorso",
+      "bar-chiesa-carre",
+      "artigiano-del-capello-cogollo-del-cengio",
+      "nuovo-bar-colonna-chiuppano"
+    ]
   }
 ]
