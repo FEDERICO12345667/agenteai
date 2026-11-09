@@ -351,5 +351,16 @@
       "artigiano-del-capello-cogollo-del-cengio",
       "nuovo-bar-colonna-chiuppano"
     ]
+  },
+  {
+    "date": "2026-11-09",
+    "summary": "Lead di oggi: 5/5. Il più promettente sembra Caffè Capriccio (Thiene): 4,4/5 su circa 560 recensioni Google e 100% di raccomandazione su Facebook, con un dettaglio concreto forte (l'ampia scelta di brioche e torte al banco, citata ripetutamente dalle recensioni). Molto solido anche Al Corso (Thiene): quasi 2.000 \"mi piace\" e oltre 1.100 check-in Facebook, posizione centrale su Corso Garibaldi, pur senza numeri di recensioni reperibili. Gocce di Relax (Carrè) è il primo lead solido mai trovato in questo comune storicamente povero (5/5 su 52 recensioni Cylex), segno che vale la pena insistere lì con altri settori. Pattern confermato anche da data/feedback.json, dove \"ha già un sito\" resta il motivo di scarto reale più frequente: oggi un solo candidato (Capelli D'Oro, Zanè) è stato bocciato in revisione critica per questo motivo (salonecapellidoro.it, trovato solo con una query WebSearch mirata sul nome di dominio dedotto dai contatti Facebook, non dal solo controllo DNS/bio), e uno (CalVenere, Calvene) è stato scartato ancora prima della revisione perché già noto in lavagna dal 06/11 come struttura ricettiva a rischio booking engine proprio. Per 3 lead su 5 (Gocce di Relax, Gelatissimo, L'Isola del Benessere parzialmente) manca un telefono verificato o il titolare non è confermato: nessun lead ha comunque confidence sotto \"alto\", tutti confermati da doppia verifica indipendente Scout+Analista.",
+    "leadIds": [
+      "al-corso-thiene",
+      "caffe-capriccio-thiene",
+      "gocce-di-relax-carre",
+      "isola-del-benessere-zane",
+      "gelatissimo-piovene-rocchette"
+    ]
   }
 ]
