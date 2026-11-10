@@ -362,5 +362,16 @@
       "isola-del-benessere-zane",
       "gelatissimo-piovene-rocchette"
     ]
+  },
+  {
+    "date": "2026-11-10",
+    "summary": "Lead di oggi: 5/5. Il più promettente sembra Gelateria Baloo (Marano Vicentino): quasi 3.850 follower Facebook e oltre 1.700 su Instagram per due sedi, rafforzati da recensioni Wanderlog che la definiscono \"il miglior gelato fatto in casa della zona\"; molto solido anche Bardandrea (Malo), con 90% di raccomandazioni su 77 recensioni Facebook e 4,1/5 su 84 voti TripAligner da due fonti indipendenti. SCOPERTA IMPORTANTE DI OGGI: un candidato (Harmonie Hair Spa, Schio) aveva superato sia il controllo dello Scout sia la revisione critica indipendente dell'Analista, ma solo in fase di Analista/Demo è emerso un sito reale (harmoniehairspa.it, titolare Jessica Catelan, stesso indirizzo) — scartato e sostituito con la riserva Estetica Paola e Giorgia (Thiene), già verificata il 06/11 e riconfermata oggi con un nuovo controllo indipendente. Questo conferma che il terzo livello di controllo nella fase di costruzione della demo resta indispensabile anche dopo due revisioni positive, e non va mai saltato. Pattern confermato anche da data/feedback.json, dove \"ha già un sito\" resta il motivo di scarto reale più frequente. Nessun lead di oggi ha confidence sotto \"alto\"; per La Clinica ed Estetica Paola e Giorgia (entrambi a Thiene) non è stato possibile reperire recensioni numeriche online, quindi consiglio di verificare di persona la reputazione reale prima del contatto.",
+    "leadIds": [
+      "gelateria-baloo-marano-vicentino",
+      "bardandrea-malo",
+      "la-clinica-centro-estetico-thiene",
+      "estetica-paola-e-giorgia-thiene",
+      "trattoria-da-pocio-zane"
+    ]
   }
 ]
