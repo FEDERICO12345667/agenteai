@@ -373,5 +373,16 @@
       "estetica-paola-e-giorgia-thiene",
       "trattoria-da-pocio-zane"
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "summary": "Lead di oggi: 5/5. Il più promettente sembra EnOsteria da Andrei Al Cappello (Thiene): quasi 5.000 follower Facebook e 998 check-in, uniti a 4,2/5 su 737 recensioni RestaurantGuru e a un piatto-firma riconoscibile (spaghetti alle vongole) — numeri alti per un locale di fascia alta, con il dubbio sul marchio multi-sede (Thiene/Roncà/San Bonifacio) risolto con cura dall'Analista. Molto solido anche Demis Parrucchiere (Villaverla), con un record di 4 directory indipendenti concordanti (Virgilio, PagineBianche, PagineGialle, Tuttocittà). Pattern confermato anche oggi, coerente con data/feedback.json: \"ha già un sito\" resta il motivo di scarto più frequente (Birreria Vecia 1867, Pizzeria Doremì, Ristorante Bar Aeroporto, Pollicino, Rosa Martinez). Suggerimento pratico: Villaverla, mai testato prima per parrucchieri/estetica, è risultato il comune più produttivo della giornata (3/3) — vale ripetere l'esplorazione di comuni poco battuti in settori nuovi prima di tornare sui soliti. Nessun lead di oggi ha confidence sotto \"alto\".",
+    "leadIds": [
+      "trattoria-acquario-piovene-rocchette",
+      "la-luna-estetica-villaverla",
+      "demis-parrucchiere-villaverla",
+      "enosteria-da-andrei-al-cappello-thiene",
+      "la-muraglia-thiene"
+    ]
   }
 ]
