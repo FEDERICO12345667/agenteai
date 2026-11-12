@@ -384,5 +384,16 @@
       "enosteria-da-andrei-al-cappello-thiene",
       "la-muraglia-thiene"
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "summary": "Lead di oggi: 5/5. Il più promettente è Ostaria Dal Socio (Schio): 33 anni di attività, quasi 5.600 follower Facebook e 4,4/5 su circa 1.380 recensioni RestaurantGuru, con un dettaglio distintivo forte (l'impasto al carbone vegetale). Pattern confermato anche oggi, coerente con data/feedback.json: \"ha già un sito\" resta il motivo di scarto reale più frequente — oggi Calvenere (Calvene) è stato scartato dal Direttore ancora prima della revisione per corrispondenza con un rigetto già noto in lavagna (struttura ricettiva/booking engine), mentre tra i candidati degli Scout sono stati scartati per sito esistente Pensieri Golosi (Zanè, pensierigolosi.it, scoperto solo con WebSearch generica perché il DNS del sandbox lo bloccava anche per questo sito reale e attivo), Cora' Abbigliamento (Thiene, corra1789.it dichiarato in bio), i tre principali candidati ristorazione di Malo (Al Molino, Incantamonte, Mr. Singh, tutti con sito dichiarato in bio Facebook) e Dal Pes (Sarcedo, dalpes.it). Suggerimento pratico: Malo risulta ormai saturo per la ristorazione con gli strumenti disponibili (3 siti dichiarati sui 3 principali candidati); vale la pena riprovarlo con un settore diverso nei prossimi giorni, mentre Chiuppano/Carrè/Zanè restano strutturalmente poveri anche per bar/pasticcerie/gelaterie (0 candidati validi oggi, dopo esserlo già per ristorazione e botteghe nei giorni scorsi). Nessun lead di oggi ha confidence sotto \"alto\", ma per Frutta Mercato (Santorso) il campione di recensioni resta piccolo (5 su Facebook): consiglio di verificare di persona la reputazione reale prima del contatto. Un candidato aggiuntivo verificato OK dall'Analista (Pizzeria all'Angelo, Lugo di Vicenza) è stato tenuto in riserva, non usato oggi, per non superare il tetto di 5 lead.",
+    "leadIds": [
+      "ostaria-dal-socio-schio",
+      "sandona-abbigliamento-thiene",
+      "ma-gio-panetteria-thiene",
+      "rossi-store-abbigliamento-016-piovene-rocchette",
+      "frutta-mercato-santorso"
+    ]
   }
 ]
