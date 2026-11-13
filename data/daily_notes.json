@@ -395,5 +395,16 @@
       "rossi-store-abbigliamento-016-piovene-rocchette",
       "frutta-mercato-santorso"
     ]
+  },
+  {
+    "date": "2026-11-13",
+    "summary": "Lead di oggi: 5/5. Il piu promettente sembra Le Tresor Cafe (Thiene): quasi 52.000 follower Instagram per un bar locale e un giardino/terrazza vista Castello molto citato nelle recensioni, nonostante il voto medio modesto su aggregatori (3,0-3,3/5 su oltre 1.100-2.100 voti, non citato nei messaggi). Molto solidi anche Nuova Immagine (Zane, parrucchiere con prodotti Goldwell/Oway) e Fioreria Valerio Mario (Breganze, identita confermata da doppia fonte camerale+Facebook). Pattern confermato: oggi tutti e 5 i lead hanno superato la revisione critica indipendente e il controllo di terzo livello in fase demo senza bocciature; l'unica bocciatura della giornata (Bar 2766/Duesetteseisei, Thiene) e arrivata gia in revisione 1b per una discrepanza di indirizzo/telefono/numero-recensioni tra la pagina Facebook e un aggregatore, non risolta con certezza. Due lead su cinque sono senza telefono verificato (Gastronomia Giuliana e Panificio Zanuso, entrambi Breganze): per questi il copione di chiamata e stato riscritto come visita di persona senza preavviso. Suggerimento pratico: Breganze si e confermato molto produttivo nel settore botteghe di vicinato (3 lead su 5 da questo comune), vale la pena ripetere la zona su altri settori nei prossimi giorni; nessun lead di oggi ha confidence sotto alto.",
+    "leadIds": [
+      "nuova-immagine-zane",
+      "le-tresor-thiene",
+      "fioreria-valerio-mario-breganze",
+      "gastronomia-giuliana-breganze",
+      "panificio-zanuso-breganze"
+    ]
   }
 ]
