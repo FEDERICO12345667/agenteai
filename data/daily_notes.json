@@ -428,5 +428,16 @@
       "la-bottega-de-na-volta-zane",
       "i-fiori-zane"
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "summary": "Lead di oggi: 5/5. Candidati esaminati: 11 (3 scartati dal Direttore prima della revisione per corrispondenza con rigetti già verificati in lavagna: Al Molino e Trattoria All'Antenna con sito proprio noto, Gelateria Baloo duplicato di un lead esistente), 8 passati in revisione Analista senza bocciature. Il lead più promettente è InVilla (Thiene): 98% di raccomandazione su 374 recensioni Facebook e 4,2/5 su RestaurantGuru, posizione distintiva nel Parco Villa Fabris (chiarito un rebranding Shelter->InVilla sulla stessa pagina). Molto solidi anche Enne80 (Zanè, quasi 20 anni di attività, prodotti organici) ed Estetica Bellessere (Carrè, 5/5 e 100% di raccomandazioni su matrimonio.com per il trucco sposa, disambiguata con cura da molti omonimi nazionali). Impeccabile Parrucchieri (Zanè) e Salone Stella (Carrè, attiva dal 1985) completano il gruppo, entrambi senza sito nonostante tre controlli indipendenti. 3 candidati tenuti in riserva (Bar Paninoteca al Confine, La Cusineta, Ristorante Alla Pergola). Nessun lead con confidence sotto 'alto'. Scoperta tecnica utile: RestaurantGuru e Audiala.com possono condividere lo stesso dataset (stessa recensione identica), da non contare come due fonti indipendenti.",
+    "leadIds": [
+      "impeccabile-parrucchieri-zane",
+      "enne80-zane",
+      "estetica-bellessere-carre",
+      "invilla-thiene",
+      "salone-stella-carre"
+    ]
   }
 ]
