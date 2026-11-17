@@ -439,5 +439,16 @@
       "invilla-thiene",
       "salone-stella-carre"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "summary": "Lead di oggi: 5/5. Candidati esaminati: 11 (9 nel primo giro di 3 Scout + 2 candidati di rinforzo analizzati dopo due bocciature in fase Analista/Demo), 1 solo giro di Scout. In revisione 1b (9 candidati, 3 batch da 3) 1 bocciatura: Legami Permanenti (Santorso), rivelatosi un distributore all'ingrosso registrato con sito proprio attivo (legamipermanenti.com), scambiato per un salone. In fase Analista/Demo altre due bocciature a catena sullo stesso slot: Salone Fashion (Marano Vicentino) aveva un sito reale e completo (salonefashion.it) scoperto solo al terzo controllo con una query social che includeva l'indirizzo; il sostituto Pizza Flash (Carrè) è stato bocciato per impossibilità di confermare che i profili social trovati appartenessero davvero a quella sede (nome troppo generico, diffuso in molti comuni italiani). Il lead è stato infine coperto con Arena Churrascaria (Sarcedo), verificato con cura per chiarire un dubbio di identità (pagina social gemella con stesso indirizzo email trovata a San Bonifacio, risultata la stessa pagina rinominata/trasferita nel tempo, con sede attuale reale a Sarcedo). Il lead più promettente sembra Bar Meteora (Cogollo del Cengio): 4,8/5 su 236 voti RestaurantGuru e apertura molto ampia (5-24, fino alle 2 nel weekend). Molto solido anche Il Mio Gelato (Zugliano): 4,84/5 su 168 recensioni Cylex e quasi 2.300 follower Instagram. Pattern confermato: 'ha già un sito' resta il motivo di scarto più frequente e può sfuggire a due controlli indipendenti, emergendo solo con una query social di terzo livello che includa l'indirizzo o i servizi — da oggi questo controllo è uno standard su ogni lead, non un'eccezione. Nuovo motivo di scarto raccolto dal feedback dell'utente (non ancora in lavagna): Ristorante La Vecchia Latteria/Fontana (Zugliano) aveva già un sito. Nessun lead di oggi ha confidence sotto 'alto'. Suggerimento pratico: quando il sandbox DNS è condiviso da più agenti in parallelo, dnsprobe.py può andare in timeout senza essere prova di assenza di sito — vale la pena un secondo tentativo con timeout maggiore prima di scartare un controllo come inconcludente.",
+    "leadIds": [
+      "arena-churrascaria-sarcedo",
+      "il-mio-gelato-zugliano",
+      "bar-meteora-cogollo-del-cengio",
+      "mom-parrucchieri-santorso",
+      "diamoci-un-taglio-santorso"
+    ]
   }
 ]
