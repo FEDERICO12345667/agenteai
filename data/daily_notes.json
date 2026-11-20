@@ -472,5 +472,16 @@
       "estetica-ketty-zugliano",
       "bar-al-confine-piovene-rocchette"
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "summary": "Lead di oggi: 5/5. Il più promettente sembra Trattoria Dall'Amelia (Schio): attività dal 1961 con volumi di recensioni molto alti (oltre 2.700 e 1.200 voti su due portali indipendenti) e un piatto forte riconosciuto in zona (la tagliata di cervo). Pattern confermato anche oggi, coerente con data/feedback.json (29 inviati, 26 scartati, 7 risposto_no, 0 risposto_sì su 62 lead valutati finora): nessun canale risulta ancora vincente, quindi la qualità dei controlli resta la priorità assoluta. Un candidato (Barbiere Germano, Schio) è stato bocciato in revisione non per sito esistente ma per un numero di telefono riportato erroneamente (appartenente a un altro barbiere), un nuovo tipo di errore da tenere a mente per i controlli futuri; è stato sostituito con un giro di rinforzo senza mai abbassare i controlli. Nessun lead di oggi ha confidence sotto 'alto'. Suggerimento pratico: i comuni più vicini (Chiuppano, Carrè, Piovene Rocchette) risultano ormai quasi saturi su quasi tutti i settori dopo oltre un mese di ricerche quotidiane — nei prossimi giorni conviene dare priorità ai comuni periferici (Villaverla, Breganze, Calvene, Lugo di Vicenza, Fara Vicentino, Cogollo del Cengio) e a settori/comuni meno esplorati di recente.",
+    "leadIds": [
+      "bar-sporting-1931-zane",
+      "gastronomia-ai-milanesi-thiene",
+      "trattoria-dallamelia-schio",
+      "agriturismo-da-mea-santorso",
+      "mariolos-wine-bar-pub-zugliano"
+    ]
   }
 ]
