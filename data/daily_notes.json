@@ -483,5 +483,16 @@
       "agriturismo-da-mea-santorso",
       "mariolos-wine-bar-pub-zugliano"
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "summary": "Lead di oggi: 5/5. Il lead piu promettente sembra Pizzeria King Kong (Cogollo del Cengio): storia familiare di oltre 55 anni (Zordan, dal fine anni '60), ottimo riscontro su piu portali indipendenti (RestaurantGuru 4,3/5 su 578 voti, TripAdvisor 4,0/5 su 49 recensioni) e un gancio di vendita concreto: il sito citato nella loro pagina Facebook (pizzeriakingkong.it) risulta morto/mai attivato. Pattern confermato anche oggi: \"ha gia un sito\" resta il motivo di scarto piu frequente e puo sfuggire a due controlli indipendenti (DNS+WebSearch) ed emergere solo nel terzo controllo di sicurezza in fase Analista/Demo, come successo oggi con Macelleria Bonato (Malo), scoperta avere macelleriabonato.it solo in quella fase finale: confermata ancora una volta la regola del 10/11 che quel controllo finale non va mai saltato. Anche Pizzeria All'Angelo (Lugo di Vicenza) e stata bocciata in revisione per un telefono risultato di un'altra pizzeria (Pizza Delizia), non per sito esistente: nuova conferma della regola del 20/11 sul telefono come motivo di scarto a se. Nessun lead di oggi ha confidence sotto \"alto\". Suggerimento pratico: Chiuppano e Carre restano quasi saturi su quasi tutti i settori, ma il settore bar/pasticcerie non era ancora stato testato a fondo li: ha prodotto 1 lead solido (Bar Trentanovezeroquattro, Carre) nonostante una pagina Facebook debole (18 \"mi piace\"), confermando che il riscontro va sempre cercato anche su aggregatori indipendenti (RestaurantGuru/TripAligner) oltre ai social.",
+    "leadIds": [
+      "coco-beaute-thiene",
+      "schumy-pizza-breganze",
+      "trattoria-monterondo-lugo-di-vicenza",
+      "pizzeria-king-kong-cogollo-del-cengio",
+      "bar-trentanovezeroquattro-carre"
+    ]
   }
 ]
