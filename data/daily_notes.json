@@ -494,5 +494,16 @@
       "pizzeria-king-kong-cogollo-del-cengio",
       "bar-trentanovezeroquattro-carre"
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "summary": "Lead di oggi: 5/5. Candidati esaminati: 13 totali (9 nel primo giro di 3 Scout: Il Fornaio di Marco e Cristina e Lodovico Abbigliamento e Macelleria Villani [Chiuppano/Zane], Glamour Hair Lab Villaverla e Salone Renata-Benessere Centrale Zugliano e Salone D.Style Sarcedo [parrucchieri/estetica periferia], Pizzeria Alla Rotonda Thiene e Trattoria All'Angelo Piovene Rocchette e Osteria Corte Sconta Santorso [ristorazione]; poi 4 nel giro di rinforzo: Pizzeria Da Denis Sarcedo, Trattoria San Martino Schio, Hosteria Borgo Dieci Malo, Goccia a Goccia Malo), 2 giri di Scout (necessario un rinforzo perché il Direttore ha scartato preventivamente 4 candidati del primo giro -- Pizzeria Alla Rotonda, Trattoria All'Angelo, Osteria Corte Sconta, Salone D.Style -- riconoscendoli come nomi già bocciati il 15/11 per 'ha già un sito', e un quinto -- Il Fornaio di Marco e Cristina -- già scartato 2 volte in passato per segnali troppo debili). Il lead più promettente sembra Trattoria San Martino (Schio): quasi 900 recensioni con media 4,4/5 su Wanderlog, pur senza titolare identificato. Pattern confermato oggi: il Direttore ha evitato 4 sprechi di revisione incrociando subito i candidati con la lavagna storica (regola del 13/10/17/11), prima ancora di coinvolgere l'Analista -- conferma che questo controllo preventivo va sempre fatto. Nessun lead di oggi ha confidence sotto 'alto'. Riserve esaminate e scartate oggi (NON riusare senza nuova verifica): Pizzeria Al Piazzo e Trattoria Al Cavallino (Zugliano, segnalate il 21/11 ma bocciate oggi per rating mediocre/assenza scheda propria). Nuova pista da riverificare in futuro: OMBRA bar/wine bar a Calvene (rating 4,8/77 voti, controllo sito non completato per esaurimento budget ricerca).",
+    "leadIds": [
+      "macelleria-villani-zane",
+      "glamour-hair-lab-villaverla",
+      "salone-renata-benessere-centrale-zugliano",
+      "goccia-a-goccia-malo",
+      "trattoria-san-martino-schio"
+    ]
   }
 ]
