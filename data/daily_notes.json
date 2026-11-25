@@ -527,5 +527,16 @@
       "il-girasole-rosticceria-gastronomia-thiene",
       "vanity-chic-marano-vicentino"
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "summary": "Lead di oggi: 5/5. Tre Scout hanno battuto Chiuppano/Carrè/Zanè (ristorazione, quasi saturo: solo Pizza Flash a Carrè, scartato per recensioni modeste e dati non confermati), Thiene/Piovene R./Santorso/Marano V. (parrucchieri/estetica: 3 candidati alto) e i comuni periferici (botteghe di vicinato: 3 candidati alto). Insieme a 8 riserve verificate 'alto' nei giorni scorsi e mai revisionate, sono bastati 6 giri di revisione Analista (nessun nuovo giro di Scout necessario) per arrivare a 6 OK, da cui ho scelto i 5 più promettenti: Alimentari Dalla Vecchia Paolo (Schio), Macelleria Breccia (Villaverla), Fioreria Arcobaleno (Santorso), B.Look e Camerino 5 (entrambi Thiene). Il più promettente sembra Alimentari Dalla Vecchia Paolo: attività che si descrive di lunga tradizione familiare, punto di riferimento per gli escursionisti del Tretto, telefono e indirizzo confermati da 3 fonti indipendenti concordanti. Scartata invece Estetica Roberta (Piovene Rocchette), comunque validata dall'Analista come OK, perché meno promettente delle altre (telefono mai trovato, un'unica recensione del 2013): resta un'ottima riserva per i prossimi giorni. Nessun lead di oggi ha confidence sotto 'alto'. Pattern confermato: a Chiuppano/Carrè/Zanè la ricerca resta quasi satura su tutti i settori; a Thiene/Piovene Rocchette la combinazione parrucchieri+centri estetica ha dato buoni risultati oggi, da riprovare. Suggerimento pratico: continuare a sfruttare le riserve verificate 'alto' dei giorni scorsi prima di aprire nuovi giri di Scout, per risparmiare tempo senza abbassare la qualità.",
+    "leadIds": [
+      "alimentari-dalla-vecchia-paolo-schio",
+      "macelleria-breccia-villaverla",
+      "fioreria-arcobaleno-santorso",
+      "blook-thiene",
+      "camerino-5-thiene"
+    ]
   }
 ]
