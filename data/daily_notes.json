@@ -538,5 +538,16 @@
       "blook-thiene",
       "camerino-5-thiene"
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "summary": "Lead di oggi: 5/5. Il più promettente è Centro Estetico Babylon (Santorso): oltre 2.200 'mi piace' e 95 check-in su Facebook, con un gancio di vendita perfetto, un vecchio sito (centrobabylon.it) citato in un post del 2018 e oggi scaduto. Giornata segnata da un errore di processo del Direttore: sia Pizzeria Ristorante Vesuvio (Schio, risultato avere un sito Webnode scoperto solo in fase di profilo dopo due revisioni positive) sia Casello 6 (Piovene Rocchette, già bocciato tre volte in passato per settore/zona, controllo storico saltato prima della revisione) sono stati scartati tardi, dopo aver speso lavoro su di loro. Anche nel giro di rinforzo due candidati (Colorarmony e I Milan Parrucchieri, Marano Vicentino) erano già scartati il 24/11: va promossa a regola generale la verifica di OGNI candidato contro la lavagna storica PRIMA della revisione, non solo a campione. Pattern coerente con i dati reali (29 inviati, 26 scartati quasi tutti per 'ha già un sito', 7 risposto_no, 0 risposto_sì su 62 giudicati): nessun lead con confidenza bassa da segnalare oggi, tutti e 5 sono 'alto'.",
+    "leadIds": [
+      "caffe-meridiana-sarcedo",
+      "pizzeria-marechiaro-schio",
+      "estetica-elisa-zane",
+      "r11-caffe-piovene-rocchette",
+      "centro-estetico-babylon-santorso"
+    ]
   }
 ]

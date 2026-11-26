@@ -5265,5 +5265,31 @@
     "manualChannelNote": "Indirizzo e telefono non reperiti online: verificare di persona a Piovene Rocchette prima di contattare. Titolare non noto, usato il 'voi'. Lead di riserva usato in sostituzione di Pizzeria Vesuvio (Schio), scartata in fase avanzata per sito esistente su Webnode.",
     "createdAt": "2026-11-26T06:54:11Z",
     "updatedAt": "2026-11-26T06:54:11Z"
+  },
+  {
+    "id": "centro-estetico-babylon-santorso",
+    "name": "Centro Estetico Babylon (Babylon Estetica Dimagrimento Benessere)",
+    "sector": "Centro estetico (estetica, dimagrimento, benessere)",
+    "comune": "Santorso (VI)",
+    "channel": "Facebook",
+    "contactLabel": "Facebook",
+    "contactValue": "https://www.facebook.com/EsteticaBabylon/",
+    "facebookUrl": "https://www.facebook.com/EsteticaBabylon/",
+    "instagramUrl": "",
+    "phone": "0445 641760",
+    "email": "",
+    "pec": "",
+    "demoUrl": "",
+    "messageFacebook": "Buongiorno, sono Federico, uno studente della zona e realizzo siti web per le attività dell'Alto Vicentino. Scusate il disturbo.\n\nHo dato un'occhiata alla vostra pagina Facebook: 2.226 \"mi piace\" e 95 persone che sono state da voi sono numeri davvero importanti per un centro di Santorso, e si vede che il vostro lavoro unisce estetica, percorsi dimagranti e benessere.\n\nHo anche notato che in un vostro vecchio post si parlava di un sito, centrobabylon.it, ma oggi non è più raggiungibile: chi vi cerca online probabilmente trova solo la pagina Facebook.\n\nPer questo ho preparato un'anteprima di un possibile nuovo sito per il Centro Estetico Babylon, completamente gratuita. Se volete, passo io da voi per 10-15 minuti, nel giorno e all'ora che preferite, per mostrarvela sul portatile. Senza impegno e senza nessun costo: se non vi piace, non cambia nulla.\n\nSe non vi interessa, ditemelo pure e non vi scrivo più. Grazie del tempo!",
+    "messageCall": "Buongiorno, sono Federico, uno studente della zona e realizzo siti web per le attività dell'Alto Vicentino. Scusate il disturbo. Parlo con il Centro Estetico Babylon di Santorso, giusto?\n\nVi chiamo perché ho visto la vostra pagina Facebook, con più di duemiladuecento \"mi piace\" e novantacinque persone che sono state da voi: sono numeri importanti per un centro di Santorso.\n\nHo notato anche che in un vostro vecchio post si parlava di un sito, centrobabylon.it, oggi però non raggiungibile: chi vi cerca online probabilmente trova solo la pagina Facebook.\n\nPer questo ho già preparato un'anteprima di un possibile nuovo sito, completamente gratuita, e vorrei passare 10-15 minuti, quando vi fa comodo, per mostrarvela sul portatile: senza impegno e senza costi.\n\n(Se siete occupati, posso richiamare in un altro momento, quando preferite.)\n\nSe non vi interessa, non vi disturbo più; comunque vi ringrazio per il tempo, buona giornata!",
+    "messageEmail": "",
+    "sources": [
+      "https://www.facebook.com/EsteticaBabylon/"
+    ],
+    "confidence": "alto",
+    "siteCheck": "Scout: dnsprobe 1560 combinazioni, 0 risolti. Analista revisione: dnsprobe indipendente 3320 combinazioni, 0 risolti; scoperto un vecchio post FB del 2018 che citava www.centrobabylon.it, verificato col DNS (nessuna variante risolve) e con WebSearch (zero pagine indicizzate): sito storico scaduto, non attivo. Controllo aggiuntivo in fase profilo: riverificato centrobabylon.it, confermato non raggiungibile. Nessun sito ATTIVO trovato in 3 controlli indipendenti; il vecchio dominio scaduto è usato come gancio di vendita, non come motivo di scarto.",
+    "manualChannelNote": "Titolare non noto, usato il 'voi'. Orari non reperiti online. Nessuna email, PEC o Instagram trovati: unico canale digitale è la pagina Facebook.",
+    "createdAt": "2026-11-26T07:23:11Z",
+    "updatedAt": "2026-11-26T07:23:11Z"
   }
 ]
