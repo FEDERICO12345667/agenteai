@@ -549,5 +549,16 @@
       "r11-caffe-piovene-rocchette",
       "centro-estetico-babylon-santorso"
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "summary": "Lead di oggi: 5/5. Il lead più promettente sembra Salone Mara & Claudia (Malo): quasi vent'anni di attività (dal 2006), un concetto di prodotto chiaro (Philip Martin's, cosmesi naturale) e un dettaglio concreto e genuino dalla recensione di una sposa, in un settore dove un sito vetrina aiuta davvero a farsi scegliere. Pattern confermato dai dati di data/feedback.json: 'ha già un sito' resta il motivo di scarto più frequente (26 su 62 lead valutati dall'utente), e oggi ne abbiamo intercettati 3 prima del contatto (Fioreria al Chiosco Thiene, La Cusineta Breganze, 360° Trecentosessantagradi Malo), due dei quali grazie alla scoperta che la WebSearch in modalità 'extended' trova domini che la modalità 'standard' non mostra. Nessun lead di oggi ha confidence 'basso': tutti 'alto' come richiesto. Il DNS del sandbox è stato instabile quasi tutto il giorno: mai fidarsi di un singolo 'nessun dominio risolve' senza compensare con WebSearch. Suggerimento pratico: continuare a ruotare lontano da Thiene/Schio/Zanè/Santorso (saturi su più settori) verso i comuni periferici ancora poco esplorati su ristorazione/parrucchieri.",
+    "leadIds": [
+      "ombra-calvene",
+      "pasticceria-millevoglie-chiuppano",
+      "abbigliamento-castelli-fabiola-zane",
+      "bianco-thiene",
+      "salone-mara-claudia-malo"
+    ]
   }
 ]
