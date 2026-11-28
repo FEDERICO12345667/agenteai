@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "summary": "Il lead più promettente oggi è Estetica Limbios (Piovene Rocchette): ha una pagina Facebook pubblica attiva con quasi 450 \"mi piace\" e oltre 20 anni di attività con recensioni positive, quindi il contatto è più facile e il pitch si scrive da solo (\"reputazione forte ma invisibile online\"). Comparin Sergio (elettricista, Santorso) e Officina Mendo Mariano (Marano Vicentino) hanno invece solo un telefono fisso come contatto pubblico, senza social né email: pattern che si conferma spesso nei settori B2B/artigianali della zona, mentre i settori a contatto diretto col consumatore finale (estetica, ristorazione) tendono a mantenere almeno i social attivi anche senza sito. Suggerimento pratico: per i lead solo-telefono conviene preparare uno script di chiamata ancora più breve e diretto, dato che una telefonata a freddo offre una sola occasione di attenzione, mentre per i lead con Facebook/email vale la pena scrivere subito e monitorare la cartella \"richieste messaggio\".",
-    "leadIds": [
-      "comparin-sergio-impianti-elettrici-santorso",
-      "officina-meccanica-mendo-mariano-marano-vicentino",
-      "estetica-limbios-piovene-rocchette"
-    ]
-  },
-  {
     "date": "2026-09-23",
     "summary": "Il lead più promettente di oggi è Le Figaro Parrucchieri: contatto diretto via WhatsApp al titolare, storia solida (attivo dal 1992, esperienza come formatore per aziende cosmetiche) e un secondo angolo di vendita pronto (acconciature cerimonia/sposa) se il primo messaggio non converte. Pattern comune ai tre lead: nessuno ha un'email pubblica affidabile, a conferma che per le micro-attività locali il canale realistico resta social o telefono, non l'email 'ideale' indicata come prima scelta. Suggerimento pratico: per Trattoria Ca' Vecchia, essendo il contatto solo su Facebook, conviene scrivere da un profilo/pagina riconoscibile come attività per aumentare la probabilità di risposta. Il lead Termoidraulica Guglielmi ha confidenza MEDIA: il numero di telefono trovato proviene da una fonte aggregata non verificata con certezza e la presenza online dell'attività è quasi nulla, quindi va verificata l'identità a voce prima di qualsiasi tentativo di contatto commerciale.",
     "leadIds": [
@@ -559,6 +550,17 @@
       "abbigliamento-castelli-fabiola-zane",
       "bianco-thiene",
       "salone-mara-claudia-malo"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "summary": "Lead di oggi: 5/5. Il più promettente è Gastronomia Sale e Pepe (Thiene): recensioni solide da più fonti indipendenti (9,0/10 Google su 26, 4,5/5 Cylex su 91, 80/100 Sluurpy su 152) e dettagli concreti dalle recensioni (crespelle, arrosto di vitello, tortelli, baccalà alla vicentina). Pattern notato: il telefono riportato dalle directory generaliste (PagineGialle/Cylex) può essere superato rispetto a fonti più fresche come elenchi di categoria (Confartigianato) o il campo contatti aggiornato della pagina Facebook — corretto per Sale e Pepe (0445 1744574 al posto di 0445 370795) e risolta analogamente una discrepanza minore su Poker Kapei. Nessun lead con confidence \"basso\" oggi: tutti e 5 confermati \"alto\" dopo doppio controllo indipendente (Scout + Analista). Suggerimento pratico: per Macelleria Marangoni (Santorso) e Salone Pel Di Carota (Zanè) il profilo online è più scarno (niente recensioni numeriche o orari certi oltre a Facebook) — prima della visita conviene confermare orari e dettagli a voce. 7 candidati trovati dagli Scout, 1 scartato come duplicato di un lead già esistente (Pasticceria Gelateria Ferrari, Villaverla, già inviato il 26/10), 6 passati tutti la revisione OK: scelti i 5 più promettenti per segnali numerici (recensioni/follower), lasciata come riserva Haidresser di Valentina Franzon (Carrè, parrucchiere, solo 6 recensioni ma identità ben confermata via P.IVA e annunci saugo.it).",
+    "leadIds": [
+      "macelleria-marangoni-santorso",
+      "poker-kapei-marano-vicentino",
+      "gastronomia-sale-e-pepe-thiene",
+      "salone-pel-di-carota-zane",
+      "con-tatto-estetica-zane"
     ]
   }
 ]
